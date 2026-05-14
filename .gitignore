@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Workshop dataset (fetched via scripts/fetch_data.sh, not redistributed)
+data/*.csv
+
