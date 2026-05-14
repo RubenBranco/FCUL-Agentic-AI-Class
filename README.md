@@ -7,8 +7,6 @@ The point isn't the classifier, it's the loop: **plan, prompt, verify, review**.
 ## Contents
 
 - [`WORKSHOP.md`](WORKSHOP.md) — the workshop script: prompts to give the agent, things to push back on, what to watch for.
-- [`baseline.py`](baseline.py) — reference solution for Step 2 (TF-IDF + logistic regression, ~0.83 macro-F1). Useful as a sanity check against whatever the agent produces live.
-- [`overview.html`](overview.html) — example Step 1 deliverable: an agent-generated HTML overview of the repo and dataset.
 - [`scripts/fetch_data.sh`](scripts/fetch_data.sh) — pulls the NLBSE'24 dataset at setup time (see [`data/README.md`](data/README.md) for why it isn't redistributed).
 
 ## Setup
