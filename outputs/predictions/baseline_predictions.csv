@@ -1,0 +1,1501 @@
+repo,created_at,label,title,pred_text_only,correct_text_only,pred_text_plus_repo,correct_text_plus_repo
+facebook/react,2023-08-02 02:26:00,bug,Bug: [18.3.0-canary] renderToString hoists some tags to top(working in 18.2),bug,True,bug,True
+facebook/react,2023-07-17 22:43:05,bug,[DevTools Bug]: Chrome extension gets disconnected from the page after 30sec of inactivity,bug,True,bug,True
+facebook/react,2023-07-13 19:01:47,bug,[DevTools Bug]: Deprecated __REACT_DEVTOOLS_GLOBAL_HOOK__ ????,bug,True,bug,True
+facebook/react,2023-06-07 17:26:43,bug,"[DevTools Bug]: React devtools stuck at Loading React Element Tree, troubleshooting instructions are Chrome-specific",bug,True,bug,True
+facebook/react,2023-05-31 15:17:41,bug,Bug: Radio button onChange not called in current React Canary,bug,True,bug,True
+facebook/react,2023-05-16 18:27:09,bug,[DevTools Bug]: Strict mode badge points to the old docs,bug,True,bug,True
+facebook/react,2023-05-08 16:35:24,bug,[DevTools Bug]: Regression - profiling doesn't store props value ,bug,True,bug,True
+facebook/react,2023-05-06 23:03:50,bug,"[DevTools Bug] Cannot add node ""1751"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2023-05-02 03:53:41,bug,[DevTools Bug]: React pages not being detected as using React in Incognito mode,bug,True,bug,True
+facebook/react,2023-04-24 07:00:55,bug,[DevTools Bug]: components tree not loaded in Microsoft Edge,bug,True,bug,True
+facebook/react,2023-04-07 09:03:43,bug,"[DevTools Bug] Cannot add node ""108084"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2023-04-04 12:09:08,bug,[DevTools Bug]: DevTools settings are not being saved in the Edge browser,bug,True,bug,True
+facebook/react,2023-03-22 18:12:35,bug,[DevTools Bug]: 'Unable to find React on the page' in incognito on Firefox,bug,True,bug,True
+facebook/react,2023-03-14 19:55:26,bug,"[DevTools Bug] Cannot add node ""8891"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2023-03-03 19:05:34,bug,Bug: Error occurs when returning empty fragment '<></>' on a page,bug,True,question,False
+facebook/react,2023-02-23 04:42:56,bug,why not?[DevTools Bug]: ,bug,True,bug,True
+facebook/react,2023-02-10 17:36:03,bug,Unable to establish connection with the sandpack bundler.[DevTools Bug]: ,bug,True,bug,True
+facebook/react,2023-02-03 16:17:32,bug,[DevTools Bug]: React Dev Tools breaks craigslist?,bug,True,bug,True
+facebook/react,2023-01-30 03:38:53,bug,[DevTools Bug]: Expected static flag was missing,bug,True,bug,True
+facebook/react,2023-01-25 11:39:56,bug,"ERROR TypeError: Cannot read property 'createElement' of undefined, js engine: hermes",bug,True,bug,True
+facebook/react,2023-01-19 23:00:02,bug,[DevTools Bug]: This page doesn't appear to be using react,bug,True,bug,True
+facebook/react,2023-01-05 08:46:14,bug,Bug: Suspense | client component should have a queue,bug,True,bug,True
+facebook/react,2022-12-13 11:39:55,bug,[DevTools Bug]: Too Much Recursion - Firefox & Appsync,bug,True,bug,True
+facebook/react,2022-12-11 00:02:00,bug,"[DevTools Bug] Element ""5"" not found",bug,True,bug,True
+facebook/react,2022-12-06 11:31:26,bug,"[DevTools Bug] Element ""65"" not found",bug,True,bug,True
+facebook/react,2022-12-05 15:47:21,bug,"[DevTools Bug] Element ""24"" not found",bug,True,bug,True
+facebook/react,2022-12-05 10:48:01,bug,[DevTools Bug]: Components Tab does not show up,bug,True,bug,True
+facebook/react,2022-12-04 16:36:01,bug,"[DevTools Bug] Element ""35"" not found",bug,True,bug,True
+facebook/react,2022-12-04 06:45:46,bug,"[DevTools Bug] Element ""7"" not found",bug,True,bug,True
+facebook/react,2022-12-02 23:53:37,bug,"[DevTools Bug] Element ""717"" not found",bug,True,bug,True
+facebook/react,2022-12-02 09:38:22,bug,"[DevTools Bug] Element ""34"" not found",bug,True,bug,True
+facebook/react,2022-12-01 15:31:57,bug,"[DevTools Bug] Element ""6"" not found",bug,True,bug,True
+facebook/react,2022-12-01 04:52:51,bug,"[DevTools Bug] Element ""21"" not found",bug,True,bug,True
+facebook/react,2022-11-11 12:15:45,bug,[DevTools Bug]: react-devtools depends on vulnerable version of electron,bug,True,bug,True
+facebook/react,2022-10-17 08:20:47,bug,"[DevTools Bug] Could not find ID for Fiber ""MiddleSectionContainer""",bug,True,bug,True
+facebook/react,2022-10-06 05:33:48,bug,"[DevTools Bug] Cannot add node ""5370"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2022-09-09 22:42:43,bug,[DevTools Bug]: React extension tab in Edge DevTools doesn't have emoji prefix in title.,bug,True,bug,True
+facebook/react,2022-09-05 03:06:52,bug,[DevTools Bug]: DevTools shouldn't skip over keyed Fragments in the tree,bug,True,bug,True
+facebook/react,2022-08-23 10:14:02,bug,Bug: out of order application of useState changes,question,False,question,False
+facebook/react,2022-08-11 13:08:10,bug,"[DevTools Bug] Cannot add node ""7448"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2022-07-27 06:25:25,bug,"[DevTools Bug]: ""open in editor"" not working for vscode remote files",bug,True,bug,True
+facebook/react,2022-07-20 15:32:03,bug,[DevTools Bug]: window.bundle.js:2 TypeError: Cannot read properties of undefined (reading 'action'),bug,True,bug,True
+facebook/react,2022-07-15 06:54:26,bug,"[DevTools Bug] Could not inspect element with id ""69""",bug,True,bug,True
+facebook/react,2022-07-07 17:02:35,bug,"[DevTools Bug] Cannot remove node ""0"" because no matching node was found in the Store.",bug,True,bug,True
+facebook/react,2022-07-05 03:46:47,bug,[DevTools Bug]: Uncaught TypeError: hook.sub is not a function,bug,True,bug,True
+facebook/react,2022-06-29 02:11:00,bug,"[DevTools Bug] Cannot remove node ""25"" because no matching node was found in the Store.",bug,True,bug,True
+facebook/react,2022-06-08 13:57:18,bug,[DevTools Bug]: devtool show every page use `React`,bug,True,bug,True
+facebook/react,2022-06-05 03:26:15,bug,[DevTools Bug]: Warning: Internal React error: Expected static flag was missing. Please notify the React team.,bug,True,bug,True
+facebook/react,2022-05-26 02:08:32,bug,"[DevTools Bug] When inspecting, hook values after `useDeferredValue` are offset",bug,True,bug,True
+facebook/react,2022-05-19 06:17:14,bug,"[DevTools Bug] Cannot add node ""1"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2022-05-12 18:21:01,bug,[DevTools Bug]: Chrome Devtools missing from Chrome extensions Webstore - 404 response,bug,True,bug,True
+facebook/react,2022-05-12 09:55:13,bug,[DevTools Bug]: console.log crashes when I enable DevTools on Chrome,bug,True,bug,True
+facebook/react,2022-05-11 08:52:21,bug,[DevTools Bug]: Component shown twice in flame graph when using React.memo,bug,True,bug,True
+facebook/react,2022-04-28 14:39:31,bug,Bug: setState is not flushed if an iframe is added in the same tick in Safari,bug,True,question,False
+facebook/react,2022-04-25 19:40:15,bug,"[DevTools Bug] Cannot add node ""1"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2022-04-21 14:08:39,bug,[DevTools Bug]: Error in event handler: Error: Attempting to use a disconnected port object,bug,True,bug,True
+facebook/react,2022-04-15 16:28:29,bug,"Bug: Incorrect Hydration Mismatch Detection during Suspense - ""Hydration failed because the initial UI does not match what was rendered on the server.""",feature,False,question,False
+facebook/react,2022-04-12 15:27:31,bug,Bug: Some transition updates haven't been rendered,bug,True,question,False
+facebook/react,2022-04-05 14:21:22,bug,Bug: componentWillUnmount is called twice,bug,True,question,False
+facebook/react,2022-04-04 00:59:24,bug,Bug: `suppressHydrationWarning` is not taken into account in production builds in React 18,bug,True,bug,True
+facebook/react,2022-04-03 15:03:00,bug,"[DevTools Bug] Cannot add child ""2"" to parent ""1"" because parent node was not found in the Store.",bug,True,bug,True
+facebook/react,2022-03-30 15:10:06,bug,"NPM ""version"" export format changed (now includes SHA and date)",bug,True,bug,True
+facebook/react,2022-03-27 21:59:08,bug,[DevTools Bug]: useEffect hook incorrectly labelled as reason for component rendering,bug,True,bug,True
+facebook/react,2022-03-22 06:19:18,bug,"[DevTools Bug] Unsupported Bridge operation ""0""",bug,True,bug,True
+facebook/react,2022-03-14 17:50:04,bug,[DevTools Bug]: Components + Profile tabs not showing up in Chrome 99,bug,True,bug,True
+facebook/react,2022-03-04 20:49:02,bug,renderToReadableStream Passes Reusable Chunks,feature,False,feature,False
+facebook/react,2022-02-17 11:33:33,bug,"[DevTools Bug] Cannot add node ""1"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2022-02-15 20:08:08,bug,[DevTools Bug] Cannot read properties of undefined (reading 'skin'),bug,True,bug,True
+facebook/react,2022-02-12 23:29:52,bug,"[DevTools Bug] Could not find node with id ""18"" in commit tree",bug,True,bug,True
+facebook/react,2022-02-02 10:58:47,bug,"[DevTools Bug] Could not find ID for Fiber ""App""",bug,True,bug,True
+facebook/react,2022-01-20 18:17:36,bug,[DevTools Bug]: Different results in chrome and firefox,bug,True,bug,True
+facebook/react,2022-01-16 14:57:01,bug,[DevTools Bug]: not sure if bug or  not:  devtools marks Youtube as built with react.,bug,True,bug,True
+facebook/react,2022-01-14 23:20:34,bug,"[DevTools]: Confusing ""Why did this render?"" with hooks",bug,True,question,False
+facebook/react,2022-01-12 07:40:24,bug,"[DevTools Bug] Cannot add node ""6194"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2022-01-05 11:49:06,bug,"[DevTools Bug] Cannot add child ""34"" to parent ""33"" because parent node was not found in the Store.",bug,True,bug,True
+facebook/react,2021-12-27 20:33:10,bug,"[DevTools Bug] Cannot add node ""1"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2021-12-21 09:06:07,bug,"[DevTools Bug] Could not find ID for Fiber ""Route""",bug,True,bug,True
+facebook/react,2021-12-16 00:54:41,bug,"[DevTools Bug] Cannot add node ""7184"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2021-12-15 20:20:58,bug,"[DevTools Bug] Could not find ID for Fiber ""App""",bug,True,bug,True
+facebook/react,2021-12-15 04:44:55,bug,Revert changes to react-devtools-inline Webpack config from PR #22760,bug,True,bug,True
+facebook/react,2021-12-15 00:54:52,bug,[react-devtools-inline][4.22.0]: broken published package,bug,True,bug,True
+facebook/react,2021-12-05 23:35:15,bug,"[DevTools Bug] Could not find node with id ""99"" in commit tree",bug,True,bug,True
+facebook/react,2021-11-26 00:52:17,bug,[DevTools Bug]: CDN-based site not working,bug,True,bug,True
+facebook/react,2021-11-21 13:24:29,bug,[DevTools Bug]: Scheduling Profiler Tab Doesn't Show Up In DevTools,bug,True,bug,True
+facebook/react,2021-11-17 10:35:28,bug,React 18 Bug: Hydration mismatch if empty string is rendered,bug,True,bug,True
+facebook/react,2021-11-15 10:16:20,bug,"[DevTools Bug] Cannot add node ""378218"" because a node with that id is already in the Store.",bug,True,bug,True
+facebook/react,2021-11-10 02:20:05,bug,"[DevTools Bug] Cannot add child ""44"" to parent ""42"" because parent node was not found in the Store.",bug,True,bug,True
+facebook/react,2021-11-03 15:37:15,bug,Named hooks parsing fails for certain Code Sandbox examples,question,False,question,False
+facebook/react,2021-10-26 16:59:53,bug,"[DevTools Bug]: ""Reload and start profiling"" button is missing on Microsoft Edge",bug,True,bug,True
+facebook/react,2021-10-21 02:09:18,bug,"[DevTools Bug] Cannot remove node ""264"" because no matching node was found in the Store.",bug,True,bug,True
+facebook/react,2021-10-19 22:09:48,bug,[DevTools Bug]: Loading / parsing hook names is failing on v4.20,bug,True,bug,True
+facebook/react,2021-10-15 20:09:41,bug,[DevTools Bug]: Firefox and Edge show error in console about unrecognized installation on v4.20.0,bug,True,bug,True
+facebook/react,2021-10-14 14:11:25,bug,Standalone Devtools splash page unresponsive after client disconnects ,bug,True,bug,True
+facebook/react,2021-10-02 13:53:08,bug,"[DevTools Bug] Could not inspect element with id ""2"". Error thrown:Cached data for element ""2"" not found",bug,True,bug,True
+facebook/react,2021-09-29 08:43:19,bug,"Bug: setState updater called but not rendered, in Safari, in concurrent mode",question,False,question,False
+facebook/react,2021-09-24 10:11:29,bug,Bug: Components inside typescript namespaces cause ReferenceError,bug,True,question,False
+facebook/react,2021-09-16 05:45:36,bug,"Error: ""Cannot read property 'length' of undefined""",bug,True,question,False
+facebook/react,2021-09-15 19:14:01,bug,[DevTools Bug]: hook resolution throws fetch failure,bug,True,bug,True
+facebook/react,2021-09-10 21:18:32,bug,Bug: Maximum call stack size exceeded (React Devtools),bug,True,question,False
+facebook/react,2021-09-05 12:52:10,bug,"[DevTools] Support providing the number of components above selected or ""depth""",bug,True,bug,True
+facebook/react,2022-05-09 12:37:52,feature,[DevTools] Manifest version 2 is deprecated,bug,False,bug,False
+facebook/react,2020-12-13 19:26:42,feature,Bug: react-devtools not working inside react based chrome extensions,bug,False,question,False
+facebook/react,2020-07-06 10:17:15,feature,Suggestion: show HOC names in profiler,feature,True,feature,True
+facebook/react,2020-06-10 04:45:34,feature,Add https support to standalone DevTools,feature,True,feature,True
+facebook/react,2020-04-22 15:00:02,feature,Improve UX of finding full `key` value,feature,True,feature,True
+facebook/react,2020-04-06 12:08:53,feature,Expose API like `createStyles` for converting style object to CSS string,feature,True,feature,True
+facebook/react,2020-01-29 21:21:56,feature,Profiler should highlight host components (e.g. DOM elements) on mouseover,feature,True,feature,True
+facebook/react,2019-11-07 01:41:48,feature,Adding visible state to Suspense Fallback component to enhance CSS transitions.,feature,True,feature,True
+facebook/react,2019-10-10 05:08:30,feature,Make it easier to debug (undefined components) in production,feature,True,feature,True
+facebook/react,2019-10-08 07:34:07,feature,"Add ""search"" functionality to Profiler graphs",feature,True,feature,True
+facebook/react,2019-09-27 12:02:35,feature,react-devtools: tiny feature request (copy to clipboard related),feature,True,feature,True
+facebook/react,2019-08-22 16:46:40,feature,Devtools: Impossible to debug firefox webextension moz-extension: pages due to strict CSP,feature,True,feature,True
+facebook/react,2019-08-22 12:29:14,feature,DevTools: Ability to save inspected values as global variable (as it was in previous version),feature,True,feature,True
+facebook/react,2019-08-16 20:16:56,feature,New React Developer Tools does not clearly indicate empty object or array,feature,True,feature,True
+facebook/react,2019-08-16 15:42:33,feature,New React DevTools can't access immutable.js objects?,feature,True,feature,True
+facebook/react,2019-05-29 17:56:31,feature,DevTools in production environment ,feature,True,feature,True
+facebook/react,2019-04-18 09:59:04,feature,act() should warn in testing frameworks besides jest ,feature,True,feature,True
+facebook/react,2019-04-09 15:36:48,feature,allow to disable style hydration missmatch warning,feature,True,feature,True
+facebook/react,2019-04-01 04:57:23,feature,useRef eslint rule proposal,feature,True,question,False
+facebook/react,2019-03-27 02:29:09,feature,Hook equivalent for `getSnapshotBeforeUpdate`,feature,True,feature,True
+facebook/react,2019-03-21 04:21:58,feature,[eslint-plugin-react-hooks] Add option to require functions from core hooks in dependencies,feature,True,feature,True
+facebook/react,2019-03-11 02:26:13,feature,eslint-react-hooks: should we enforce to use React.useMemo if there is no state hooks?,question,False,question,False
+facebook/react,2019-02-25 22:20:17,feature,Collapse forwardRef and other wrappers in React error stacks,feature,True,feature,True
+facebook/react,2019-02-09 08:44:57,feature,Shallow renderer does not support React.memo,feature,True,feature,True
+facebook/react,2019-02-03 02:57:23,feature,Simultaneous key events in effect handled out of order,feature,True,question,False
+facebook/react,2019-01-30 10:43:37,feature,Allow the same DOM node to use both a callback and a RefObject in its ref prop,feature,True,feature,True
+facebook/react,2019-01-05 22:14:39,feature,React.Suspense provide a lifecycle so components can handle the `display:none` removal,feature,True,feature,True
+facebook/react,2018-12-15 20:58:16,feature,[Hooks] Proposal: expose info about current component for custom hooks,feature,True,feature,True
+facebook/react,2018-12-03 01:04:57,feature,[Scheduler] Add support for delayed scheduling of callbacks.,feature,True,feature,True
+facebook/react,2018-11-20 13:47:08,feature,Provide a way to pass context to renderToStaticMarkup on the client,feature,True,feature,True
+facebook/react,2018-11-16 18:02:00,feature,React.lazy does not allow retrying a rejected promise,feature,True,feature,True
+facebook/react,2018-11-13 17:57:45,feature,setState/dispatch 2nd arg callback or emitEffect() use case,feature,True,feature,True
+facebook/react,2018-11-02 08:27:15,feature,<option> and <textarea> elements should be able to contain Components that return strings and render their output correctly,feature,True,feature,True
+facebook/react,2018-10-26 03:24:35,feature,"More helpful interaction for ""React does not recognize the 'propName' prop on a DOM Element""",feature,True,feature,True
+facebook/react,2018-10-11 13:14:18,feature,Support for classList,feature,True,feature,True
+facebook/react,2018-09-21 01:39:46,feature,Accessing ReactDebugCurrentFrame without using __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,feature,True,feature,True
+facebook/react,2018-09-03 16:20:27,feature,Make possible to get component stack or at least its hash,feature,True,feature,True
+facebook/react,2018-08-16 01:41:06,feature,KeyboardEvent.repeat is not normalized,feature,True,feature,True
+facebook/react,2018-08-13 12:34:23,feature,React.cloneElement cannot remove existing props,feature,True,feature,True
+facebook/react,2018-07-30 03:24:48,feature,Setting rendering mode to <Surface> component of react-art,feature,True,feature,True
+facebook/react,2018-06-21 12:57:54,feature,Some means of determining component order in hierarchy,feature,True,feature,True
+facebook/react,2018-05-31 14:31:19,feature,Allow `ref` attribute on custom elements,feature,True,feature,True
+facebook/react,2018-05-22 17:47:53,feature,ReactIs.typeOf for non-elements,feature,True,feature,True
+facebook/react,2018-05-16 03:52:24,feature,Callback in react-test-renderer for component changes,feature,True,feature,True
+facebook/react,2018-05-07 05:18:39,feature,Expose a way of creating a ReactTestInstance for React DOM nodes,feature,True,feature,True
+facebook/react,2018-04-25 11:23:02,feature,Show culprit in `Cannot update during an existing state transition...` ?,feature,True,feature,True
+facebook/react,2018-04-15 23:54:01,feature,Support partial hydration for static content,feature,True,feature,True
+facebook/react,2018-03-30 22:23:24,feature,Uncaught Error: Unexpected object passed to ReactTestInstance constructor (tag: 13). This is probably a bug in React.,question,False,question,False
+facebook/react,2018-03-29 08:35:33,feature,[SVG] Enable focusable to accept boolean values,feature,True,feature,True
+facebook/react,2018-03-26 05:23:57,feature,Elements loose focus when moving to or from a portal,feature,True,feature,True
+facebook/react,2018-02-28 16:13:56,feature,Expose the `onSelect` event for any focusable element?,feature,True,feature,True
+facebook/react,2018-02-19 09:59:43,feature,Support for changing a Portal's container without remounting children?,feature,True,feature,True
+facebook/react,2018-02-15 23:59:23,feature,Context Transform,feature,True,feature,True
+facebook/react,2018-02-09 03:30:16,feature,[FEATURE] implement a `getState` method to get the sync state since `setState` is async.,feature,True,feature,True
+facebook/react,2018-01-23 23:51:58,feature,Feature request: middleware,feature,True,feature,True
+facebook/react,2018-01-18 08:02:52,feature,Add React.isFragment api for verifying Fragment,feature,True,feature,True
+facebook/react,2018-01-12 10:23:26,feature,React.Children.toArray and React.cloneElement do not work with portal elements,feature,True,feature,True
+facebook/react,2018-01-08 02:13:55,feature,Lifecycle methods for ReactDOM.hydrate,feature,True,feature,True
+facebook/react,2017-12-20 04:38:28,feature,Include component props into the stack from componentDidCatch(),question,False,question,False
+facebook/react,2017-12-08 19:45:41,feature,Enable synchronously toggling experimental addUserTimingListener,feature,True,feature,True
+facebook/react,2017-12-05 02:11:42,feature,smarter autoFocus,question,False,question,False
+facebook/react,2017-11-17 16:51:33,feature,Add a <ReactDOM.Portal /> element,feature,True,feature,True
+facebook/react,2017-11-13 03:54:44,feature,Make React resilient to DOM mutations from Google Translate,feature,True,feature,True
+facebook/react,2017-10-23 15:35:57,feature,Support onEnd SVG event,question,False,question,False
+facebook/react,2017-10-22 12:09:58,feature,HTML5 Templates apart from JSX for Non Programmatic situations,feature,True,feature,True
+facebook/react,2017-10-17 23:57:26,feature,New way to bind event handler function,question,False,question,False
+facebook/react,2017-10-11 05:22:33,feature,Need a hook for hydration mismatch,feature,True,feature,True
+facebook/react,2017-10-09 18:45:57,feature,Support srcObject attribute for video element,feature,True,feature,True
+facebook/react,2017-10-01 18:51:32,feature,Warn about unexpected HTML inside SVG,question,False,question,False
+facebook/react,2017-09-27 22:08:12,feature,Feature Request: Global didUpdate(),feature,True,feature,True
+facebook/react,2017-09-27 05:07:15,feature,React 16 does not lowercase HTML attributes in generated HTML,feature,True,feature,True
+facebook/react,2017-09-14 12:57:40,feature,Support for string targets for isomorphic createPortal,feature,True,feature,True
+facebook/react,2017-09-01 01:49:25,feature,"Make on/off, yes/no boolean attributes work",feature,True,feature,True
+facebook/react,2017-08-31 02:48:27,feature,Implement Silent Updates in the State Update Queue,feature,True,feature,True
+facebook/react,2017-08-01 06:44:46,feature,More permissive rehydration logic,feature,True,feature,True
+facebook/react,2017-07-03 17:35:57,feature,Add default property for ES2015 modules,feature,True,feature,True
+facebook/react,2017-06-29 09:26:15,feature,Feature request: Warnings hook,feature,True,feature,True
+facebook/react,2017-06-27 06:44:09,feature,Include canary tests of community packages as part of the release process,feature,True,feature,True
+facebook/react,2017-06-16 20:15:20,feature,Set initial state to undefined,feature,True,feature,True
+facebook/react,2017-05-31 07:36:59,feature,Children forEach filters functions,question,False,question,False
+facebook/react,2017-04-29 15:14:59,feature,Warn when PureComponent renders impure ones as its children,feature,True,feature,True
+facebook/react,2017-04-21 18:27:56,feature,Feature Request: dangerouslySetInnerHTML as a return value,feature,True,feature,True
+facebook/react,2017-03-10 20:04:07,feature,"Serializing to ""HTML with only as much JS as necessary""",feature,True,feature,True
+facebook/react,2017-01-15 17:26:32,feature,Expose more through __REACT_DEVTOOLS_GLOBAL_HOOK__.inject,feature,True,feature,True
+facebook/react,2016-12-08 07:12:28,feature,Feature Request: Support auxclick event (onAuxClick),feature,True,feature,True
+facebook/react,2016-09-13 21:12:40,feature,Skip comparing known constant props during reconciliation,feature,True,feature,True
+facebook/react,2016-08-24 11:29:59,feature,Support Symbol keys for props,feature,True,feature,True
+facebook/react,2016-07-19 01:08:47,feature,Highlight element that failed checksum,feature,True,feature,True
+facebook/react,2016-07-07 12:03:57,feature,"Having this.state in the constructor and this.setState everywhere else is violating the ""Uniform access principle""",feature,True,feature,True
+facebook/react,2016-06-26 02:51:13,feature,Polyfill MouseEvent.buttons for Safari,question,False,question,False
+facebook/react,2016-06-20 20:46:42,feature,Warn for string refs where owner != __self,feature,True,question,False
+facebook/react,2016-06-06 16:34:24,feature,RFC: Make Refs Opt-in,feature,True,feature,True
+facebook/react,2016-05-12 14:04:17,feature,ReactPerf 15.1.0-alpha.1 expose isProfiling on the exported object?,feature,True,question,False
+facebook/react,2016-05-07 20:53:16,feature,support for event.movementX/Y [feature-request],feature,True,feature,True
+facebook/react,2016-04-27 02:17:42,feature,Introduce __PROFILE__ build,feature,True,feature,True
+facebook/react,2016-04-22 19:20:50,feature,Proposal: Replace NODE_ENV with REACT_ENV for __DEV__ replacement,feature,True,feature,True
+facebook/react,2016-04-11 09:22:06,feature,Support for asynchronous values (like Promises and Observables),feature,True,feature,True
+facebook/react,2016-04-06 15:18:13,feature,componentDidUnmount functionality (in addition to componentWillUnmount),feature,True,feature,True
+facebook/react,2016-04-05 04:54:27,feature,onFocusIn/onFocusOut events,feature,True,feature,True
+facebook/react,2016-03-12 18:55:40,feature,Feature Request: innerHTML alternative,feature,True,feature,True
+facebook/react,2022-03-24 09:40:53,question,Bug: infinite function component rendering with lazy loading,bug,False,bug,False
+facebook/react,2022-02-16 06:20:48,question,Question on reconciliation,question,True,question,True
+facebook/react,2021-07-12 13:59:15,question,React 18 : useState 'sharing' state value between components of the same type,question,True,question,True
+facebook/react,2021-06-04 20:51:28,question,Bug: setState run twice  with own hooks,question,True,question,True
+facebook/react,2021-04-30 20:54:22,question,Bug: useEffect happens synchronously when useLayoutEffect was called,bug,False,question,True
+facebook/react,2021-03-31 16:09:52,question,State not getting updated properly while using useReducer with Context API,question,True,question,True
+facebook/react,2021-03-05 14:25:14,question,Bug: Inconsistent behavior between development and production builds,bug,False,question,True
+facebook/react,2021-03-02 10:42:18,question,Bug: 17.0.1 npm packages were not built from 17.0.1 source code?,bug,False,question,True
+facebook/react,2021-02-18 16:23:13,question,Mixin rewrite with React and Higher-order-functions,question,True,question,True
+facebook/react,2020-12-29 17:35:10,question,Can I help?,feature,False,feature,False
+facebook/react,2020-09-18 04:46:12,question,React build files contain the version of react being used,question,True,question,True
+facebook/react,2020-08-05 15:35:17,question,Suggestion: Add release date in the experimental (0.0.0) version,feature,False,question,True
+facebook/react,2020-08-03 13:15:54,question,Bug: can't inspect well react warnings for `componentWillReceiveProps has been renamed`,question,True,question,True
+facebook/react,2020-07-09 15:48:17,question,Which approach is better for getting data from state ?,question,True,question,True
+facebook/react,2020-07-07 08:00:30,question,"When waiting for an async action to end, and in the meantime the state changes, there is no way to know about the change",question,True,question,True
+facebook/react,2020-06-02 09:26:57,question,Bug: React Function getting called for no Reason,bug,False,question,True
+facebook/react,2020-05-27 05:01:13,question,"Click event and setTimeout update state, different times of rendering",question,True,question,True
+facebook/react,2020-04-21 21:57:06,question,Bug: function component cannot have ref property,question,True,question,True
+facebook/react,2020-04-02 07:42:30,question,"{[styles.box, {           transform: [{ scale:this.state.scaleNum}]      }]}>当这样给scale赋值时，初始化生效，但是在一个事件中改变scaleNum的值，scaleNum的值改变了，页面貌似没有重新渲染？",question,True,question,True
+facebook/react,2020-02-17 13:33:08,question,Question: It's not problem just question in my mind,question,True,question,True
+facebook/react,2020-02-13 11:57:53,question,"Question: How to use ""useRef"" when it is passed through Portal?",question,True,question,True
+facebook/react,2020-02-06 12:06:08,question,Question: can I lie to useEffect about its dependencies in this case?,feature,False,feature,False
+facebook/react,2020-02-03 14:42:12,question,Question: Can useMemo be used instead of useRef?,feature,False,question,True
+facebook/react,2020-02-03 13:54:42,question,Bug: react-devtools profiler doesn't show props,question,True,question,True
+facebook/react,2020-01-26 12:30:09,question,Question: Can the useContext hook be used without a provider?,question,True,question,True
+facebook/react,2020-01-17 12:17:34,question,Question: I have a lot of very nice and smart vuejs components. is there a way to use it in an react project? ,feature,False,feature,False
+facebook/react,2020-01-16 10:02:14,question,Bug: useRef can not return a persist ref object,bug,False,bug,False
+facebook/react,2020-01-15 00:31:27,question,the worst arabic translation ,feature,False,question,True
+facebook/react,2020-01-09 13:19:55,question,"In React and react-dom 16 Upgrade, getting error: Uncaught TypeError: Cannot read property 'input' of undefined",question,True,question,True
+facebook/react,2020-01-01 22:36:31,question,My Navbar work fine until next day,question,True,question,True
+facebook/react,2019-12-27 09:06:55,question,Function passed as parameter and saved in Context API store takes old store from Context API,question,True,question,True
+facebook/react,2019-12-25 02:09:17,question,How can i change react umd version  in node_modules? ,question,True,question,True
+facebook/react,2019-12-23 17:38:13,question,Opinions on Ionic Reac,question,True,question,True
+facebook/react,2019-12-20 03:11:53,question,Unexpected function component call using useState,feature,False,feature,False
+facebook/react,2019-12-02 06:48:29,question,question about this.state and this.setState,question,True,question,True
+facebook/react,2019-11-25 23:35:19,question,Why useEffect's default behavior is to run on every render?,question,True,question,True
+facebook/react,2019-11-04 15:21:26,question,Static rendering strategy doesn't work on codesplitted routes,question,True,question,True
+facebook/react,2019-10-31 20:13:50,question,Missing React tab in chrome dev tools,feature,False,feature,False
+facebook/react,2019-10-29 23:51:32,question,"""DevTools v4 is incompatible with this version of React"" with React Native & latest version of React",question,True,question,True
+facebook/react,2019-10-28 07:31:07,question,"""de-opting to synchronous mode"" in use-subscription README",feature,False,feature,False
+facebook/react,2019-10-14 19:57:20,question,Can't get the profiler screenshot feature working in the React DevTools,feature,False,question,True
+facebook/react,2019-10-08 08:07:27,question,Components not correctly displayed,question,True,question,True
+facebook/react,2019-09-19 08:14:31,question,Plans for handling `hidden` differently,feature,False,feature,False
+facebook/react,2019-09-12 14:45:25,question,Add third parameter to useState to get current value,feature,False,feature,False
+facebook/react,2019-09-05 21:54:48,question,React DevTools downgrade not working for Chrome.,feature,False,feature,False
+facebook/react,2019-09-03 21:37:55,question,"[Dev Tools] Chrome component console errors get output from ""backend.js""",feature,False,question,True
+facebook/react,2019-09-02 18:49:15,question,Inline setTimeout within the render causes a random number to appear on screen.,question,True,question,True
+facebook/react,2019-08-31 14:31:51,question,Can't use instance values without refs,question,True,question,True
+facebook/react,2019-08-28 23:30:26,question,How should we set up apps for HMR now that Fast Refresh replaces react-hot-loader?,feature,False,feature,False
+facebook/react,2019-08-21 02:20:13,question,hook component can not been clicked in react-dev-tool if you want it works well.,question,True,question,True
+facebook/react,2019-08-16 09:53:28,question,is that possible to get legacy version of react debugger?,feature,False,question,True
+facebook/react,2019-05-12 09:19:13,question,Infinite lint error of react-hooks/exhaustive-deps,question,True,question,True
+facebook/react,2019-04-30 14:36:46,question,Understanding `act` behaviour,question,True,question,True
+facebook/react,2019-04-27 04:30:20,question,License for Source Code Examples & Tutorials on https://reactjs.org,feature,False,feature,False
+facebook/react,2019-04-25 13:52:38,question,"[eslint-plugin-react-hooks]: bug React Hook ""XXX"" is called in function ""children""",question,True,question,True
+facebook/react,2019-04-24 09:57:42,question,why useffect  run  return( )  at  frist,question,True,question,True
+facebook/react,2019-04-12 20:01:40,question,Using app shell architecture throws Warning: Expected server HTML to contain a matching <div> in <div>.,bug,False,question,True
+facebook/react,2019-04-10 12:31:13,question,TestUtils.renderIntoDocument returns `null` when valid functional component passed.,question,True,question,True
+facebook/react,2019-04-05 04:53:16,question,react hooks: a few inconveniences,question,True,question,True
+facebook/react,2019-04-03 15:26:05,question,Hook for forwardRef,feature,False,feature,False
+facebook/react,2019-04-01 10:09:51,question,useEffect firing in children before parent,feature,False,feature,False
+facebook/react,2019-03-20 09:00:18,question,is passing a ref to useMemo considered cheating?,feature,False,question,True
+facebook/react,2019-03-16 00:53:35,question,useRef only updates with a useState together,question,True,question,True
+facebook/react,2019-03-06 19:51:42,question,React Hooks useState updating an array,question,True,question,True
+facebook/react,2019-03-04 23:37:21,question,exhaustive-deps support for dynamic array,feature,False,question,True
+facebook/react,2019-02-20 14:22:20,question,Why moving item to another array fire re-rendering for itself (the item)?,question,True,question,True
+facebook/react,2019-02-15 01:07:34,question,`react-dom/server.renderStaticMarkup()` returns empty string server-side,feature,False,feature,False
+facebook/react,2019-02-08 16:06:16,question,Module mock yields unexpected act() error,question,True,question,True
+facebook/react,2019-02-06 20:18:31,question,react-cache alphas don't work with 16.8+,question,True,question,True
+facebook/react,2019-02-06 17:21:12,question,Warning for `act` even when code is wrapped inside it,feature,False,feature,False
+facebook/react,2019-01-26 20:39:04,question,hooks: useContext with useState not updating,question,True,question,True
+facebook/react,2019-01-18 15:23:59,question,componentDidMount inside a class causing a memory leak,question,True,question,True
+facebook/react,2019-01-15 18:04:28,question,What’s the difference between fiber reconciler sync mode and the old react 15 stack reconciler? Why does performance boosts so much?,question,True,question,True
+facebook/react,2018-12-26 03:12:15,question,"warn:It looks like Index is reassigning its own `this.props` while rendering,This is not supported and can lead to confusing bugs.",feature,False,question,True
+facebook/react,2018-12-19 10:24:12,question,Q: When should you NOT use React memo?,question,True,question,True
+facebook/react,2018-11-25 03:26:14,question,请问不做任何处理，react可以兼容到IE多少,feature,False,feature,False
+facebook/react,2018-11-09 15:39:59,question,SetStateAction returned from useState hook dose not accept a second callback argument,question,True,question,True
+facebook/react,2018-10-04 12:49:54,question,Limitations of React.createContext,feature,False,feature,False
+facebook/react,2018-09-14 05:34:29,question,[feature request] Add DOM to life cycle hooks.,feature,False,feature,False
+facebook/react,2018-09-05 16:45:39,question,Why we need both isBatchingUpdates and isUnbatchingUpdates?,feature,False,feature,False
+facebook/react,2018-08-26 20:59:00,question,Consider keeping legacy context API for non-state usages,feature,False,feature,False
+facebook/react,2018-08-26 13:10:45,question,react-test-renderer: is possible to test lifecycle functions?,feature,False,feature,False
+facebook/react,2018-08-21 15:57:33,question,Component.prototype.setState() callback is not receiving any arguments,feature,False,feature,False
+facebook/react,2018-08-20 17:15:57,question,tools for end-to-end testing,question,True,question,True
+facebook/react,2018-07-10 17:44:50,question,What is meant within the README of `create-subscription` by async limitations? Can it be clarified?,feature,False,feature,False
+facebook/react,2018-05-29 09:22:53,question,Keep using legacy Context API - or how to achieve this with new API,feature,False,feature,False
+facebook/react,2018-05-26 10:48:47,question,"Questions regarding ""props.children""",feature,False,feature,False
+facebook/react,2018-05-02 18:03:56,question,Why are the Consumer and Provider properties of Consumer?,feature,False,feature,False
+facebook/react,2018-04-25 17:30:19,question,Cloning the child of a context Consumer produces confusing warning and error,feature,False,feature,False
+facebook/react,2018-04-08 00:00:41,question,ReactJS Logo License,question,True,question,True
+facebook/react,2018-03-16 20:31:44,question,Keep the children mounted but replace the parent,question,True,question,True
+facebook/react,2018-03-05 11:42:08,question,Capturing events trigger after vanilla bubbling events,feature,False,feature,False
+facebook/react,2018-02-06 17:06:28,question,Why can't we use both prevstate (function) + callback as parameters in setState()?,question,True,question,True
+facebook/react,2018-02-05 05:00:31,question,react-test-renderer: Asynchronous rendering guarantees?,feature,False,feature,False
+facebook/react,2018-01-29 13:25:26,question,Document the use of setState in componentWillUnmount,feature,False,feature,False
+facebook/react,2018-01-26 10:15:55,question,Access Component from child's instance?,feature,False,feature,False
+facebook/react,2018-01-10 23:43:56,question,Getting minification warnings even with DefinePlugin and UglifyJSPlugin,question,True,question,True
+facebook/react,2017-11-24 19:37:18,question,Question from react reconciliation,question,True,question,True
+facebook/react,2017-11-22 15:44:24,question,Question: What is your workflow to release a new version,feature,False,question,True
+facebook/react,2017-10-19 23:23:52,question,React spread operator is still in the official documentation,feature,False,feature,False
+tensorflow/tensorflow,2023-09-05 05:58:09,question,TensorFlow Lite in Play Services issue aguinigacervantesjerardo@gmail.com not my devices are the login in just this phone device that are not this one  getting them out of my server please send them a little massage to buy there phone and don't use my phone number and my email at all,question,True,question,True
+tensorflow/tensorflow,2023-09-02 18:05:04,question,What is generate_vocab func? ,feature,False,feature,False
+tensorflow/tensorflow,2023-08-24 19:52:10,question,Error starting Tensorflow in Python,bug,False,bug,False
+tensorflow/tensorflow,2023-08-11 18:32:31,question,TensorFlow profiler running into OOM issue on GPU,question,True,question,True
+tensorflow/tensorflow,2023-08-10 04:03:47,question,TensorFlow profiler running into OOM issue on GPU,question,True,question,True
+tensorflow/tensorflow,2023-08-02 16:59:57,question,What is the reason sanitizer configs are regarded as outdated? ,question,True,question,True
+tensorflow/tensorflow,2023-07-28 02:32:12,question,Tflite: C++ API format to add NNAPI delegate,question,True,question,True
+tensorflow/tensorflow,2023-07-22 11:56:03,question,Need Help with TensorFlow Lite Model Running on GPU - Output Interpretation Issue (Android Studio Kotlin),question,True,question,True
+tensorflow/tensorflow,2023-07-19 09:54:26,question,"How can I profile ""Inference"" by Profiler, and view performance profile by tensorboard",question,True,question,True
+tensorflow/tensorflow,2023-07-14 21:48:59,question,AttributeError: module 'tensorflow.saved_model' has no attribute 'builder',bug,False,bug,False
+tensorflow/tensorflow,2023-07-11 07:13:54,question,Can the resnet model written in the tf_slim library call the MirroredStrategy strategy to achieve data parallel training?,question,True,question,True
+tensorflow/tensorflow,2023-07-09 17:05:54,question,TensorFlow GPU,question,True,question,True
+tensorflow/tensorflow,2023-07-06 11:34:54,question,Building TFLite for WASM using Bazel,question,True,question,True
+tensorflow/tensorflow,2023-07-05 14:46:46,question,Tensorflow detects GPU but uses only CPU,question,True,question,True
+tensorflow/tensorflow,2023-06-28 12:04:32,question,Gradient Error (No gradient defined for operation 'bilateral_layer_1/Lu_10' (op type : Lu)) in CRFLayer,question,True,question,True
+tensorflow/tensorflow,2023-06-16 12:50:34,question,"Flutter - ""Select Tensorflow Ops"" not working",question,True,question,True
+tensorflow/tensorflow,2023-06-14 00:23:01,question,Ensuring SavedModel is in inference mode,question,True,question,True
+tensorflow/tensorflow,2023-06-12 17:34:44,question,"java.lang.IllegalStateException: Internal error: Unexpected failure when preparing tensor allocations: tensorflow/lite/kernels/pad.cc:79 SizeOfDimension(op_context->paddings, 0) != op_context->dims (4 != 1) Node number 0 (PAD) failed to prepare.",question,True,question,True
+tensorflow/tensorflow,2023-06-07 06:13:41,question,"RESHAPE: OP is supported, but tensor type/shape isn't compatible",question,True,question,True
+tensorflow/tensorflow,2023-06-05 05:29:18,question,"Error: Tensorflow lite c++ library, libtensorflowlite.so : Linking Error when compiling ( Undefined Reference )",question,True,question,True
+tensorflow/tensorflow,2023-05-28 10:03:54,question,Empty logs during model.fit(),bug,False,question,True
+tensorflow/tensorflow,2023-05-24 07:11:34,question,Why does toco convert tf.squeeze to reshape operator?,question,True,question,True
+tensorflow/tensorflow,2023-05-23 21:39:58,question,Migrating T2T fork to TF2.7.4,question,True,question,True
+tensorflow/tensorflow,2023-05-19 19:10:56,question,SavedModel: enable dropout & disable batch normalization,question,True,question,True
+tensorflow/tensorflow,2023-05-14 12:14:57,question,tf.config.list_physical_devices('CPU'),bug,False,bug,False
+tensorflow/tensorflow,2023-05-12 10:16:23,question,BrokenPipeError: [Errno 32] Broken pipe,question,True,question,True
+tensorflow/tensorflow,2023-05-10 11:46:30,question,"How to load a model locally, while the model is saved in distributed training remote machines (number of PS(parameter server)>1)?",question,True,question,True
+tensorflow/tensorflow,2023-05-09 13:35:06,question,TfLite.initialize failure - android.os.RemoteException: Error loading TFLite GPU delegate module Caused by: lh: No acceptable module com.google.android.gms.tflite_gpu_dynamite found. Local version is 0 and remote version is 0.,question,True,question,True
+tensorflow/tensorflow,2023-05-07 17:48:03,question,skin cancer detection,question,True,question,True
+tensorflow/tensorflow,2023-05-05 01:43:12,question,Is DTensor compatible with Horovod,question,True,question,True
+tensorflow/tensorflow,2023-04-30 19:42:47,question,How to download outdated versions of Tensorflow in Google Colab?,question,True,question,True
+tensorflow/tensorflow,2023-04-22 13:16:36,question,I am noticing lower validation accuracy on my dataset between Tensorflow 2.4 and Tensorflow 2.9,question,True,question,True
+tensorflow/tensorflow,2023-04-19 09:14:34,question,Internal error: Unexpected failure when preparing tensor allocations: tensorflow/lite/kernels/conv.cc:343 input->dims->size != 4 (3 != 4),question,True,question,True
+tensorflow/tensorflow,2023-04-18 05:51:45,question,"RuntimeError: Given shapes, [1,784] and [784,100], are not broadcastable.Node number 1 (MUL) failed to prepare.",question,True,question,True
+tensorflow/tensorflow,2023-04-15 01:28:54,question,AttributeError: module 'tensorflow' has no attribute '__version__',bug,False,bug,False
+tensorflow/tensorflow,2023-04-14 02:06:39,question,protobuf have a problem,question,True,question,True
+tensorflow/tensorflow,2023-04-03 23:09:21,question,api for model parallelism,question,True,question,True
+tensorflow/tensorflow,2023-04-02 21:04:57,question,Writing custom ReduceOp,feature,False,feature,False
+tensorflow/tensorflow,2023-03-30 11:08:35,question,TF2 keras model.fit() VS model.evaluate print different loss and AUC,question,True,question,True
+tensorflow/tensorflow,2023-03-30 06:33:53,question,Are there plans to release TF 2.9.4 to address CVEs?,question,True,question,True
+tensorflow/tensorflow,2023-03-29 14:35:28,question,How to solve the backpropagation problem of tf.signal.rfft?,question,True,question,True
+tensorflow/tensorflow,2023-03-28 19:51:01,question,Correct way to implement RNN if looping over tensor is yet not allowed,question,True,question,True
+tensorflow/tensorflow,2023-03-28 17:40:33,question,Cannot install tensorflow modules use pip,question,True,question,True
+tensorflow/tensorflow,2023-03-26 13:55:00,question,How can I achive the hilbert transform by using tensorflow?,question,True,question,True
+tensorflow/tensorflow,2023-03-23 20:34:46,question,[JAX] The use of jax.Array.at fails experimental_from_jax,question,True,question,True
+tensorflow/tensorflow,2023-03-22 10:23:59,question,How to save average weights of checkpoints using Tensorflow 2.X?,question,True,question,True
+tensorflow/tensorflow,2023-03-17 10:43:59,question, About Android calling TensorFlow Lite crash problem,question,True,question,True
+tensorflow/tensorflow,2023-03-16 21:46:24,question,Saving Custom Model Not Working,question,True,question,True
+tensorflow/tensorflow,2023-03-14 13:16:00,question,Using Teachable Machine to make a Audio model for Python,question,True,question,True
+tensorflow/tensorflow,2023-03-14 03:10:18,question,"Example android app show ""GPU is not supportted"".",question,True,question,True
+tensorflow/tensorflow,2023-03-05 08:33:57,question,Getting error when calculating entropy for each images in the batch in the input tensor in a custom layer in tensorflow/Keras.,question,True,question,True
+tensorflow/tensorflow,2023-02-28 23:22:38,question,Numpy to tensor,question,True,question,True
+tensorflow/tensorflow,2023-02-26 16:44:57,question,Recognize Flowers with TensorFlow Lite on Android Codelabs - step 4 error,question,True,question,True
+tensorflow/tensorflow,2023-02-25 07:38:38,question,unable to use my classifiers.tflite and label.txt. Please help,question,True,question,True
+tensorflow/tensorflow,2023-02-24 06:56:58,question,Test issue no need to take any action.,question,True,question,True
+tensorflow/tensorflow,2023-02-22 05:30:38,question,ideal development mode discussion,question,True,question,True
+tensorflow/tensorflow,2023-02-21 02:58:36,question,can't install throught `pip install -q git+https://github.com/tensorflow/docs`,question,True,question,True
+tensorflow/tensorflow,2023-02-20 02:37:05,question,Cropping1D cann't support negatitve integer parameter,question,True,question,True
+tensorflow/tensorflow,2023-02-12 02:56:29,question,Tf 2.11 Optimizers. Does anyone have any custom optimizer for the new version?,question,True,question,True
+tensorflow/tensorflow,2023-02-09 08:41:26,question,Control Flow Ops with external delegate NPU,question,True,question,True
+tensorflow/tensorflow,2023-02-03 09:45:49,question,Fails to convert SplitV with quantization,question,True,question,True
+tensorflow/tensorflow,2023-02-02 00:30:03,question,TF to TFLite conversion of model gives error op is neither a custom op nor a flex op,question,True,question,True
+tensorflow/tensorflow,2023-01-30 14:59:14,question,CVE-2022-41883 for 2.9.3,feature,False,feature,False
+tensorflow/tensorflow,2023-01-27 12:48:19,question,Extending tf.Tensor class,question,True,question,True
+tensorflow/tensorflow,2023-01-25 22:38:38,question,question about using tensorArray to do backpropagation,question,True,question,True
+tensorflow/tensorflow,2023-01-24 11:54:25,question,How to infer  pose classification on single image?,feature,False,feature,False
+tensorflow/tensorflow,2023-01-21 17:47:34,question,Error when runnning tensorflow.python.ops.sparse_ops.sparse_to_dense,bug,False,bug,False
+tensorflow/tensorflow,2023-01-18 18:29:38,question,running distributed tensorflow using MPI,question,True,question,True
+tensorflow/tensorflow,2023-01-18 03:30:54,question,Model weight not saved when exporting SavedModel,bug,False,bug,False
+tensorflow/tensorflow,2023-01-16 20:10:57,question,How to save_weights of QAT model in tensorflow model optimization?,question,True,question,True
+tensorflow/tensorflow,2023-01-15 17:13:03,question,I have some problems I think it is connected with dataset that i make myself,bug,False,bug,False
+tensorflow/tensorflow,2023-01-12 12:17:44,question,Is there any way to disable remapping optimizer in Tensorflow1.15.0?,question,True,question,True
+tensorflow/tensorflow,2023-01-12 00:40:51,question,tensorboardX ,question,True,question,True
+tensorflow/tensorflow,2023-01-11 17:40:13,question,"WARNING : [ W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found] Windows 10, TF2.10.1, CUDA 11.2, cuDNN 8.1.",bug,False,bug,False
+tensorflow/tensorflow,2023-01-10 11:57:02,question,Is there any way to modify the quantized parameters from the generated tflite model?,question,True,question,True
+tensorflow/tensorflow,2023-01-06 01:49:36,question,Tensorflow lite  memory fault,question,True,question,True
+tensorflow/tensorflow,2023-01-04 16:06:33,question,[TF-Lite]Is there a way to profile a model's inference process when using tflite in python,question,True,question,True
+tensorflow/tensorflow,2023-01-03 01:49:45,question,Distribute training bug while using tf.data,question,True,question,True
+tensorflow/tensorflow,2022-12-29 03:37:03,question,Didn't find op for builtin opcode REVERSE_V2 version '1'.,question,True,question,True
+tensorflow/tensorflow,2022-12-26 20:31:07,question,tensor_util.py,feature,False,feature,False
+tensorflow/tensorflow,2022-12-24 08:03:21,question,How Do I Convert input arg tf.string to string in tf.function ,question,True,question,True
+tensorflow/tensorflow,2022-12-20 13:23:11,question,GPUs only visible for administrators,question,True,question,True
+tensorflow/tensorflow,2022-12-14 15:42:03,question,Training with Null Data in TFLITE Model Maker,question,True,question,True
+tensorflow/tensorflow,2022-12-13 11:50:34,question,Cannot make use of GPU,question,True,question,True
+tensorflow/tensorflow,2022-12-12 08:25:56,question,How to get single UnidirectionalSequenceRnnOp in tflite model,question,True,question,True
+tensorflow/tensorflow,2022-12-11 15:12:55,question,OOM out of memory Mask RCNN,question,True,question,True
+tensorflow/tensorflow,2022-12-07 19:47:27,question,Tensorflow 2.11 is still using CUDA 11.2 + CuDNN 8.1 that were released 2 years ago,question,True,question,True
+tensorflow/tensorflow,2022-12-07 03:44:27,question,"MirroredStrategy error INVALID_ARGUMENT: slice index 0 of dimension 0 out of bounds when training a model, most related to batch size strategy across all GPUs",question,True,question,True
+tensorflow/tensorflow,2022-12-05 00:46:56,question,Cannot convert Handwriting recognition model to tflite model,question,True,question,True
+tensorflow/tensorflow,2022-12-01 09:40:39,question,tf.numpy_function in tf.data.Dataset.map causes CUDA_ERROR_OUT_OF_MEMORY after hundreds of epochs,bug,False,bug,False
+tensorflow/tensorflow,2022-11-28 22:37:01,question,How to write to input tensors in custom op?,feature,False,feature,False
+tensorflow/tensorflow,2022-11-25 13:55:03,question,Protobuf Package Dependency between Google ads and tensorflow,question,True,question,True
+tensorflow/tensorflow,2022-11-25 08:41:50,question,How to set the half_pixel_centers of ResizeBilinear to False in the .tflite?,question,True,question,True
+tensorflow/tensorflow,2022-11-23 07:52:06,question,Is there a way to use a tflite-runtime version higher than 2.5.0 on an armv7 development board,question,True,question,True
+tensorflow/tensorflow,2022-11-21 05:30:01,question,Failed to load the native TensorFlow runtime.,question,True,question,True
+tensorflow/tensorflow,2022-11-16 18:11:12,question,TFLite benchmark tool - example to use input_layer_value_files,question,True,question,True
+tensorflow/tensorflow,2022-11-14 17:48:31,question,InputSpec update breaks working code,question,True,question,True
+tensorflow/tensorflow,2022-11-13 19:38:32,question,"Trying to train transformer like the NMT Keras Transformer, for passage summarization task. The model's masked accuracy goes upto ~30% but the transformer's output is very poor. Could you help me understand what I might be doing wrong?",question,True,question,True
+tensorflow/tensorflow,2022-11-11 13:31:28,question,No matching distribution found for numba==0.53,question,True,question,True
+tensorflow/tensorflow,2022-11-09 07:04:03,question,release variable memory api ?,feature,False,feature,False
+tensorflow/tensorflow,2023-08-28 07:20:19,feature,How to limit GPU memory usage when only prediction in c++?,question,False,question,False
+tensorflow/tensorflow,2023-08-19 05:24:59,feature,"`tf.image.crop_to_bounding_box()` assumes `tf.int32` arguments, but not documented as such",bug,False,bug,False
+tensorflow/tensorflow,2023-08-10 07:53:12,feature,On-Device training for LSTM or GRU Model ,question,False,question,False
+tensorflow/tensorflow,2023-07-26 06:59:17,feature,Cannot subclass dataset_ops.DatasetV2,question,False,feature,True
+tensorflow/tensorflow,2023-07-20 05:53:22,feature,How to get raw buffer pointer from python tf.Tensor,bug,False,bug,False
+tensorflow/tensorflow,2023-06-28 18:15:49,feature,Tensorflow Lite for Windows and macOS,question,False,question,False
+tensorflow/tensorflow,2023-06-18 20:11:34,feature,Building tf-opt steps with prerequisites ,feature,True,feature,True
+tensorflow/tensorflow,2023-06-12 10:07:16,feature,FlexCombinedNonMaxSuppression unavailable in flex shared library,feature,True,feature,True
+tensorflow/tensorflow,2023-06-08 14:48:45,feature,2.13 support for TensorflowLiteSwift and tensorflow-lite android (Maven),feature,True,feature,True
+tensorflow/tensorflow,2023-06-07 23:07:13,feature,tf-mlir-translate and flatbuffer_translate failure for the ERF function,feature,True,feature,True
+tensorflow/tensorflow,2023-05-20 08:20:17,feature,"""Improve GPU memory management for large-scale models""",feature,True,feature,True
+tensorflow/tensorflow,2023-05-04 07:40:29,feature,Support CheckpointInputPipelineHook in Estimator MirrorStrategy,feature,True,feature,True
+tensorflow/tensorflow,2023-04-25 10:49:31,feature,Maximum aspect ratio of camera for Android Mobile app & Android TV to use feature of Pose estimation?,feature,True,feature,True
+tensorflow/tensorflow,2023-03-30 10:39:22,feature,Building TF from source instructions clarification wrt Python packages,feature,True,feature,True
+tensorflow/tensorflow,2023-03-22 13:56:04,feature,How to check for NoneTensorSpec?,question,False,question,False
+tensorflow/tensorflow,2023-03-09 08:11:52,feature,Experimental feature support for TFLite selective build ,feature,True,feature,True
+tensorflow/tensorflow,2023-03-02 01:48:09,feature,disable linkage to nativewindow when API_LEVEL<26,bug,False,question,False
+tensorflow/tensorflow,2023-02-17 10:23:10,feature,Feature request: tf.gather which returns 0 on invalid indices,feature,True,feature,True
+tensorflow/tensorflow,2023-02-07 16:35:06,feature,Custom trianing with overriding the `fit` method single or multiple devices.,feature,True,feature,True
+tensorflow/tensorflow,2023-01-27 12:57:33,feature,tf equivalent of numpy.view(),question,False,question,False
+tensorflow/tensorflow,2023-01-19 04:14:29,feature,Feature Request tf.data.Dataset.from_tensor_slices with np.memmap,feature,True,feature,True
+tensorflow/tensorflow,2023-01-13 10:00:15,feature,Update curl to 7.87.0,feature,True,feature,True
+tensorflow/tensorflow,2023-01-11 09:29:42,feature,protobuf 4 is not supported,question,False,question,False
+tensorflow/tensorflow,2022-12-29 15:08:42,feature,Feature request for object detection android app,question,False,question,False
+tensorflow/tensorflow,2022-12-12 14:06:12,feature,model with lstmcell gives different results before and after tflite conversion,question,False,question,False
+tensorflow/tensorflow,2022-12-05 13:25:59,feature,Use cl_khr_integer_dot_product if available,feature,True,feature,True
+tensorflow/tensorflow,2022-11-27 01:01:32,feature,The parameter indices in tf.gather are supported int16,feature,True,feature,True
+tensorflow/tensorflow,2022-11-24 11:28:36,feature,Feature request (TensorFlow Lite): Strip unneeded kernels when building Flex ops library on platforms other than Android,feature,True,feature,True
+tensorflow/tensorflow,2022-11-20 15:45:02,feature,Tensorflow lite dynamic input,question,False,question,False
+tensorflow/tensorflow,2022-11-09 18:31:22,feature,Feature request: tflite with GPU and Hexagon delegate support on Linux ARM64 platform,feature,True,feature,True
+tensorflow/tensorflow,2022-11-03 23:47:39,feature,Request Tensorflow Docker container be expanded to support running all models.,feature,True,feature,True
+tensorflow/tensorflow,2022-10-28 15:43:59,feature,Can't run in Python 3.11.0 env.,feature,True,feature,True
+tensorflow/tensorflow,2022-10-25 07:40:36,feature,Feature request - support tif images in image_dataset_from_directory,feature,True,feature,True
+tensorflow/tensorflow,2022-10-10 07:33:14,feature,when will import the alpha tensor's fast matrix mutiplication.,feature,True,feature,True
+tensorflow/tensorflow,2022-10-05 20:32:45,feature,"is there any ways I can embed my self-implemented FP8 format (C/C++) into tensorflow, and support current ops automatically?",feature,True,feature,True
+tensorflow/tensorflow,2022-10-04 10:57:09,feature,Update the Android NDK to r25b LTS,question,False,question,False
+tensorflow/tensorflow,2022-09-27 09:58:43,feature,Clarify functionality of deserialized subclassed models in docs,feature,True,feature,True
+tensorflow/tensorflow,2022-09-23 13:06:06,feature,TF Lite enable Flex delegate C++ API (with CMake of Bazel),question,False,question,False
+tensorflow/tensorflow,2022-09-20 13:11:21,feature,A flag to enable the previous RNG behavior for `tf.keras.initializers`,feature,True,feature,True
+tensorflow/tensorflow,2022-09-16 18:52:35,feature,"log, pow, div unsupported in 16x8 precision",question,False,feature,True
+tensorflow/tensorflow,2022-09-09 02:50:17,feature,Updating TFLite ConvTranspose to make it support dynamic inputs.,feature,True,feature,True
+tensorflow/tensorflow,2022-08-31 20:42:53,feature,Not enough flexibility to choose actual accelerator in CoreML delegate,feature,True,feature,True
+tensorflow/tensorflow,2022-08-30 20:33:41,feature,Please make different versions of Tensorflow compatible with each other.,feature,True,feature,True
+tensorflow/tensorflow,2022-08-24 10:33:30,feature,Unable to free memory allocated by OpKernelContext,feature,True,feature,True
+tensorflow/tensorflow,2022-08-19 15:01:51,feature,tf.distribute.MirroredStrategy for asynchronous training,feature,True,feature,True
+tensorflow/tensorflow,2022-08-16 07:45:48,feature,LeakyRelu in Tensorflow lite with the Hexagon Delegate not supported,feature,True,feature,True
+tensorflow/tensorflow,2022-08-08 14:03:12,feature,Add bazel rule to selectively build TFLite by ops instead of model,feature,True,feature,True
+tensorflow/tensorflow,2022-07-30 05:16:45,feature,TensorRT max number of engines,feature,True,feature,True
+tensorflow/tensorflow,2022-07-26 02:00:42,feature,How to build tensorflow-lite-c enabling flex option using CMake,question,False,question,False
+tensorflow/tensorflow,2022-07-21 15:05:00,feature,Load tf lite model to XLA ,question,False,question,False
+tensorflow/tensorflow,2022-07-20 09:01:02,feature,Tflite ios batch_size greater than 1 not working,question,False,question,False
+tensorflow/tensorflow,2022-07-15 09:47:15,feature,Support INT8 for tf.split and tf.one_hot,feature,True,feature,True
+tensorflow/tensorflow,2022-07-10 10:03:45,feature,__array_interface__ support?,feature,True,feature,True
+tensorflow/tensorflow,2022-06-25 13:03:14,feature,Add `cdist` - an analog of `scipy.cdist` | `torch.cdist`,feature,True,feature,True
+tensorflow/tensorflow,2022-06-22 09:26:37,feature,Conda-forge release of tensorflow 2.x for win-64,feature,True,feature,True
+tensorflow/tensorflow,2022-06-13 21:42:13,feature,Add ParametricScalar Layer,feature,True,feature,True
+tensorflow/tensorflow,2022-06-07 11:37:24,feature,"Add SimpleMLCreateModelResource, SimpleMLInferenceOpWithHandle to allowed List (Lite Converter)",feature,True,feature,True
+tensorflow/tensorflow,2022-06-07 08:17:58,feature,Support item assignment in tensor object.,feature,True,feature,True
+tensorflow/tensorflow,2022-06-06 17:12:27,feature,`DistributedIterator` cannot be checkpointed because it is not trackable,feature,True,feature,True
+tensorflow/tensorflow,2022-06-02 19:23:53,feature,Character-level seq2seq model for translation and beam search. ,feature,True,feature,True
+tensorflow/tensorflow,2022-06-01 20:07:25,feature,Unable to use tflite java on macos,feature,True,feature,True
+tensorflow/tensorflow,2022-05-31 20:55:14,feature,How to full int 8 quantize a yamnet model?,question,False,question,False
+tensorflow/tensorflow,2022-05-30 11:44:30,feature,Ragged Tensor in 'batch_jacobian',feature,True,feature,True
+tensorflow/tensorflow,2022-05-26 11:32:06,feature,"TensorFlow core operator ExtractImagePatches , not supported",feature,True,feature,True
+tensorflow/tensorflow,2022-05-23 16:33:51,feature,Function similar to torch.nn.functional.grid_sample,feature,True,feature,True
+tensorflow/tensorflow,2022-05-20 09:42:07,feature,tf.keras.datasets.cifar10.load_data(path='cifar-10-python.tar.gz'),feature,True,feature,True
+tensorflow/tensorflow,2022-05-17 21:40:50,feature,Data init API for TFLite Swift,feature,True,feature,True
+tensorflow/tensorflow,2022-05-16 02:19:24,feature,[Feature Request] Default Keras callback for timing the training loop,feature,True,feature,True
+tensorflow/tensorflow,2022-05-04 08:29:44,feature,tf.train.Checkpoint does not support RMSprop weights for tensorflow-macos 2.8.8 ,feature,True,feature,True
+tensorflow/tensorflow,2022-04-30 12:18:57,feature,Unroll factor for keras.layers.RNN or performance fix for TensorArray / while_loop.,feature,True,feature,True
+tensorflow/tensorflow,2022-04-27 07:55:07,feature,Can tflite CoreML delegate add ELU activation support? (with fp16 as well)_,feature,True,feature,True
+tensorflow/tensorflow,2022-04-21 07:15:37,feature,tf.nn.embedding_lookup_sparse doesn't work with @tf.function(jit_compile=True),feature,True,feature,True
+tensorflow/tensorflow,2022-04-16 19:57:31,feature,Enable `unique` bool for `tf.random.uniform`! ,feature,True,feature,True
+tensorflow/tensorflow,2022-04-07 20:34:54,feature,Adding Select Tf Ops to Cmake,feature,True,feature,True
+tensorflow/tensorflow,2022-04-04 15:12:51,feature,Adding a parameter to teh tf.image.extract_patches function to change the value of added border pixels due to the padding,feature,True,feature,True
+tensorflow/tensorflow,2022-03-31 09:11:00,feature,How about exporting `Tensor::FromProto` to Python API?,feature,True,feature,True
+tensorflow/tensorflow,2022-03-29 12:03:50,feature,Customize TF tensor multiplication,feature,True,feature,True
+tensorflow/tensorflow,2022-03-16 21:06:31,feature,C-API Binaries for 32-bit for x86 instruction set,feature,True,feature,True
+tensorflow/tensorflow,2022-03-13 07:09:30,feature,support vscode devcontiners for development,feature,True,feature,True
+tensorflow/tensorflow,2022-02-26 21:18:20,feature,expand support for image file types (primarily TIFF),feature,True,feature,True
+tensorflow/tensorflow,2022-02-22 22:26:25,feature,XLA `LuDecomposition` support for CPU/GPU,feature,True,feature,True
+tensorflow/tensorflow,2022-02-20 14:28:41,feature,C++ prebuilt libs,feature,True,feature,True
+tensorflow/tensorflow,2022-02-15 16:10:50,feature,Consider supporting png images for modelmaker object detector,feature,True,feature,True
+tensorflow/tensorflow,2022-02-10 21:20:55,feature,Batch processing for tflite_runtime,feature,True,feature,True
+tensorflow/tensorflow,2022-02-02 06:42:45,feature,FIFOQueue as a part of custom layer,feature,True,feature,True
+tensorflow/tensorflow,2022-01-26 08:53:15,feature,TFLite SignatureRunner support for the C API,feature,True,feature,True
+tensorflow/tensorflow,2022-01-24 13:48:42,feature,iterating over `tf.Tensor` is not allowed,feature,True,feature,True
+tensorflow/tensorflow,2022-01-22 09:14:06,feature,Installing tensorflow with pip,feature,True,feature,True
+tensorflow/tensorflow,2022-01-21 19:03:40,feature,Expose half_pixel_center or anti-aliasing parameter in the keras resizing layer.,feature,True,feature,True
+tensorflow/tensorflow,2022-01-17 09:55:18,feature,[Feature Request] Support for convolutional layers for `tf.autodiff.ForwardAccumulator`,feature,True,feature,True
+tensorflow/tensorflow,2022-01-12 19:31:31,feature, Python API of `saved_model.load` to support `tf.saved_model.experimental.VariablePolicy`,feature,True,feature,True
+tensorflow/tensorflow,2022-01-08 12:57:44,feature,Native support for StridedSlice in 6D and Transpose in 7D,feature,True,feature,True
+tensorflow/tensorflow,2022-01-04 16:36:31,feature,Request for grouped convolutions on CPU,feature,True,feature,True
+tensorflow/tensorflow,2021-12-30 11:18:46,feature,Please add `tf.random.stateless_shuffle`,feature,True,feature,True
+tensorflow/tensorflow,2021-12-24 21:31:31,feature,Feature Request: Providing Gradients for `layer.set_weights()`,feature,True,feature,True
+tensorflow/tensorflow,2021-12-16 07:03:11,feature,[TFLite] Support building external delegate with CMake,feature,True,feature,True
+tensorflow/tensorflow,2021-12-15 07:19:15,feature,"Segmentation fault and no log information available, add some tips about segmentation fault",feature,True,feature,True
+tensorflow/tensorflow,2021-12-10 13:29:51,feature,Perspective transformation data augmentation for object detection,feature,True,feature,True
+tensorflow/tensorflow,2021-12-06 22:31:26,feature,Support multiple validation sets in Model.fit ,feature,True,feature,True
+tensorflow/tensorflow,2021-12-03 10:37:08,feature,tf.data.experimental.load does not work on temporary files,feature,True,feature,True
+tensorflow/tensorflow,2023-09-23 14:11:33,bug,KeyError: 'ConstantOfShape',bug,True,bug,True
+tensorflow/tensorflow,2023-09-23 13:56:17,bug,AttributeError: Not implemented,bug,True,bug,True
+tensorflow/tensorflow,2023-09-22 12:46:16,bug,SpectralNormalization layer is not trainable. Please help (OperatorNotAllowedInGraphError: Exception encountered when calling layer 'spectral_normalization' (type SpectralNormalization).),bug,True,bug,True
+tensorflow/tensorflow,2023-09-15 09:48:15,bug,Fails to build on AARCH64,bug,True,bug,True
+tensorflow/tensorflow,2023-09-14 12:16:19,bug,restoring checkpoint loads weights partially,bug,True,bug,True
+tensorflow/tensorflow,2023-09-12 03:18:12,bug,load_associated_files does not load a txt file,bug,True,bug,True
+tensorflow/tensorflow,2023-09-07 21:31:59,bug,tf.data.Dataset.list_files(): You must feed a value for placeholder tensor,bug,True,bug,True
+tensorflow/tensorflow,2023-09-05 13:06:02,bug,Cannot create interpreter when using GPU-Delegate or NNAPI-Delegate,question,False,question,False
+tensorflow/tensorflow,2023-09-03 14:28:22,bug,The model does not save and load correctly when containing `tf.keras.layers.experimental.preprocessing.StringLookup` layer,bug,True,bug,True
+tensorflow/tensorflow,2023-08-28 20:15:53,bug,rnn with initial_state model can't be loaded with load_model ,bug,True,bug,True
+tensorflow/tensorflow,2023-08-26 15:17:24,bug,Issues with Running Custom TensorFlow Lite Model in C++,question,False,question,False
+tensorflow/tensorflow,2023-08-25 07:37:33,bug,JIT yields inconsistent results using tf.math.top_k,bug,True,bug,True
+tensorflow/tensorflow,2023-08-22 09:38:14,bug,Please help ! ,bug,True,bug,True
+tensorflow/tensorflow,2023-08-22 07:36:21,bug,python3.11.3 mismatch with tensorflow 2.13.0,bug,True,bug,True
+tensorflow/tensorflow,2023-08-21 15:11:42,bug,Unable to serialize VariableSpec,bug,True,bug,True
+tensorflow/tensorflow,2023-08-20 18:45:47,bug,Activation function of a Dense hidden layer not getting invoked.,bug,True,bug,True
+tensorflow/tensorflow,2023-08-19 23:04:06,bug,Check failure when running tf.config.experimental_connect_to_host,bug,True,bug,True
+tensorflow/tensorflow,2023-08-18 00:56:31,bug,Overflow when running tf.compat.v1.manip.tile,bug,True,bug,True
+tensorflow/tensorflow,2023-08-18 00:52:39,bug,Overflow bug when running tf.compat.v1.image.resize,bug,True,bug,True
+tensorflow/tensorflow,2023-08-18 00:37:29,bug,Overflow bug when running tf.compat.v1.manip.tile,bug,True,bug,True
+tensorflow/tensorflow,2023-08-18 00:29:46,bug,Overflow bug when running tf.compat.v1.keras.layers.ZeroPadding2D,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 23:59:05,bug,Overflow bug when running tf.raw_ops.Tile,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 23:52:52,bug,Overflow bug when running tf.keras.layers.ZeroPadding3D,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 23:32:12,bug,Colab session crashes for unknown reasons when when running tf.raw_ops.ResizeBilinear on colab,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 22:06:34,bug,Overflow bug when running tf.raw_ops.Pad,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 22:01:13,bug,Overflow bug when running tf.tile,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 21:56:54,bug,Overflow bug when running tf.raw_ops.Tile on colab,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 21:51:46,bug,Overflow bug when running tf.keras.layers.ZeroPadding3D,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 18:37:54,bug,Issue with nightly-gpu docker image,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 15:19:19,bug,Integer overflow when running tf.compat.v1.matrix_diag on colab,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 14:55:02,bug,Integer overflow when running tf.raw_ops.MatrixDiagV3 on colab,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 14:22:48,bug,Integer overflow when running tf.linalg.diag,bug,True,bug,True
+tensorflow/tensorflow,2023-08-17 08:51:23,bug,AttributeError: module 'tensorflow.python.pywrap_mlir' has no attribute 'experimental_convert_saved_model_v1',bug,True,bug,True
+tensorflow/tensorflow,2023-08-16 16:16:20,bug,TFLite GPU delegate: Broadcast output incorrect,bug,True,bug,True
+tensorflow/tensorflow,2023-08-15 09:33:59,bug,Build failure on AARCH64 - undeclared identifier 'memset',bug,True,bug,True
+tensorflow/tensorflow,2023-08-15 02:03:40,bug,Abort when running tensorflow.python.ops.nn_ops.pool,bug,True,bug,True
+tensorflow/tensorflow,2023-08-15 01:40:14,bug,Crash when running tensorflow.python.ops.gen_image_ops.resize_area,bug,True,bug,True
+tensorflow/tensorflow,2023-08-15 01:34:29,bug,Abort when running tensorflow.python.ops.nn_ops.conv3d_transpose_v2,bug,True,bug,True
+tensorflow/tensorflow,2023-08-15 01:29:57,bug,Crash when running tensorflow.python.framework.kernels.get_registered_kernels_for_op,bug,True,bug,True
+tensorflow/tensorflow,2023-08-14 23:40:39,bug,Abort when running tensorflow.python.ops.gen_array_ops.mirror_pad_grad,bug,True,bug,True
+tensorflow/tensorflow,2023-08-14 23:16:28,bug,Abort when running tensorflow.python.ops.gen_math_ops.sobol_sample,bug,True,bug,True
+tensorflow/tensorflow,2023-08-14 23:08:43,bug,Abort when running tensorflow.python.ops.gen_sparse_ops.sparse_slice,bug,True,bug,True
+tensorflow/tensorflow,2023-08-14 22:25:16,bug,Crash when running tensorflow.python.ops.gen_data_flow_ops.record_input,bug,True,bug,True
+tensorflow/tensorflow,2023-08-14 21:19:25,bug,Segmentation fault when running tensorflow.python.ops.gen_math_ops._histogram_fixed_width,bug,True,bug,True
+tensorflow/tensorflow,2023-08-14 19:17:35,bug,Avoid partially saved ckpt from preempted device (e.g. TPU),bug,True,bug,True
+tensorflow/tensorflow,2023-08-13 21:34:43,bug,I need TensorFlow 2.2.0 but it is removed how to find it?,question,False,question,False
+tensorflow/tensorflow,2023-08-13 06:08:12,bug,Abort when running tensorflow.python.ops.gen_sparse_ops.sparse_split,bug,True,bug,True
+tensorflow/tensorflow,2023-08-13 05:22:51,bug,Abort when running tensorflow.python.eager.remote.connect_to_remote_host,bug,True,bug,True
+tensorflow/tensorflow,2023-08-13 04:15:00,bug,Abort when running tensorflow.python.ops.gen_nn_ops.conv3d_backprop_input_v2,bug,True,bug,True
+tensorflow/tensorflow,2023-08-13 03:05:27,bug,Abort when running tensorflow.python.ops.linalg_ops.self_adjoint_eig,bug,True,bug,True
+tensorflow/tensorflow,2023-08-12 19:32:57,bug,Abort when running tensorflow.python.ops.nn_ops.conv2d_transpose,bug,True,bug,True
+tensorflow/tensorflow,2023-08-12 18:32:22,bug,segmentation fault when running tensorflow.python.eager.context.add_function,bug,True,bug,True
+tensorflow/tensorflow,2023-08-11 09:46:28,bug,tflite-rutime: RuntimeError: Encountered unresolved custom op: FarthestPointSample.,question,False,question,False
+tensorflow/tensorflow,2023-08-10 23:41:58,bug,AttributeError: can't set attribute in Plot or @property for example,bug,True,bug,True
+tensorflow/tensorflow,2023-08-09 07:58:04,bug,Question about @tf.function,bug,True,bug,True
+tensorflow/tensorflow,2023-08-03 10:02:23,bug,"""load_model"" method causes operating system level user-interface freeze",bug,True,bug,True
+tensorflow/tensorflow,2023-08-02 12:29:15,bug,tf 2.13 - tflite convert error  in topk when k is np.int64 ,question,False,question,False
+tensorflow/tensorflow,2023-08-01 11:41:30,bug,try self.interpreter!.invoke() App got crashed on this line ,bug,True,question,False
+tensorflow/tensorflow,2023-08-01 04:31:13,bug,Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found,bug,True,bug,True
+tensorflow/tensorflow,2023-07-31 09:26:26,bug,Visual Studio 2022 / MingW64: cant find source files,bug,True,bug,True
+tensorflow/tensorflow,2023-07-28 18:24:21,bug,Failed assertion in tf.linalg.sqrtm (and possibly other functions) crashes entire program instead of raising Exception,bug,True,bug,True
+tensorflow/tensorflow,2023-07-26 21:56:14,bug,"model.fit() occur ""Cudnn graph failed to build: UNKNOWN: CUDNN_STATUS_BAD_PARAM""",bug,True,bug,True
+tensorflow/tensorflow,2023-07-25 08:13:21,bug,OneDNN logs are not printing while building TF with --config=mkl_aarch64,bug,True,bug,True
+tensorflow/tensorflow,2023-07-25 01:30:55,bug,"""ValueError: Cannot take the length of shape with unknown rank.""  when using MultiHeadRelativeAttention",bug,True,bug,True
+tensorflow/tensorflow,2023-07-24 16:51:23,bug,Unable to save model when using EfficientNetB0,bug,True,bug,True
+tensorflow/tensorflow,2023-07-22 07:11:34,bug,TFLite Error,question,False,question,False
+tensorflow/tensorflow,2023-07-21 18:21:26,bug,Tensorflow Load Datasets Failure for Python 3.11.4 and Tensorflow 2.13.0,bug,True,bug,True
+tensorflow/tensorflow,2023-07-19 12:46:52,bug,tensorflow/core/common_runtime/gpu/gpu_util.cc:293] GPU->CPU Memcpy failed,bug,True,bug,True
+tensorflow/tensorflow,2023-07-18 01:29:12,bug,KerasTensor和tf.tensor之间的转换,bug,True,bug,True
+tensorflow/tensorflow,2023-07-17 12:19:06,bug,tensorflow keras model.predict() is not thread safe,bug,True,bug,True
+tensorflow/tensorflow,2023-07-15 13:33:28,bug,`tf.image.decode_jpeg` can not decode jpeg base64 encoded image,bug,True,bug,True
+tensorflow/tensorflow,2023-07-14 22:13:11,bug,Tensor dimension mismatch when `tf.keras.Input` is used as input,question,False,question,False
+tensorflow/tensorflow,2023-07-13 13:03:01,bug,TFlite running interpreter->invoke() has failed - Segmentation fault,question,False,question,False
+tensorflow/tensorflow,2023-07-13 03:41:33,bug,TypeError: _lookup_dependency() takes 2 positional arguments but 3 were given,bug,True,bug,True
+tensorflow/tensorflow,2023-07-12 05:48:51,bug,ImportError: libcudart.so.8.0: cannot open shared object file: No such file or directory,bug,True,bug,True
+tensorflow/tensorflow,2023-07-11 08:09:33,bug,"Different reference order may cause other modules to be unavailable, e.g. xgboost, sklearn.",bug,True,bug,True
+tensorflow/tensorflow,2023-07-10 18:41:30,bug,Memory out of bounds in compiled tflite with emscripten.,bug,True,bug,True
+tensorflow/tensorflow,2023-07-10 09:15:00,bug,ctc_ops.py deprecation warning,bug,True,bug,True
+tensorflow/tensorflow,2023-07-08 04:32:10,bug,"savedmodel convert to tflite and merge labels.  tx to new tflite model,but resulte is error by Xcode,  use python api is correct",bug,True,bug,True
+tensorflow/tensorflow,2023-07-07 07:27:24,bug,tf.keras.models.model_from_json() missing a safe_mode parameter,bug,True,bug,True
+tensorflow/tensorflow,2023-07-06 12:56:59,bug,Issue with Reproducible Results: Inconsistent Behavior of Random Seeds in TensorFlow,bug,True,bug,True
+tensorflow/tensorflow,2023-07-05 15:38:42,bug,ValueError: Checkpoint was expecting to be a trackable object (an object derived from `Trackable`),question,False,question,False
+tensorflow/tensorflow,2023-07-02 10:13:52,bug,tf.image.extract_patches error for tf.RaggedTensor inputs,bug,True,bug,True
+tensorflow/tensorflow,2023-06-30 16:50:24,bug,mutiple issues with the new parameter server strategy,question,False,question,False
+tensorflow/tensorflow,2023-06-28 15:59:05,bug,//tensorflow/python/data/kernel_tests:snapshot_test is flaky,bug,True,bug,True
+tensorflow/tensorflow,2023-06-27 17:09:43,bug,UnsatisfiedLinkError: Failed to load native TensorFlow Lite methods ,question,False,question,False
+tensorflow/tensorflow,2023-06-27 09:22:41,bug,The relationship between the parameters of Conv2D is unclear,bug,True,bug,True
+tensorflow/tensorflow,2023-06-26 17:39:13,bug,Not initialized delegate kernel after tflite conversion,question,False,question,False
+tensorflow/tensorflow,2023-06-24 15:13:55,bug,Requested feature_data_ size 536907080 doesn't match 1960; Feature generation failed;,bug,True,bug,True
+tensorflow/tensorflow,2023-06-23 08:51:18,bug,"Model runs without error in Tensorflow, but crashes with a segmentation fault in TFLite",question,False,question,False
+tensorflow/tensorflow,2023-06-22 22:29:39,bug,"Crashes in model.save, wrapt error",bug,True,bug,True
+tensorflow/tensorflow,2023-06-21 16:46:50,bug,tf.mul after tf.split + tf.sigmoid produces wrong numerical results with MKL enabled,bug,True,bug,True
+tensorflow/tensorflow,2023-06-20 19:30:00,bug,fit() fails with CUDNN_STATUS_BAD_PARAM when using Conv3D and multi-GPU MirroredStrategy,bug,True,bug,True
+tensorflow/tensorflow,2023-06-19 19:28:28,bug,FFT produces wrong results when using multiple GPUs with MirroredStrategy,bug,True,bug,True
+tensorflow/tensorflow,2023-06-19 11:45:23,bug,F1 score error on multi class data,bug,True,bug,True
+tensorflow/tensorflow,2023-06-18 22:44:17,bug,Uncaught exception in ZMQStream callback when running your example notebooks using latest or nightly docker image,bug,True,bug,True
+tensorflow/tensorflow,2023-06-13 19:41:41,bug,W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudnn.so.8'; dlerror: libcudnn.so.8: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH,bug,True,bug,True
+tensorflow/tensorflow,2023-06-12 18:07:28,bug,"Unexpected failure when preparing tensor allocations: tensorflow/lite/kernels/pad.cc:79 SizeOfDimension(op_context->paddings, 0) != op_context->dims (4 != 1) Node number 0 (PAD) failed to prepare.",question,False,question,False
+tensorflow/tensorflow,2023-06-12 10:32:27,bug,Documentation Bug：the description of padding,bug,True,bug,True
+tensorflow/tensorflow,2023-06-11 00:21:12,bug,Tensorflow Lite on Raspberry Pi,question,False,question,False
+microsoft/vscode,2023-09-29 07:30:00,bug,Give ms-python.debugpy access to portsAttributes proposal,feature,False,feature,False
+microsoft/vscode,2023-09-28 21:18:51,bug,Verify fix/revision to Code Actions on Save,feature,False,feature,False
+microsoft/vscode,2023-09-28 18:11:54,bug,Comments editor height is incorrect when window is resized to be small,bug,True,bug,True
+microsoft/vscode,2023-09-28 12:05:26,bug,[regression] CodeAction on save is broken,bug,True,bug,True
+microsoft/vscode,2023-09-28 08:26:59,bug,"Chat view  `ERR Error: Invalid range: [1, 0)`",bug,True,bug,True
+microsoft/vscode,2023-09-27 11:01:28,bug,[web][ff] web socket breaks when changing network,bug,True,bug,True
+microsoft/vscode,2023-09-27 08:29:52,bug,Extension magically got reenabled,question,False,bug,True
+microsoft/vscode,2023-09-26 22:04:46,bug,Toggling file node in Comments view focuses comment,bug,True,bug,True
+microsoft/vscode,2023-09-26 21:44:38,bug,Debug console with DWARF debugging isn't printing the expected value,bug,True,bug,True
+microsoft/vscode,2023-09-26 21:18:55,bug,Specify what is in the event data for `env.onDidChangeShell`,feature,False,feature,False
+microsoft/vscode,2023-09-26 18:10:14,bug,Seeing two action bars,bug,True,bug,True
+microsoft/vscode,2023-09-26 18:04:35,bug,Debug toolbar with commandCenter limits command center search ,feature,False,feature,False
+microsoft/vscode,2023-09-26 17:51:18,bug,Enable Source Mapped Stepping command is registered twice,bug,True,bug,True
+microsoft/vscode,2023-09-26 16:58:49,bug,insertFinalNewline breaks typings in first line in a new cell,feature,False,feature,False
+microsoft/vscode,2023-09-26 15:35:14,bug,Views entry is only present when English is the display language,bug,True,bug,True
+microsoft/vscode,2023-09-26 14:07:28,bug,Settings Sync is uninstalling the extension that is installed from sources,bug,True,bug,True
+microsoft/vscode,2023-09-26 13:42:32,bug,Problematic Theme Styles,bug,True,bug,True
+microsoft/vscode,2023-09-26 13:06:15,bug,SCM Sync: Multiple select is enabled,bug,True,bug,True
+microsoft/vscode,2023-09-26 12:49:20,bug,Arrow up while editing comment goes to previous comment,bug,True,bug,True
+microsoft/vscode,2023-09-26 09:38:25,bug,Settings description is wrong/swapped,bug,True,bug,True
+microsoft/vscode,2023-09-26 08:31:03,bug,Remove xtermTerminal.clearActiveSearchDecoration,bug,True,bug,True
+microsoft/vscode,2023-09-25 18:52:55,bug,icon aria label isn't updated/correct,bug,True,bug,True
+microsoft/vscode,2023-09-25 14:52:55,bug,File > Open Recent > recent workspace no longet opens in new window when Ctrl or Shift used in VS Code Insiders,question,False,question,False
+microsoft/vscode,2023-09-25 13:55:47,bug,[Accessibility] Focus doesn't move to the symbol in terminal accessible view,bug,True,bug,True
+microsoft/vscode,2023-09-25 09:35:53,bug,Cannot read properties of undefined (reading 'id'),question,False,bug,True
+microsoft/vscode,2023-09-22 08:28:04,bug,Cannot read properties of null (reading 'b'),bug,True,bug,True
+microsoft/vscode,2023-09-21 17:55:36,bug,active editor has commenting range is true even when it should not be,bug,True,bug,True
+microsoft/vscode,2023-09-21 14:03:26,bug,Toggling tab pin row setting hides actions for me,bug,True,bug,True
+microsoft/vscode,2023-09-20 18:36:34,bug,SCM Sync view: focus lost from the tree on mouse click,feature,False,feature,False
+microsoft/vscode,2023-09-20 13:27:41,bug,Open editors view does not close editor that is selected anymore,question,False,question,False
+microsoft/vscode,2023-09-19 16:27:29,bug,Terminal PS1 double,question,False,bug,True
+microsoft/vscode,2023-09-19 14:54:31,bug,"Tasks using `""runOn"": ""folderOpen""` are broken",bug,True,bug,True
+microsoft/vscode,2023-09-19 11:10:15,bug,[Accessibility] Display terminal-specific help in Accessible View for terminal buffer,bug,True,bug,True
+microsoft/vscode,2023-09-19 01:19:55,bug,"Extension development：Frequent calls to _onDidChangeTreeData.fire(), resulting in memory leakage",question,False,bug,True
+microsoft/vscode,2023-09-18 13:32:35,bug,Bad Diff,bug,True,bug,True
+microsoft/vscode,2023-09-17 20:40:50,bug,Terminal context menu not hiding after running action,bug,True,bug,True
+microsoft/vscode,2023-09-15 18:04:59,bug,[Accessibility] accessible-buffer is not auto-focused,bug,True,bug,True
+microsoft/vscode,2023-09-15 10:43:39,bug,TypeError: Cannot read properties of undefined (reading 'trim'),feature,False,feature,False
+microsoft/vscode,2023-09-14 18:48:12,bug,Top padding is wrong on comment view zone,bug,True,bug,True
+microsoft/vscode,2023-09-14 09:34:02,bug,Sash variables end up on the HTML element,feature,False,feature,False
+microsoft/vscode,2023-09-13 16:33:54,bug,F9 removes existing breakpoint instead of adding one,feature,False,feature,False
+microsoft/vscode,2023-09-13 00:47:57,bug,code CLI update mechanism previous version renaming anomaly ,question,False,bug,True
+microsoft/vscode,2023-09-12 20:44:29,bug,Unbounded keybindings are presented in empty workbench hints,bug,True,bug,True
+microsoft/vscode,2023-09-12 16:44:00,bug,quick search: preserveInput priority over selected text,feature,False,feature,False
+microsoft/vscode,2023-09-12 13:58:53,bug,"When re-requesting a copilot inline chat answer, pressing escape accepts the current solution",bug,True,bug,True
+microsoft/vscode,2023-09-11 19:07:30,bug,go to symbol in the terminal's accessible view doesn't contain all commands after the first invocation,bug,True,bug,True
+microsoft/vscode,2023-09-11 14:55:26,bug,Test runner hangs with global `teardown` throwing,bug,True,bug,True
+microsoft/vscode,2023-09-09 16:05:16,bug,Problems with minimumContrastRatio inverse/selection edge cases,feature,False,feature,False
+microsoft/vscode,2023-09-09 12:01:13,bug,Terminal: Invisible text is visible in the DOM renderer,bug,True,bug,True
+microsoft/vscode,2023-09-09 06:38:13,bug,Debug console is not working,question,False,question,False
+microsoft/vscode,2023-09-08 20:54:02,bug,Port forwarding for remote-ssh doesn't notice closed socket on server side,question,False,question,False
+microsoft/vscode,2023-09-08 18:43:50,bug,"""Press ctrl+I to ask Copilot ...` message showing in empty output channel",feature,False,feature,False
+microsoft/vscode,2023-09-08 14:56:51,bug,Disposable leaks cause unit test failures,bug,True,bug,True
+microsoft/vscode,2023-09-08 08:22:20,bug,Sticky scroll: folding icons missing from some sticky headers,bug,True,bug,True
+microsoft/vscode,2023-09-08 06:03:56,bug,1.82 cannot select text in integrated terminal,question,False,question,False
+microsoft/vscode,2023-09-07 22:33:02,bug,Tab separator setting refers to the same setting twice,bug,True,bug,True
+microsoft/vscode,2023-09-07 19:58:51,bug,VSCode warning 64 bit Windows users about deprecated 32 bit Windows support,question,False,question,False
+microsoft/vscode,2023-09-07 15:40:03,bug,Why doesn't reflow work in test view output?,bug,True,bug,True
+microsoft/vscode,2023-09-07 13:12:58,bug,Editor scrollbar markers update only after cursor move,bug,True,bug,True
+microsoft/vscode,2023-09-07 12:55:24,bug,Web: cannot right click into custom title,bug,True,bug,True
+microsoft/vscode,2023-09-07 04:43:00,bug,Forders not opening,question,False,question,False
+microsoft/vscode,2023-09-06 18:54:49,bug,Cannot read properties of null (reading 'uri'),bug,True,bug,True
+microsoft/vscode,2023-09-06 17:04:47,bug,Notebook: run button is rendered when revealing cell into view when hitting breakpoint,question,False,question,False
+microsoft/vscode,2023-09-05 19:12:57,bug,code cli shouldn't panic if it can't bind a port,feature,False,feature,False
+microsoft/vscode,2023-09-05 09:36:05,bug,Accept button is not visible in inline chat,bug,True,bug,True
+microsoft/vscode,2023-09-04 13:09:38,bug,Terminal: White bar on top of terminal,bug,True,bug,True
+microsoft/vscode,2023-09-04 08:48:52,bug,Don't detect aligned code as moved,bug,True,bug,True
+microsoft/vscode,2023-09-01 16:34:50,bug,Compress single test messages in the Test Results tree view,feature,False,feature,False
+microsoft/vscode,2023-08-31 23:04:51,bug,SSH/DevContainer Port Forwarding broken,bug,True,bug,True
+microsoft/vscode,2023-08-31 19:49:05,bug,Can't change local address port in port forwarding,question,False,bug,True
+microsoft/vscode,2023-08-31 14:14:09,bug,xterm live region isn't present unless output spans full viewport,bug,True,bug,True
+microsoft/vscode,2023-08-31 12:46:34,bug,"`app#resolveInitialProtocolUrls()` does not remove `?windowId=_blank""` part of the URL with `vscode:` schema",question,False,question,False
+microsoft/vscode,2023-08-31 08:23:21,bug,Open dialog filter does not work for multiple extension files (e.g. .tar.gz) when working with Remote-SSH,question,False,question,False
+microsoft/vscode,2023-08-31 06:14:32,bug,Cannot select a path outside the workspace to save the file,question,False,question,False
+microsoft/vscode,2023-08-30 21:21:21,bug,Bracket colorization for markdown links with mismatched parenthesizes ,bug,True,bug,True
+microsoft/vscode,2023-08-30 15:52:20,bug,change default value of `focusAfterRun` to be `none` for screen reader users,feature,False,feature,False
+microsoft/vscode,2023-08-30 07:44:13,bug,Unable to forward port due to tunnel limit ,bug,True,bug,True
+microsoft/vscode,2023-08-30 01:10:04,bug,Wrong extension name reported as installed when installing extension pack,bug,True,bug,True
+microsoft/vscode,2023-08-29 21:34:35,bug,`x` button in accessibility help view triggers error,question,False,question,False
+microsoft/vscode,2023-08-29 20:07:40,bug,Linux: Notifications Accessible View only opens when focusing with mouse,bug,True,bug,True
+microsoft/vscode,2023-08-29 19:59:10,bug,Padding is off on the quick question `x` button,bug,True,bug,True
+microsoft/vscode,2023-08-29 18:08:46,bug,Use better codicon for action to disable verbosity hint,feature,False,feature,False
+microsoft/vscode,2023-08-29 17:46:50,bug,Clicking into notebook markdown search result clears result,bug,True,bug,True
+microsoft/vscode,2023-08-29 17:25:47,bug,Copy image output doesn't work on Linux,bug,True,bug,True
+microsoft/vscode,2023-08-29 15:18:51,bug,"[Bug] When the window is downsized, icons to expand the hidden lines move to the left",bug,True,bug,True
+microsoft/vscode,2023-08-29 14:04:30,bug,Error: Throttler is disposed in serve-web,question,False,bug,True
+microsoft/vscode,2023-08-29 13:33:28,bug,Settings feedback,bug,True,bug,True
+microsoft/vscode,2023-08-29 13:23:07,bug,Editor placeholder (error case) does not dim,bug,True,bug,True
+microsoft/vscode,2023-08-29 13:21:06,bug,Keybindings editor does not dim,bug,True,bug,True
+microsoft/vscode,2023-08-29 13:11:54,bug,Remove `envCollectionOptions` from product.json,question,False,bug,True
+microsoft/vscode,2023-08-29 12:11:18,bug,[Accessibility] Alt+F1 does not work in terminal,bug,True,bug,True
+microsoft/vscode,2023-08-29 09:47:23,bug,Debug: Open Link created chrome config when only msedge is installed,feature,False,feature,False
+microsoft/vscode,2023-08-28 23:43:23,bug,quick search - file highlight decoration isn't showing up on search,feature,False,feature,False
+microsoft/vscode,2023-08-28 18:27:09,bug,exec server port forwarding fails for certain cases,bug,True,bug,True
+microsoft/vscode,2023-08-28 17:39:17,bug,Context menu for Quick Search appearing in search view,feature,False,feature,False
+microsoft/vscode,2023-08-27 23:14:27,bug,[Bug] Tela preta no terminal do VS Code ,question,False,question,False
+microsoft/vscode,2023-08-25 16:55:53,bug,Terminal multiple action icons overlap,question,False,question,False
+microsoft/vscode,2023-08-25 16:04:19,bug,Moved Code Detection: Don't Detect Moves When Nothing Moved,bug,True,bug,True
+microsoft/vscode,2023-08-25 07:41:47,bug,The markdown link in TEST RESULTS is hard to read,bug,True,bug,True
+microsoft/vscode,2023-08-24 22:26:31,bug,Search view not showing warnings,bug,True,bug,True
+microsoft/vscode,2023-09-27 19:25:34,feature,Smooth scrolling on tabs,feature,True,feature,True
+microsoft/vscode,2023-09-25 16:48:45,feature,Introduce a concept of similar commands in Core,feature,True,feature,True
+microsoft/vscode,2023-09-15 22:49:07,feature,Allow text in error message popups to be copied or at least selected,feature,True,feature,True
+microsoft/vscode,2023-09-14 07:51:02,feature,Add a 'wordwise' option for the diff inline view,feature,True,feature,True
+microsoft/vscode,2023-09-13 15:05:18,feature,Extension tree that use `vscode.open` and `vscode.diff` commands should respect enter vs. space,feature,True,feature,True
+microsoft/vscode,2023-09-11 09:59:46,feature,Diff Editor: Mark the full block as being replaced,bug,False,bug,False
+microsoft/vscode,2023-09-08 12:48:03,feature,Debug toolbar and CC,feature,True,feature,True
+microsoft/vscode,2023-09-07 07:38:19,feature,Improve Comments accessibility ,feature,True,feature,True
+microsoft/vscode,2023-09-06 07:49:11,feature,Improve Settings Sync diagnostics tooling,feature,True,feature,True
+microsoft/vscode,2023-09-05 17:54:42,feature,"Add functionality that copies command and output, as opposed to just copying command, or just copying output",feature,True,feature,True
+microsoft/vscode,2023-08-31 22:45:48,feature,"[FR] Notebook, Markdown cells: please allow to generate a line break using '\\n' and/or '<br>' in the link tooltips",feature,True,feature,True
+microsoft/vscode,2023-08-31 13:14:11,feature,Does package.json configuration properties pattern regex support unicode?,bug,False,bug,False
+microsoft/vscode,2023-08-30 18:02:22,feature,Add new scope to VS Code settings for only workspace configurable,feature,True,feature,True
+microsoft/vscode,2023-08-29 01:22:30,feature,Enable Command Center by default,feature,True,feature,True
+microsoft/vscode,2023-08-28 18:19:34,feature,Rename `--disable-keytar` to `--disable-persisted-secrets` or similar,feature,True,feature,True
+microsoft/vscode,2023-08-28 17:44:57,feature,Add Quick Chat to the Command Center,feature,True,feature,True
+microsoft/vscode,2023-08-25 01:42:20,feature,testing.openTesting is not working for testing explorer now,bug,False,bug,False
+microsoft/vscode,2023-08-24 15:21:27,feature,Support Profile Inheritance,feature,True,feature,True
+microsoft/vscode,2023-08-23 15:23:11,feature,Add quick search to command center,feature,True,feature,True
+microsoft/vscode,2023-08-22 15:55:05,feature,builtin command executeInlineValueProvider does not exist,question,False,question,False
+microsoft/vscode,2023-08-22 10:13:37,feature,Diff Editor Improve Alignment,bug,False,bug,False
+microsoft/vscode,2023-08-21 14:20:33,feature,Diff Editor v2: setting for number of expanded lines when clicking top/bot,feature,True,feature,True
+microsoft/vscode,2023-08-20 08:54:02,feature,Integrated terminal code folding,feature,True,feature,True
+microsoft/vscode,2023-08-18 03:00:16,feature,[Accessibility] consider adding default keybinding to accept completion in inline accessible view,feature,True,feature,True
+microsoft/vscode,2023-08-15 22:46:05,feature,Add SmartSelect / CamelHumps caret browsing for the F2 rename symbol feature,feature,True,feature,True
+microsoft/vscode,2023-08-14 15:44:14,feature,Use a single action bar,bug,False,bug,False
+microsoft/vscode,2023-08-13 20:59:07,feature,DOM renderer does not show selection over regular background colors,bug,False,bug,False
+microsoft/vscode,2023-08-13 09:32:52,feature,Support GNU style file:line.column links,feature,True,feature,True
+microsoft/vscode,2023-08-11 12:01:05,feature,Adopt xterm.js' cursorStyleInactive option,feature,True,feature,True
+microsoft/vscode,2023-08-09 21:10:03,feature,Placeholder text for Ports tab should be different for local port forwarding,feature,True,feature,True
+microsoft/vscode,2023-08-08 21:37:51,feature,add title bar to accessible view / help,feature,True,feature,True
+microsoft/vscode,2023-08-08 18:52:11,feature,Explore showing workspace search results in the command center,feature,True,feature,True
+microsoft/vscode,2023-08-06 16:34:24,feature,Ignore a Collapsed Code Block While Copying,question,False,question,False
+microsoft/vscode,2023-08-05 10:14:20,feature,Allow to theme foreground color of status bar entries on hover,feature,True,feature,True
+microsoft/vscode,2023-08-04 19:35:26,feature,Improve discoverability of accessibility verbosity settings,feature,True,feature,True
+microsoft/vscode,2023-08-03 09:07:27,feature,Diff Editor: Detect Exact Moves,feature,True,feature,True
+microsoft/vscode,2023-08-02 16:32:18,feature,Support actions in the accessible view,feature,True,feature,True
+microsoft/vscode,2023-08-01 15:14:41,feature,Adopt new DOM renderer performance changes,bug,False,bug,False
+microsoft/vscode,2023-08-01 10:26:23,feature,Less aggressive `comments.openView` setting,feature,True,feature,True
+microsoft/vscode,2023-07-31 21:49:47,feature,[Accessibility] Change command history default keybindings in terminal buffer on Windows to align with Mac,feature,True,feature,True
+microsoft/vscode,2023-07-30 06:18:13,feature,Always on top window,feature,True,feature,True
+microsoft/vscode,2023-07-27 04:58:33,feature,Tunnel factory to provide error message for notification toast,feature,True,feature,True
+microsoft/vscode,2023-07-26 11:33:05,feature,"When no text is selected, CTRL-C should not overwrite the current buffer with nothing",feature,True,feature,True
+microsoft/vscode,2023-07-25 16:49:43,feature,Should it be possible to use ctrl+up/ctrl+down to navigate within a comment thread,feature,True,feature,True
+microsoft/vscode,2023-07-25 11:10:22,feature,Navigating notification a11y view with alt+]/[ should announce where you are in the list,bug,False,bug,False
+microsoft/vscode,2023-07-25 03:37:33,feature,[Feature] Support Sticky display the code stack of the cursor line,feature,True,feature,True
+microsoft/vscode,2023-07-24 18:14:01,feature,Support go to symbol in the accessible view,feature,True,feature,True
+microsoft/vscode,2023-07-24 12:19:33,feature,.ipynb wrap cell output at fixed character limit,question,False,question,False
+microsoft/vscode,2023-07-21 21:22:34,feature,Improve Quick Question experience for conversational chat,feature,True,feature,True
+microsoft/vscode,2023-07-20 23:28:37,feature,Support a `--password-store=inmemory` or similar,feature,True,feature,True
+microsoft/vscode,2023-07-20 19:15:53,feature,Behaviour of the Search-Box,question,False,feature,True
+microsoft/vscode,2023-07-20 02:30:58,feature,[Accessibility] Cannot use Shift+Tab as an input key in terminal,bug,False,bug,False
+microsoft/vscode,2023-07-19 14:50:19,feature,there should be a shortcut for jumping between new and old files,feature,True,feature,True
+microsoft/vscode,2023-07-19 04:29:33,feature,Trigger IntelliSense(code completions) after paste or delete?,question,False,bug,False
+microsoft/vscode,2023-07-18 21:48:38,feature,Only show top-level variables in `Outline: Show Variables`,feature,True,feature,True
+microsoft/vscode,2023-07-18 19:13:44,feature,add info about go to next / previous accessible view to help menu,feature,True,feature,True
+microsoft/vscode,2023-07-17 19:28:57,feature,Show more terminal links by default,feature,True,feature,True
+microsoft/vscode,2023-07-17 12:36:20,feature,Use Find (search text in files) WITHOUT expanding already-collapsed sections,question,False,question,False
+microsoft/vscode,2023-07-17 10:24:52,feature,Support link detection in test results terminal,question,False,question,False
+microsoft/vscode,2023-07-15 21:01:11,feature,Feature Request: Introduce $TM_SUGGESTED_TEXT Variable for Enhanced Snippet Creation,feature,True,feature,True
+microsoft/vscode,2023-07-14 07:13:00,feature,In debug session: Add items to WATCH section by drag-and-drop them from VARIABLES section,feature,True,feature,True
+microsoft/vscode,2023-07-13 16:25:58,feature,Add info about sticky scroll to editor accessibility help menu,feature,True,feature,True
+microsoft/vscode,2023-07-13 00:22:55,feature,Debugger: copy value from hover,feature,True,feature,True
+microsoft/vscode,2023-07-12 11:14:29,feature,[Feature] Extension hover labelling,feature,True,feature,True
+microsoft/vscode,2023-07-11 23:10:58,feature,Speed up creating troubleshooting profile,feature,True,feature,True
+microsoft/vscode,2023-07-11 15:49:22,feature,"When restoring a file editor on a UNC path, the security error message should include an option to allow the host.",feature,True,feature,True
+microsoft/vscode,2023-07-10 18:17:58,feature,Pick up TS  5.1.6,bug,False,bug,False
+microsoft/vscode,2023-07-10 15:44:01,feature,[Feature Request] Option to enable `remote.SSH.defaultExtensions` for all currently installed extensions.,feature,True,feature,True
+microsoft/vscode,2023-07-10 15:03:10,feature,Add accessible view hint,feature,True,feature,True
+microsoft/vscode,2023-07-10 12:59:38,feature,"Add option to Allow configuration / customization of ""Open with VSCode"" in Windows Explorer context menu",feature,True,feature,True
+microsoft/vscode,2023-07-10 09:00:15,feature,An small feature to improve the program efficiently,feature,True,feature,True
+microsoft/vscode,2023-07-10 07:39:46,feature,Use other extensions to enhance the emmet extension,feature,True,feature,True
+microsoft/vscode,2023-07-07 05:02:45,feature,Rounded corner interface request,feature,True,feature,True
+microsoft/vscode,2023-07-06 19:39:33,feature,Independent options to enable/disable preview for the editor and source control management,feature,True,feature,True
+microsoft/vscode,2023-07-06 15:22:18,feature,copy notebook output command for built in renderers,feature,True,feature,True
+microsoft/vscode,2023-07-06 12:57:50,feature,allow extensions to update configuration enums ,feature,True,feature,True
+microsoft/vscode,2023-07-06 04:09:04,feature,[Accessibility] Make Alt+F2 work in notification area,feature,True,feature,True
+microsoft/vscode,2023-07-04 11:17:32,feature,Provide a way to manually reload an opened file.,feature,True,feature,True
+microsoft/vscode,2023-07-03 10:17:11,feature,"Preserve sidebar view sizes when resizing, if they are at their minimum",feature,True,feature,True
+microsoft/vscode,2023-07-02 15:57:23,feature,Add EnvironmentVariableCollection.description to the environment variables explanation,bug,False,bug,False
+microsoft/vscode,2023-06-30 15:46:38,feature,data science audio and text graph for visually impaired person,feature,True,feature,True
+microsoft/vscode,2023-06-29 21:38:01,feature,Change accessible buffer command navigation keybinding for screen reader users,feature,True,feature,True
+microsoft/vscode,2023-06-29 21:25:23,feature,have accessible view for ghost text completions,feature,True,feature,True
+microsoft/vscode,2023-06-29 18:27:33,feature,Sticky scroll for screen reader users,feature,True,feature,True
+microsoft/vscode,2023-06-29 06:19:02,feature,stickyScroll sticks curly brackets instead of class/function if bracket in new line ,question,False,feature,True
+microsoft/vscode,2023-06-28 16:38:51,feature,add an accessibility verbosity setting for notebooks so users can discover the notebook help menu,feature,True,feature,True
+microsoft/vscode,2023-06-28 09:00:45,feature,Scrolling at the edges of the reference view editor will scroll the outer editor,feature,True,feature,True
+microsoft/vscode,2023-06-27 21:52:22,feature,Enabling tag telemetry for Go,feature,True,feature,True
+microsoft/vscode,2023-06-27 18:14:34,feature,"Let me click on ""hidden lines"" text to unfold",feature,True,feature,True
+microsoft/vscode,2023-06-27 18:02:15,feature,Peek Call/Type Hierarchy not in command palette,bug,False,bug,False
+microsoft/vscode,2023-06-27 06:55:27,feature,Can't view embedded html PDF files in vscode jupyter,question,False,feature,True
+microsoft/vscode,2023-06-26 18:13:04,feature,Support creating a new task of a particular type programmatically,feature,True,feature,True
+microsoft/vscode,2023-06-25 12:25:18,feature,Small UI Improvement ,question,False,question,False
+microsoft/vscode,2023-06-24 09:28:32,feature,Increase the width of breadcrumb box to support longer function name indexing.,feature,True,feature,True
+microsoft/vscode,2023-06-22 20:46:44,feature,"Picture-in-Picture for terminal, using new Google Chrome API",feature,True,feature,True
+microsoft/vscode,2023-06-21 14:52:48,feature,Diff Editor: Collapse Unchanged Code - Show Context Header,feature,True,feature,True
+microsoft/vscode,2023-06-21 09:14:29,feature,Disable alt toggle of menubar altogether,feature,True,feature,True
+microsoft/vscode,2023-06-20 21:12:25,feature,Consider providing screen reader with the chat response for inline chat,feature,True,feature,True
+microsoft/vscode,2023-06-20 16:49:46,feature,Consider adding audio cues for inline chat,feature,True,feature,True
+microsoft/vscode,2023-06-20 14:30:22,feature,Improve presentation of startup perf raw marks,bug,False,bug,False
+microsoft/vscode,2023-09-28 20:59:06,question,Breadcrumbs are limited to 6 items within a file,question,True,bug,False
+microsoft/vscode,2023-09-28 15:53:17,question,autocomplete style  in javascript,feature,False,feature,False
+microsoft/vscode,2023-09-28 04:13:06,question,VS code stops running react code,question,True,question,True
+microsoft/vscode,2023-09-26 20:41:36,question,Unable to deny Built-in Port Forwarding,feature,False,feature,False
+microsoft/vscode,2023-09-26 05:14:01,question,Sponsored issue: Support Request - Infinite Scrolling Web App,feature,False,feature,False
+microsoft/vscode,2023-09-25 13:44:18,question,Terminal process failed to launch,question,True,question,True
+microsoft/vscode,2023-09-25 02:47:11,question,problema con idioma vscode,question,True,question,True
+microsoft/vscode,2023-09-23 04:41:43,question,Terminal problem,question,True,question,True
+microsoft/vscode,2023-09-22 14:38:12,question,pow() function not working in c++,question,True,bug,False
+microsoft/vscode,2023-09-22 01:45:20,question,Calculation is not being done in higher datatype for cpp code,question,True,question,True
+microsoft/vscode,2023-09-21 16:14:30,question,Issues with source control,question,True,question,True
+microsoft/vscode,2023-09-20 16:28:33,question,[Feature Request] Add workbench action to split editor terminal below,feature,False,feature,False
+microsoft/vscode,2023-09-18 18:20:14,question,Giveing wrong output in C programming compilation,question,True,question,True
+microsoft/vscode,2023-09-17 07:02:24,question,Terminal Issue.,question,True,question,True
+microsoft/vscode,2023-09-16 11:14:59,question,Please provide a complete list of files and folders generated by VSCode and their locations,feature,False,feature,False
+microsoft/vscode,2023-09-15 06:09:43,question,Where are the Extensions Stored?,question,True,question,True
+microsoft/vscode,2023-09-14 12:06:09,question,Please make sure vscode's window title bar changes color when the Windows focus is acquired.,bug,False,bug,False
+microsoft/vscode,2023-09-13 13:17:38,question,Terminate batch job issue,question,True,question,True
+microsoft/vscode,2023-09-13 00:27:38,question,please allow for multiple tunnels on same machine,feature,False,feature,False
+microsoft/vscode,2023-09-11 07:33:42,question,Open files from different folders in one workspace without having to split editor,feature,False,feature,False
+microsoft/vscode,2023-09-09 13:37:00,question,Add terminal highlighting support,question,True,feature,False
+microsoft/vscode,2023-09-09 03:29:09,question,"logging into cs50.dev is ok, but VS code space does not load ",question,True,question,True
+microsoft/vscode,2023-09-08 11:38:19,question,Search files (advanced search - filter a particular extension),feature,False,feature,False
+microsoft/vscode,2023-09-07 17:47:37,question,grille.py,question,True,question,True
+microsoft/vscode,2023-09-07 14:40:11,question,My terminal keeps giving me errors.I can't run my codes in the terminal.,question,True,question,True
+microsoft/vscode,2023-09-06 00:39:35,question,It compiles but the console instantly closes,question,True,question,True
+microsoft/vscode,2023-09-04 06:36:37,question,PIL library encountering error,question,True,question,True
+microsoft/vscode,2023-09-03 12:17:46,question,wont run the program,question,True,question,True
+microsoft/vscode,2023-09-02 18:37:59,question,Autoformat stopped working for Javascript,question,True,question,True
+microsoft/vscode,2023-09-01 12:26:02,question,code is not run prperly,question,True,question,True
+microsoft/vscode,2023-08-31 16:13:32,question,local host ,question,True,question,True
+microsoft/vscode,2023-08-31 02:41:06,question,"vscode: PERM: operation not permitted, copyfile",question,True,question,True
+microsoft/vscode,2023-08-30 14:45:45,question,can't able to create project,question,True,question,True
+microsoft/vscode,2023-08-27 12:40:01,question,mysql,question,True,question,True
+microsoft/vscode,2023-08-24 09:56:18,question,Can you provide ways to distinguish between vscode windows.,feature,False,feature,False
+microsoft/vscode,2023-08-23 16:02:16,question,"The ""&"" symbol in the terminal is coming automatically after each time I change the directory using the CD command.",question,True,question,True
+microsoft/vscode,2023-08-22 00:42:24,question,FONT,question,True,question,True
+microsoft/vscode,2023-08-21 18:35:46,question,About Winerror 87,question,True,question,True
+microsoft/vscode,2023-08-19 20:41:27,question,Make pinned tabs small,feature,False,feature,False
+microsoft/vscode,2023-08-19 01:55:54,question,Material-UI website not loading,question,True,question,True
+microsoft/vscode,2023-08-18 08:45:01,question,** On entry to DGEBAL parameter number  3 had an illegal value,question,True,question,True
+microsoft/vscode,2023-08-17 12:40:51,question,Something wrong with the terminal encoding,question,True,question,True
+microsoft/vscode,2023-08-16 13:52:55,question,CODE NOT RUNNING,question,True,question,True
+microsoft/vscode,2023-08-16 02:41:13,question,to sets of pythan,question,True,question,True
+microsoft/vscode,2023-08-15 06:17:39,question,MacOS M1 VScode Github copilot chat icon no show,question,True,question,True
+microsoft/vscode,2023-08-14 14:23:24,question,Inform user about workspace tsdk.,feature,False,feature,False
+microsoft/vscode,2023-08-14 07:36:41,question,is it possible to setup Mqtt connection from a server to vs code extension,question,True,feature,False
+microsoft/vscode,2023-08-12 10:06:09,question,comment supprimer waka time Api key,question,True,question,True
+microsoft/vscode,2023-08-11 11:19:14,question,reload on the local host site not responding,question,True,question,True
+microsoft/vscode,2023-08-10 16:22:56,question,"I'm not able to make changes to the settings, everything I change appears this sentence ""Unable to record in user settings. Open user settings to correct errors / warnings and try again."" and does not save.",question,True,bug,False
+microsoft/vscode,2023-08-10 10:54:59,question,powershell,question,True,question,True
+microsoft/vscode,2023-08-10 07:47:29,question,chatview how display?,question,True,bug,False
+microsoft/vscode,2023-08-09 17:59:16,question,MetaTrader5,question,True,question,True
+microsoft/vscode,2023-08-08 08:18:58,question,have to reopen files on startup,question,True,question,True
+microsoft/vscode,2023-08-07 17:00:40,question,Errors are not showing,question,True,question,True
+microsoft/vscode,2023-08-06 19:13:37,question,First lesson ,question,True,question,True
+microsoft/vscode,2023-08-05 15:02:20,question, Background color support for notebook cells,feature,False,feature,False
+microsoft/vscode,2023-08-04 19:13:03,question,my c programming code is not working properly,question,True,question,True
+microsoft/vscode,2023-08-04 06:52:16,question,VS code won't run anything,question,True,question,True
+microsoft/vscode,2023-08-03 09:43:00,question,js file logo is different ,bug,False,bug,False
+microsoft/vscode,2023-08-01 15:08:15,question,having trouble with checking my programms befor submitting them in cs50 course for python and AI,question,True,question,True
+microsoft/vscode,2023-07-31 20:49:34,question,./population: line 4: syntax error near unexpected token '(',question,True,question,True
+microsoft/vscode,2023-07-29 18:29:28,question,Cannot open DB,question,True,question,True
+microsoft/vscode,2023-07-28 12:31:21,question,Error,question,True,question,True
+microsoft/vscode,2023-07-28 04:59:42,question,run the c code,question,True,question,True
+microsoft/vscode,2023-07-22 16:47:56,question,"Environment variables such as PATH only for a workspace, in settings.json",feature,False,feature,False
+microsoft/vscode,2023-07-20 17:03:38,question,Javascript in vscode cannot be intelligently completed!,question,True,question,True
+microsoft/vscode,2023-07-19 18:42:39,question,terminated,question,True,question,True
+microsoft/vscode,2023-07-19 03:07:59,question,"When the same variable exists in the open files, Intelligent completion will trigger wrong completion",question,True,question,True
+microsoft/vscode,2023-07-18 09:20:42,question,Allow webview context menus triggered by primary click,feature,False,feature,False
+microsoft/vscode,2023-07-17 17:05:21,question,Python bug,question,True,question,True
+microsoft/vscode,2023-07-17 01:49:49,question,[go to reference] need some jump,question,True,feature,False
+microsoft/vscode,2023-07-15 10:53:05,question,Issue in writing react native styles ,feature,False,feature,False
+microsoft/vscode,2023-07-14 04:33:06,question,Not working and run in terminal the codes.,question,True,question,True
+microsoft/vscode,2023-07-13 15:01:38,question,install libraries ,question,True,question,True
+microsoft/vscode,2023-07-13 09:00:42,question,JSDoc @description tag does not respect line breaks unless two spaces are added at the end of the line,question,True,bug,False
+microsoft/vscode,2023-07-11 10:40:37,question,ports in codespace,question,True,question,True
+microsoft/vscode,2023-07-08 17:53:37,question,Unable to resolve resource vscode-remote://codespaces%2Bboli8845-ideal-fiesta-7r579g4xprfx57/workspaces/27709499,question,True,question,True
+microsoft/vscode,2023-07-08 07:02:45,question,"How do i recover deleted files? I accidentally removed my entire project file, is there any way i can recover it?",question,True,question,True
+microsoft/vscode,2023-07-07 03:27:17,question,Repeatedly getting errors launching flutter app in Iphone [Error launching application],question,True,question,True
+microsoft/vscode,2023-07-05 22:12:02,question,html incompleto,question,True,question,True
+microsoft/vscode,2023-07-04 09:34:59,question,js reference irrelevant file across open editors,question,True,question,True
+microsoft/vscode,2023-07-02 22:18:39,question,BotBuild,question,True,question,True
+microsoft/vscode,2023-07-01 18:09:08,question,Only subset of references of a symbol found unless file from specific directories is opened in editor,question,True,feature,False
+microsoft/vscode,2023-06-30 12:29:26,question,"chrome like behaviour when closing tabs, this is so frustrating (⚠️)",question,True,feature,False
+microsoft/vscode,2023-06-29 13:49:04,question,.length property not working?,question,True,question,True
+microsoft/vscode,2023-06-28 22:44:43,question,Mouse not working at all in terminal + all terminal editor keybinding is occupied by vs code,question,True,question,True
+microsoft/vscode,2023-06-28 17:41:26,question,Will not run code,question,True,question,True
+microsoft/vscode,2023-06-26 22:05:34,question,Code actions on save can also be used in a runCommands keybinding,question,True,question,True
+microsoft/vscode,2023-06-26 15:45:23,question,terminal,question,True,question,True
+microsoft/vscode,2023-06-24 02:26:58,question,Bug in update.,question,True,question,True
+microsoft/vscode,2023-06-23 14:26:39,question,cant use my import,question,True,question,True
+microsoft/vscode,2023-06-22 16:07:36,question,Environment variables in %PATH% are not expanded,question,True,question,True
+microsoft/vscode,2023-06-21 14:12:05,question,How to Automatically Guide Users to Upgrade from One VSCode Extension to Another?,feature,False,feature,False
+microsoft/vscode,2023-06-19 15:16:32,question,Active tab in Vs Code is not very clear,question,True,question,True
+microsoft/vscode,2023-06-18 12:24:30,question,The facility for exposing default settings launch.json,feature,False,feature,False
+microsoft/vscode,2023-06-17 00:56:01,question,Background theme,question,True,question,True
+microsoft/vscode,2023-06-15 23:05:33,question,Issue with ESC key mapping and Copilot,question,True,question,True
+microsoft/vscode,2023-06-15 11:55:58,question,"Can't launch VS Code from Linux terminal: symbol lookup error: ...,undefined symbol: gbm_bo_map",question,True,question,True
+microsoft/vscode,2023-06-14 14:15:37,question,Opening a file replaces another open file,question,True,question,True
+bitcoin/bitcoin,2023-09-10 04:53:51,feature,#F,question,False,bug,False
+bitcoin/bitcoin,2023-09-01 22:33:04,feature,Additional Bitcoin-Qt capability to mine regtest blocks,feature,True,feature,True
+bitcoin/bitcoin,2023-08-11 01:45:11,feature,easy loading custom blockchains,feature,True,feature,True
+bitcoin/bitcoin,2023-06-27 11:43:19,feature,An option for a shell command that runs just before bitcoind completes shutting down.,feature,True,feature,True
+bitcoin/bitcoin,2023-06-23 08:52:50,feature,Optimization: utilize 100% resources of a computer in long operations like rescan/initial block download,feature,True,feature,True
+bitcoin/bitcoin,2023-06-09 23:18:21,feature,Bitcoin's relay fee refactoring,feature,True,feature,True
+bitcoin/bitcoin,2023-06-02 18:48:23,feature,depriortisetransaction,feature,True,feature,True
+bitcoin/bitcoin,2023-05-12 11:47:38,feature,Script verification being run when rebuilding UTXO database.,feature,True,feature,True
+bitcoin/bitcoin,2023-05-07 20:04:05,feature,provide optional RPC parameter to not scramble sendmany transactions,feature,True,feature,True
+bitcoin/bitcoin,2023-04-09 12:08:01,feature,Add parallelism for downloading the blockchain,feature,True,feature,True
+bitcoin/bitcoin,2023-03-05 18:07:28,feature,Full Support for Spending Untrusted Unconfirmed Outputs,feature,True,feature,True
+bitcoin/bitcoin,2023-02-27 06:57:14,feature,Bitcoin core full node with S3 bucket,feature,True,feature,True
+bitcoin/bitcoin,2023-02-07 11:55:29,feature,Add configuration option that will allow for setting the upper bound on transaction size for relaying,feature,True,feature,True
+bitcoin/bitcoin,2023-02-05 18:11:47,feature,Summary of Bitcoin Core Improvements,feature,True,feature,True
+bitcoin/bitcoin,2023-01-19 10:23:40,feature,ci: Use containerfiles?,feature,True,feature,True
+bitcoin/bitcoin,2023-01-11 17:55:14,feature,.,feature,True,feature,True
+bitcoin/bitcoin,2022-12-08 20:07:25,feature,Bring back the zap (zaptransaction RPC),feature,True,feature,True
+bitcoin/bitcoin,2022-11-21 17:22:47,feature,Keep seed phrase/mnemonic on cold encrypted,feature,True,feature,True
+bitcoin/bitcoin,2022-10-07 12:59:12,feature,Creat code example with python to send bitcoin (bc1 - P2WPKH / Bech32),question,False,question,False
+bitcoin/bitcoin,2022-09-17 02:29:39,feature,no surprise rescan for importprivkey newbie,feature,True,feature,True
+bitcoin/bitcoin,2022-08-21 01:30:20,feature,It is possible Bitcoin core be rewarded?,feature,True,feature,True
+bitcoin/bitcoin,2022-07-26 20:00:18,feature,[brainstorm] policies for default `minrelaytxfee` as experiment for a release ,feature,True,feature,True
+bitcoin/bitcoin,2022-07-13 15:02:11,feature,Miniscript support for decodescript,feature,True,feature,True
+bitcoin/bitcoin,2022-06-15 08:54:03,feature,"benchmarks: ""skip slow benchmarks"" option?",feature,True,feature,True
+bitcoin/bitcoin,2022-05-31 21:08:24,feature,Parallel compact block download,feature,True,feature,True
+bitcoin/bitcoin,2022-04-25 15:04:18,feature,getrpcinfo should provide version number,feature,True,feature,True
+bitcoin/bitcoin,2022-04-07 17:22:10,feature,Add an option to create taproot descriptor for old descriptor wallets,feature,True,feature,True
+bitcoin/bitcoin,2022-04-04 13:30:08,feature,Python tests: use black and isort for formatting,feature,True,bug,False
+bitcoin/bitcoin,2022-03-24 02:45:10,feature,util/check.h Assert/Assume: namespacing issues,feature,True,bug,False
+bitcoin/bitcoin,2022-02-22 19:30:45,feature,[brainstorm] Improving `makeseeds.py`,feature,True,feature,True
+bitcoin/bitcoin,2022-02-15 02:04:10,feature,guix-attest should support custom GPG executable names,feature,True,feature,True
+bitcoin/bitcoin,2022-02-07 15:00:03,feature,pruneblockchain should be able to increase the size of pruned blockchain,feature,True,feature,True
+bitcoin/bitcoin,2022-02-01 15:39:49,feature,Sync pruned blockchain,feature,True,feature,True
+bitcoin/bitcoin,2022-01-27 04:13:26,feature,Moderation required for BitcoinCore in the Microsoft winget package repository,feature,True,feature,True
+bitcoin/bitcoin,2022-01-14 14:41:37,feature,doc: add a brief description to each namespace,feature,True,feature,True
+bitcoin/bitcoin,2021-12-27 14:43:43,feature,allow duplicate output addresses `createrawtransaction`,feature,True,feature,True
+bitcoin/bitcoin,2021-12-21 13:02:35,feature,[meta] Reworking the merge commit format,feature,True,feature,True
+bitcoin/bitcoin,2021-12-15 17:11:34,feature,wallet: Sweep function and deprecating subtractFeeFromOutputs,feature,True,feature,True
+bitcoin/bitcoin,2021-12-15 07:24:39,feature,Wallet rescan multiple wallets,question,False,question,False
+bitcoin/bitcoin,2021-11-28 21:36:36,feature,"Password for encrypted wallets on all pw protected functions (such as sendtoaddress, dumpprivkey, etc)",feature,True,feature,True
+bitcoin/bitcoin,2021-11-01 17:13:02,feature,Use notifications.dat for -*notify,feature,True,feature,True
+bitcoin/bitcoin,2021-10-17 14:23:23,feature,tracing: tests for USDT tracepoints ,feature,True,feature,True
+bitcoin/bitcoin,2021-10-11 20:37:25,feature,bitcoin-cli getaddressofwallet ,question,False,question,False
+bitcoin/bitcoin,2021-10-05 13:39:37,feature,RPC: Allow user to supply weight of external input,feature,True,feature,True
+bitcoin/bitcoin,2021-10-03 02:00:38,feature,Coin selection algorithm proposal,feature,True,feature,True
+bitcoin/bitcoin,2021-09-23 15:18:00,feature,Full CJDNS support,feature,True,feature,True
+bitcoin/bitcoin,2021-09-22 12:26:41,feature,Allow UTXO locks to be written to wallet DB,feature,True,feature,True
+bitcoin/bitcoin,2021-09-10 22:41:05,feature,.,feature,True,feature,True
+bitcoin/bitcoin,2021-09-02 21:15:48,feature,Add CBOR RPC interface,feature,True,feature,True
+bitcoin/bitcoin,2021-08-16 10:29:42,feature,Protect a number of outbound tor connections from eviction,feature,True,feature,True
+bitcoin/bitcoin,2021-08-10 18:05:22,feature,docs: add more examples and clarifications to external-signer.md,feature,True,feature,True
+bitcoin/bitcoin,2021-07-23 07:48:14,feature,"Please make GUI responsive while syncing with network, especially to stop sync ",feature,True,feature,True
+bitcoin/bitcoin,2021-07-12 01:25:09,feature,"Additional arg: ""-groupcookie"" ",feature,True,feature,True
+bitcoin/bitcoin,2021-06-29 09:50:13,feature,wallet: use database for locked coins,feature,True,feature,True
+bitcoin/bitcoin,2021-05-21 10:21:36,feature,add a way to decrypt wallets without password,feature,True,feature,True
+bitcoin/bitcoin,2021-05-11 22:47:51,feature,listransactions : documentation missing : erasure of txs with negative confs,feature,True,feature,True
+bitcoin/bitcoin,2021-05-09 09:00:40,feature,Sanitize fee rates  (user input),feature,True,feature,True
+bitcoin/bitcoin,2021-04-21 02:23:41,feature,Error messages for invalid address,feature,True,bug,False
+bitcoin/bitcoin,2021-04-15 12:16:38,feature,TX fee estimation does not take into account time of day or day of week,feature,True,feature,True
+bitcoin/bitcoin,2021-04-09 19:52:28,feature,having dataworkdir and dataarchivedir to increase velocity,feature,True,question,False
+bitcoin/bitcoin,2021-04-01 13:16:08,feature,[wallet] dumprivkey descriptor support,feature,True,feature,True
+bitcoin/bitcoin,2021-03-29 14:08:51,feature,Simple and intuitive way of watching/monitoring xpub keys?,feature,True,feature,True
+bitcoin/bitcoin,2021-02-25 14:55:56,feature,Add `include_unsafe` option to `fundrawtransaction`,feature,True,feature,True
+bitcoin/bitcoin,2021-02-23 17:29:17,feature,.,question,False,bug,False
+bitcoin/bitcoin,2021-02-19 09:39:16,feature,.,feature,True,feature,True
+bitcoin/bitcoin,2021-02-17 06:44:10,feature,iOS build support in macos bigsur 2020,question,False,question,False
+bitcoin/bitcoin,2021-02-16 11:25:56,feature,guix: Make it arch agnostic,feature,True,feature,True
+bitcoin/bitcoin,2021-02-08 10:49:31,feature,New Feature: Faster --reindex speed optimisation,feature,True,feature,True
+bitcoin/bitcoin,2021-02-04 11:42:21,feature,Follow-ups to PR 19509 - Message Capture,bug,False,bug,False
+bitcoin/bitcoin,2021-02-03 04:38:01,feature,"~~$1,500 Bounty for Offline Multisignature through the GUI~~ View #24861",feature,True,feature,True
+bitcoin/bitcoin,2021-02-01 18:39:46,feature,Setting a label on bitcoin-qt changes the label of all unlabeled transactions,question,False,question,False
+bitcoin/bitcoin,2021-01-22 22:09:12,feature,RPC: Derive wallet addresses,feature,True,feature,True
+bitcoin/bitcoin,2021-01-16 04:13:25,feature,dbcache config option is missing from example bitcoin.conf,feature,True,feature,True
+bitcoin/bitcoin,2020-12-29 04:14:52,feature,Can I make readme.md and other introduction files in another language?,feature,True,feature,True
+bitcoin/bitcoin,2020-12-17 12:49:55,feature,Add I2P support using I2P SAM,feature,True,feature,True
+bitcoin/bitcoin,2020-12-05 11:12:46,feature,RFC on logging improvements,feature,True,feature,True
+bitcoin/bitcoin,2020-11-30 14:20:34,feature,PSBT is not handling PSBT_GLOBAL_XPUB,feature,True,feature,True
+bitcoin/bitcoin,2020-11-26 02:36:53,feature,use try_emplace on std::map with c++17,feature,True,feature,True
+bitcoin/bitcoin,2020-11-20 10:09:29,feature,Bitcoin address format.,feature,True,feature,True
+bitcoin/bitcoin,2020-11-10 19:05:12,feature,test_bitcoin-qt shouldn't bind to regtest ports,bug,False,bug,False
+bitcoin/bitcoin,2020-10-26 14:06:03,feature,Document JSON-RPC wallet endpoints,question,False,question,False
+bitcoin/bitcoin,2020-10-23 08:41:04,feature,Dependency on GitHub,feature,True,question,False
+bitcoin/bitcoin,2020-10-17 20:02:57,feature,Allow spending from segwit addresses created from uncompressed private keys (P2SH-P2WPKH),feature,True,feature,True
+bitcoin/bitcoin,2020-10-15 12:56:04,feature,rpc: fetch block from peer,feature,True,feature,True
+bitcoin/bitcoin,2020-10-14 20:26:19,feature,Built in restore wallet,feature,True,feature,True
+bitcoin/bitcoin,2020-10-09 11:44:23,feature,Improve block file pre-allocation speed on Linux,feature,True,feature,True
+bitcoin/bitcoin,2020-10-05 17:30:37,feature,fuzz: how to scale fuzzing with the number of fuzz targets,feature,True,feature,True
+bitcoin/bitcoin,2020-09-25 20:49:44,feature,[Idea] Multiple ports for faster overall performance?,question,False,question,False
+bitcoin/bitcoin,2020-09-22 12:09:08,feature,Rescanning use only 1 core,question,False,question,False
+bitcoin/bitcoin,2020-09-10 10:15:17,feature,RFC: SVG images/icons support,feature,True,feature,True
+bitcoin/bitcoin,2020-09-09 09:26:16,feature,Improve Tor support documentation,feature,True,feature,True
+bitcoin/bitcoin,2020-09-04 19:58:04,feature,Script interpreter cleanups,feature,True,feature,True
+bitcoin/bitcoin,2020-08-27 15:11:25,feature,Transactions propagation design goals,feature,True,feature,True
+bitcoin/bitcoin,2020-08-26 01:38:38,feature,Signing Transactions on Offline Computer without Blockchain,feature,True,feature,True
+bitcoin/bitcoin,2020-08-17 14:21:43,feature,Deprecate banlist.dat,feature,True,feature,True
+bitcoin/bitcoin,2020-08-06 22:26:26,feature,Expose compact blocks high-bandwidth mode state through getpeerinfo,feature,True,feature,True
+bitcoin/bitcoin,2020-08-04 18:11:32,feature,Add explicit feeRate option for sendmany RPC method,feature,True,feature,True
+bitcoin/bitcoin,2020-07-27 23:59:30,feature,"Show the ""<n> of the last 100 blocks have unexpected version"" warning only when running -debug=validation?",feature,True,feature,True
+bitcoin/bitcoin,2020-07-24 13:52:35,feature,Solve year 2106 problem by taking timestamps mod 2^32,feature,True,feature,True
+bitcoin/bitcoin,2020-07-17 15:17:15,feature,"Normalize fee units for RPC (""BTC/kB"" and ""sat/B)",feature,True,feature,True
+bitcoin/bitcoin,2023-09-08 22:43:23,question,Sign and Verify Message not working!,question,True,question,True
+bitcoin/bitcoin,2023-08-28 09:07:53,question,"I didn't modify anything before I run make check,but it can't work",question,True,question,True
+bitcoin/bitcoin,2023-08-14 05:06:04,question,"Make it very obvious to the new people that the Bitcoin Core program first needs to be installed and run on the ""C"" drive. ",question,True,question,True
+bitcoin/bitcoin,2023-08-07 10:51:47,question,error C3203: 'UniqueLock',question,True,question,True
+bitcoin/bitcoin,2023-08-03 08:57:28,question,Master doesn't compile on MacOS X 10.13 High Sierra,question,True,question,True
+bitcoin/bitcoin,2023-06-27 06:46:50,question,Wallet not loaded,question,True,question,True
+bitcoin/bitcoin,2023-06-07 11:43:15,question,Alternative read only paths for -blocksdir,feature,False,feature,False
+bitcoin/bitcoin,2023-05-31 11:03:32,question,"Indicate RBF replaceability, also after transactions have been confirmed ",feature,False,feature,False
+bitcoin/bitcoin,2023-05-20 11:38:09,question,Compute 'short id' when transaction joins mempool,question,True,question,True
+bitcoin/bitcoin,2023-05-16 21:33:42,question,Can't compile v24.0.1,question,True,question,True
+bitcoin/bitcoin,2023-05-02 09:29:59,question,Build broken when enabling fuzzing on Apple M1 hw using homebrew llvm.,question,True,question,True
+bitcoin/bitcoin,2023-04-04 00:50:19,question,-fallbackfee should apply to estimatesmartfee,feature,False,feature,False
+bitcoin/bitcoin,2023-03-28 14:06:07,question,index: ThreadSanitizer: data race on vptr ,bug,False,bug,False
+bitcoin/bitcoin,2023-02-24 15:35:28,question,"Bitcoind crashed, how to debug",question,True,question,True
+bitcoin/bitcoin,2023-02-23 16:05:53,question,configure: error: cannot figure out how to use std::filesystem,question,True,question,True
+bitcoin/bitcoin,2023-02-16 16:41:59,question,Intermittent issue in p2p_ibd_stalling.py                                        self.wait_until(lambda: self.total_bytes_recv_for_blocks() == 172761),bug,False,bug,False
+bitcoin/bitcoin,2023-02-02 08:17:41,question,changing the path of the .bitcoin folder,question,True,question,True
+bitcoin/bitcoin,2023-01-30 01:46:19,question,No wallet command found,question,True,question,True
+bitcoin/bitcoin,2022-12-28 01:29:02,question,Building or Loading the MS Visual Studio Project issue,question,True,question,True
+bitcoin/bitcoin,2022-11-24 15:37:40,question,`28E72909F1717FE9607754F8A7BEB2621678D37D` key not specified in builder keys and `24.0` release signed with it,feature,False,question,True
+bitcoin/bitcoin,2022-11-02 08:13:57,question,"[MSVC] Bitcoin build failed due to bitcoin\\src\\fs.h(75,39): error C2039: 'u8string': is not a member of 'std' with msvc option /c++latest",question,True,bug,False
+bitcoin/bitcoin,2022-11-01 11:49:08,question,getblockchaininfo.verificationprogress never reaching 1.0,question,True,question,True
+bitcoin/bitcoin,2022-10-28 01:33:39,question,The “Bitcoin peers implement a reputation-based protocol” are exists?,question,True,question,True
+bitcoin/bitcoin,2022-10-15 17:30:22,question,MacOS: make issue libsecp256k1_precomputed.a: No such file or directory,question,True,question,True
+bitcoin/bitcoin,2022-10-09 13:55:12,question,why createwallet command not work in compiled bitcoin core ,question,True,question,True
+bitcoin/bitcoin,2022-10-03 20:37:08,question,Error code -4. How to fix is?,question,True,question,True
+bitcoin/bitcoin,2022-09-28 15:15:38,question,bitcoin-cli does'nt have any method. Error -32601,question,True,question,True
+bitcoin/bitcoin,2022-09-06 11:55:46,question,bitcoin-cli: Compiled without bdb support (required for legacy wallets),question,True,question,True
+bitcoin/bitcoin,2022-09-03 03:57:31,question,"[Arch] Bitcoin stalls randomly, pegs a thread until manually stopped",question,True,question,True
+bitcoin/bitcoin,2022-08-22 15:28:19,question,"lambda function in src/script/miniscript.h:571: asserts() on invalid input script (if compiled in debug mode), but does not return a valid string otherwise",bug,False,bug,False
+bitcoin/bitcoin,2022-08-20 04:20:18,question,Continued from closed #25864 ./configure and installing llvm,question,True,question,True
+bitcoin/bitcoin,2022-08-09 07:40:18,question,Wallet file verification failed error,question,True,question,True
+bitcoin/bitcoin,2022-08-07 13:41:15,question,"IBD stalls permanently with Bitcoin core v23 after ""ignoring getheaders from peer=0 because node is in initial block download""",bug,False,bug,False
+bitcoin/bitcoin,2022-07-18 20:16:44,question,Cannot do HTTP JSON RPC  request on wallet,question,True,question,True
+bitcoin/bitcoin,2022-06-17 09:26:10,question,Stop the GPG verification madness,feature,False,feature,False
+bitcoin/bitcoin,2022-06-06 08:35:05,question,Ubuntu 20.04 Server - Build Error,question,True,question,True
+bitcoin/bitcoin,2022-05-25 08:27:42,question,MakeHost error using WSL including pictures.,question,True,question,True
+bitcoin/bitcoin,2022-05-11 05:10:25,question,when can use tap root ? is there any document for tap root developer ?,question,True,question,True
+bitcoin/bitcoin,2022-04-28 17:45:28,question,"On node startup, load mempool from peers ?",question,True,question,True
+bitcoin/bitcoin,2022-04-22 08:03:10,question,RPC `getblockfrompeer` returns an error with bitcoin-cli,question,True,bug,False
+bitcoin/bitcoin,2022-04-04 20:42:37,question,non-mandatory-script-verify-flag (Witness program hash mismatch) when trying to spend Taproot output with 32x 0x00 tapbranch,question,True,question,True
+bitcoin/bitcoin,2022-03-20 06:55:38,question,main.cpp error during make. Ubuntu 16.04 with boost 1.77,question,True,question,True
+bitcoin/bitcoin,2022-01-21 07:53:41,question,Apple Silicon massive performance degredation in function tests / rpc (m1) ,question,True,question,True
+bitcoin/bitcoin,2022-01-09 08:41:15,question,Can't Unlock Bitcoin Wallet With Correct Password ,question,True,question,True
+bitcoin/bitcoin,2022-01-01 12:15:51,question,Error while windows build.,question,True,question,True
+bitcoin/bitcoin,2021-12-15 13:14:56,question,`sendtoaddress` tries to use unspendable UTXOs and fails,feature,False,feature,False
+bitcoin/bitcoin,2021-11-24 15:53:25,question,The weak getauxval in CentOS 6,question,True,bug,False
+bitcoin/bitcoin,2021-10-20 02:03:03,question,About restore the wallet,question,True,question,True
+bitcoin/bitcoin,2021-10-14 08:42:06,question,bitcoincore update   linux (tgz) or arm linux,question,True,bug,False
+bitcoin/bitcoin,2021-08-27 07:32:01,question,How to mine continuously in segtest of version  bitcoin-0.20?,question,True,question,True
+bitcoin/bitcoin,2021-08-19 09:03:18,question,Script verification threads are idle during IBD,question,True,bug,False
+bitcoin/bitcoin,2021-08-09 09:16:04,question,Is it possible to disable bind on onion network listening port?,feature,False,feature,False
+bitcoin/bitcoin,2021-07-17 04:36:23,question,[Question]how can i use ip:host not localhost:port in RPC?,question,True,question,True
+bitcoin/bitcoin,2021-07-10 18:32:38,question,Increase trust through Wallet Aliases and Transfer Confirmations,feature,False,feature,False
+bitcoin/bitcoin,2021-06-30 11:58:04,question,"RPC usage for ""logging"" unclear",question,True,question,True
+bitcoin/bitcoin,2021-06-23 12:20:35,question,Unable to link with libc++-8 (undefined reference to symbol '_ZNSt18condition_variable10notify_oneEv@@GLIBCXX_3.4.11'),bug,False,bug,False
+bitcoin/bitcoin,2021-06-16 13:26:11,question,how to support Native SegWit (Bech32) address ,question,True,question,True
+bitcoin/bitcoin,2021-05-13 06:34:07,question,Compiling macOS environment on Ubuntu 18.04,question,True,question,True
+bitcoin/bitcoin,2021-04-18 17:16:42,question,Fatal LevelDB error: Corruption: block checksum mismatch,question,True,question,True
+bitcoin/bitcoin,2021-04-01 22:02:04,question,ERROR: AcceptBlockHeader: block is marked invalid,bug,False,bug,False
+bitcoin/bitcoin,2021-02-24 09:34:51,question,Block pre-allocation appears to have surprisingly poor performance ,feature,False,feature,False
+bitcoin/bitcoin,2021-02-07 09:06:54,question,mandatory-script-verify-flag-failed (Public key is neither compressed or uncompressed),question,True,bug,False
+bitcoin/bitcoin,2021-01-15 03:19:41,question,We should remove MAX_BLOCK_BASE_SIZE in functional tests ?,feature,False,feature,False
+bitcoin/bitcoin,2020-12-14 03:52:08,question,Idea suggestion: allow using external DB (for instance RethinkDB) engines for block storage,feature,False,feature,False
+bitcoin/bitcoin,2020-12-08 17:57:40,question,"""Segmentation Fault: 11"" on MacOS when ""-rescan"" large (1 GB) wallet.dat",bug,False,bug,False
+bitcoin/bitcoin,2020-11-25 10:12:34,question,Question: How to debug using docker & CI shell script?,question,True,question,True
+bitcoin/bitcoin,2020-11-06 08:40:40,question,"Processblock not accepted, leveldb batch commit failure: IO error: unsufficient space",question,True,question,True
+bitcoin/bitcoin,2020-10-28 18:03:25,question,Unable to compile on native macOS after 3caee16946575e71e90ead9ac531f5a3a1259307,question,True,question,True
+bitcoin/bitcoin,2020-10-02 20:59:04,question,BitcoinCore Fatal Internal Error when syncing,question,True,question,True
+bitcoin/bitcoin,2020-09-06 11:47:30,question,Fail to build on Fedora 32,bug,False,bug,False
+bitcoin/bitcoin,2020-07-04 17:00:49,question,Bech32 address not provided when creating a new receiving address,question,True,question,True
+bitcoin/bitcoin,2020-05-05 11:57:21,question,"On windows 10 most of the time the wallet is in the - (not responding) mode, please tell me what to do",question,True,question,True
+bitcoin/bitcoin,2020-03-15 18:25:43,question,"Built 0.19.1 from source, get the warning ""This is a pre-release..."" developers forgot to remove it.",question,True,question,True
+bitcoin/bitcoin,2020-01-12 13:40:28,question,bitcoin-core snap issues,question,True,question,True
+bitcoin/bitcoin,2019-12-19 17:44:37,question,p2p: GetBlocks message response,question,True,question,True
+bitcoin/bitcoin,2019-12-03 23:06:40,question,Balance is 0 after send transaction in testnet v0.19 and blocksonly flag enabled,question,True,question,True
+bitcoin/bitcoin,2019-11-26 19:22:05,question,"""2"" address unexpectedly changed to ""m"" address in Testnet",question,True,question,True
+bitcoin/bitcoin,2019-11-06 18:32:16,question,FlushStateToDisk() takes more than 10 minutes,question,True,bug,False
+bitcoin/bitcoin,2019-10-30 16:28:08,question,Private test network - Outgoing connections ?,question,True,question,True
+bitcoin/bitcoin,2019-10-25 10:08:11,question,Outgoing P2P connections are reset immediately,question,True,question,True
+bitcoin/bitcoin,2019-10-24 02:33:24,question,How to ensure there is no version mismatch?,question,True,question,True
+bitcoin/bitcoin,2019-10-10 20:38:31,question,build depends: How to use with ccache?,question,True,question,True
+bitcoin/bitcoin,2019-09-15 21:27:16,question,"armhf GUI: Permission denied: ""/database/lost+found/wallet.dat"" Aborted",question,True,question,True
+bitcoin/bitcoin,2019-08-01 08:46:05,question,Accessing function in anonymous namespace from a unit test,feature,False,feature,False
+bitcoin/bitcoin,2019-07-24 03:05:54,question,New to Bitcoin Core,question,True,question,True
+bitcoin/bitcoin,2019-07-04 00:37:41,question,How to create HD address?,question,True,question,True
+bitcoin/bitcoin,2019-06-24 09:29:45,question,bumpfee not returning hash of newly created transaction,feature,False,bug,False
+bitcoin/bitcoin,2019-06-14 02:04:39,question,Can't bind rpcport inside docker,question,True,question,True
+bitcoin/bitcoin,2019-06-09 23:22:46,question,Bitcoin testnet rpc is binding to localhost ,question,True,question,True
+bitcoin/bitcoin,2019-05-16 07:21:38,question,Is it possible to downgrade from 0.18.0 to 0.17.0?,question,True,question,True
+bitcoin/bitcoin,2019-04-12 16:02:56,question,Signing transactions locked with OP_CHECKLOCKTIMEVERIFY,feature,False,feature,False
+bitcoin/bitcoin,2019-04-03 21:51:32,question,Unable to importprivkey,question,True,question,True
+bitcoin/bitcoin,2019-03-04 07:15:34,question,"Fixed some times can not remove ""$SUFFIX-dirty"" on version number cor…",question,True,bug,False
+bitcoin/bitcoin,2019-02-28 05:16:43,question,"error: #error ""Bitcoin cannot be compiled without assertions.""",question,True,question,True
+bitcoin/bitcoin,2019-02-07 04:44:48,question,MacOS wallet compilation on Linux Ubuntu ,question,True,question,True
+bitcoin/bitcoin,2019-01-16 20:11:04,question,void,question,True,question,True
+bitcoin/bitcoin,2018-12-26 08:14:18,question,Rpc not working on 0.17.1,question,True,question,True
+bitcoin/bitcoin,2018-11-09 03:57:30,question,Why did not return?,question,True,question,True
+bitcoin/bitcoin,2018-11-04 10:16:04,question,Error when building binary files under Windows 64/32 bit,question,True,question,True
+bitcoin/bitcoin,2018-10-30 12:11:46,question,RPC Error: error -8,question,True,question,True
+bitcoin/bitcoin,2023-08-17 20:25:26,bug,rpc: remove one more quote from non-string oneline description,bug,True,bug,True
+bitcoin/bitcoin,2023-06-20 01:37:29,bug,wallets created on master get corrupted when processed with v25,question,False,question,False
+bitcoin/bitcoin,2023-06-10 05:18:46,bug,"Indefinite ""Bitcoin Core is shutting down...""",question,False,question,False
+bitcoin/bitcoin,2023-05-23 05:10:37,bug,Validation of malformed address fails with a peculiar message,question,False,question,False
+bitcoin/bitcoin,2023-04-19 13:16:07,bug,ci: failure in Docker build step,bug,True,bug,True
+bitcoin/bitcoin,2023-03-08 21:03:00,bug,Issue with `wallet_importdescriptors.py --descriptors` under valgrind,bug,True,bug,True
+bitcoin/bitcoin,2023-03-04 16:37:46,bug,Release 0.24.0.1 File system error.,bug,True,bug,True
+bitcoin/bitcoin,2023-02-23 13:00:40,bug,miniscript_stable fuzz timeout,bug,True,bug,True
+bitcoin/bitcoin,2023-02-20 16:32:21,bug,failure in feature_bip68_sequence.py,bug,True,bug,True
+bitcoin/bitcoin,2023-02-17 16:08:59,bug,"on OSX, bitcoind chooses different data directory than Bitcoin-Qt",feature,False,feature,False
+bitcoin/bitcoin,2023-02-11 16:26:17,bug,Failing to fetch `cfheader` corresponding to block header in `headers` message,bug,True,bug,True
+bitcoin/bitcoin,2023-02-10 16:18:01,bug,"Private key import via RPC importdescriptors shouldn't fail with the error code -5, ""Missing checksum""",bug,True,bug,True
+bitcoin/bitcoin,2023-02-09 09:59:45,bug,Intermittent issue in wallet_pruning.py,bug,True,bug,True
+bitcoin/bitcoin,2023-02-03 09:40:17,bug,macos depends build does not cache in the CI,bug,True,bug,True
+bitcoin/bitcoin,2023-02-01 16:27:05,bug,"signrawtransactionwithkey command shouldn't output the ""Witness program was passed an empty witness"" error for a TapRoot transaction",bug,True,bug,True
+bitcoin/bitcoin,2023-01-27 19:07:28,bug,RPC request gives an exception on more than two wallet has been loaded. ,question,False,question,False
+bitcoin/bitcoin,2023-01-24 20:55:25,bug,Intermittent failure in mining_getblocktemplate_longpoll.py,bug,True,bug,True
+bitcoin/bitcoin,2023-01-12 03:44:54,bug,"signmessage and verifymessage : ""Address does not refer to key""",question,False,question,False
+bitcoin/bitcoin,2023-01-09 18:01:32,bug,contrib/install_db4.sh script fails on OpenBSD 7.2 (RPi 3) (error: Unable to find a mutex implementation),question,False,question,False
+bitcoin/bitcoin,2023-01-05 17:40:53,bug,s390x fails to compile (Werror=free-nonheap-object),question,False,question,False
+bitcoin/bitcoin,2023-01-04 11:35:40,bug,p2p_disconnect_ban intermittent issue,bug,True,bug,True
+bitcoin/bitcoin,2023-01-02 16:40:48,bug,`test/lint/lint-python.py` thinks flake8 is not installed when it actually is,bug,True,bug,True
+bitcoin/bitcoin,2022-12-26 18:16:48,bug,I2P: Limit transient addresses,feature,False,feature,False
+bitcoin/bitcoin,2022-12-17 22:37:23,bug,Codespell errors in `src/wallet/test/walletload_tests.cpp`,bug,True,bug,True
+bitcoin/bitcoin,2022-12-15 08:48:37,bug,ci: clang-tidy does not check header files?,bug,True,bug,True
+bitcoin/bitcoin,2022-12-12 15:33:38,bug,Unable to create PSBT for legacy watchonly wallets in the GUI,feature,False,bug,True
+bitcoin/bitcoin,2022-12-08 00:14:23,bug,Pruned node unable to start when a wallet is present,question,False,question,False
+bitcoin/bitcoin,2022-11-30 22:23:47,bug,Intermittent failure in validation_chainstatemanager unit test,bug,True,bug,True
+bitcoin/bitcoin,2022-11-28 00:37:08,bug,"CJDNS doesn't resolve inbound/outbound to same addr, resulting in duplicated connections",feature,False,feature,False
+bitcoin/bitcoin,2022-11-26 01:32:40,bug,bitcoin-cli -netinfo ignores inbound peer from local network,feature,False,feature,False
+bitcoin/bitcoin,2022-11-19 22:46:47,bug,Multiple connections to same i2p address,bug,True,bug,True
+bitcoin/bitcoin,2022-11-13 16:16:35,bug,[systemd] Use of discouraged network target,feature,False,feature,False
+bitcoin/bitcoin,2022-11-10 13:16:46,bug,[24.0rc4] `--torcontrol` without `--onion` connects to wrong Tor proxy,bug,True,bug,True
+bitcoin/bitcoin,2022-11-06 15:37:17,bug,"[wallet] when unloading a wallet which still rescans the wallet, the command should fail but bitcoind gets in a buggy state",question,False,question,False
+bitcoin/bitcoin,2022-10-31 14:22:58,bug,`prevector` is basically doing UB if on C++17,feature,False,feature,False
+bitcoin/bitcoin,2022-10-28 10:31:51,bug,Failure in rpc_getblockfrompeer.py,bug,True,bug,True
+bitcoin/bitcoin,2022-10-27 12:40:32,bug,v22.0 wallet freezes on Mac OS Ventura on arm64,question,False,question,False
+bitcoin/bitcoin,2022-10-22 19:29:54,bug,"""system_tests/run_command"" unit test fails on MSVC",bug,True,bug,True
+bitcoin/bitcoin,2022-10-19 17:29:32,bug,bitcoin-qt crashes if it can't listen on the port it wants to,question,False,bug,True
+bitcoin/bitcoin,2022-10-19 15:49:06,bug,doc: Internal bug detected running listtransactions on OP_RETURN output,question,False,question,False
+bitcoin/bitcoin,2022-10-17 09:40:37,bug,Bitcoin failed to build with error MSB3073 on MSVC,question,False,bug,True
+bitcoin/bitcoin,2022-10-14 18:33:15,bug,Intermittent failure in `feature_fee_estimation.py`,bug,True,bug,True
+bitcoin/bitcoin,2022-10-13 14:11:46,bug,Testnet difficulty was reset at height 2350655,bug,True,bug,True
+bitcoin/bitcoin,2022-10-05 18:43:26,bug,test: `minisketch_tests.cpp` can fail when built with MSVC,bug,True,bug,True
+bitcoin/bitcoin,2022-10-02 22:35:21,bug,retry add onion after tor's controller closed connection,question,False,question,False
+bitcoin/bitcoin,2022-09-24 15:30:08,bug,Opening macOS DMG does not open Finder window,bug,True,bug,True
+bitcoin/bitcoin,2022-09-21 10:20:13,bug,fuzz: miniscript_string: ASSERT: constructed[0]->ScriptSize() == script_size ,bug,True,bug,True
+bitcoin/bitcoin,2022-09-15 08:41:19,bug,test: failure in interface_rest.py ,bug,True,bug,True
+bitcoin/bitcoin,2022-09-12 11:28:13,bug,Segmentation fault in the scheduler thread when an index fails to commit to the db,bug,True,bug,True
+bitcoin/bitcoin,2022-09-09 15:10:14,bug,intermittent failure in rpc_invalidateblock.py,bug,True,bug,True
+bitcoin/bitcoin,2022-09-07 07:53:53,bug,test: BDB-only build fails wallet_basic.py,bug,True,bug,True
+bitcoin/bitcoin,2022-09-05 09:11:57,bug,sendall creates tx that fails tx-size mempool check,bug,True,bug,True
+bitcoin/bitcoin,2022-09-02 08:01:00,bug,Stop loading wallet at startup,question,False,question,False
+bitcoin/bitcoin,2022-08-29 19:40:57,bug,Compilation / build failed - Mac 12.4 M1 - ld: unknown option: -soname - make[2]: *** [libbitcoinconsensus.la] Error 1,bug,True,bug,True
+bitcoin/bitcoin,2022-08-25 00:08:08,bug,qt.qpa.xcb: could not connect to display,question,False,bug,True
+bitcoin/bitcoin,2022-08-21 02:16:12,bug,c++ compiler wont make,bug,True,bug,True
+bitcoin/bitcoin,2022-08-13 02:48:34,bug,"Mac OS latest Bitcoin core latest release will not run as Mac OS, ""you can't open the application 'Bitcoin core'""",question,False,question,False
+bitcoin/bitcoin,2022-08-10 21:48:51,bug,1 test fails when running make check (Windows Visual Studio WSL Ubuntu),bug,True,bug,True
+bitcoin/bitcoin,2022-07-30 14:56:44,bug,"pubkey.cpp:368:18: runtime error: implicit conversion from type 'int' of value 256 (32-bit, signed) to type 'unsigned char' changed the value to 0 (8-bit, unsigned)",bug,True,bug,True
+bitcoin/bitcoin,2022-07-29 15:18:04,bug,test: failure in rpc_net.py,bug,True,bug,True
+bitcoin/bitcoin,2022-07-27 21:30:51,bug,"MacOS: `importdescriptors` RPC call very slow with release and source-built binaries, but fast for homebrew binaries",feature,False,feature,False
+bitcoin/bitcoin,2022-07-20 16:58:45,bug,"wallet_backup.py fails with AssertionError: not(50 == 0) [assert_equal(self.nodes[2].getbalance(), 0)]",bug,True,bug,True
+bitcoin/bitcoin,2022-07-18 13:44:26,bug,SUMMARY: ThreadSanitizer: SEGV src/index/base.cpp:388:9 in BaseIndex::SetBestBlockIndex(CBlockIndex const*)::$_1::operator()() const,bug,True,bug,True
+bitcoin/bitcoin,2022-07-06 16:20:08,bug,build failure on M1 (arm64): error: unknown target CPU 'armv8-a+crc+crypto',bug,True,bug,True
+bitcoin/bitcoin,2022-07-03 07:23:10,bug,Build failing on Ubuntu 22.04,question,False,bug,True
+bitcoin/bitcoin,2022-06-29 15:29:50,bug,build: autoconf 2.71 warns that `%.raw.h` was already defined,bug,True,bug,True
+bitcoin/bitcoin,2022-06-22 19:55:23,bug,importdescriptors does not scan the mempool,bug,True,bug,True
+bitcoin/bitcoin,2022-06-13 16:18:46,bug,Mac: app GUI freezes when synchronizing with network,bug,True,bug,True
+bitcoin/bitcoin,2022-05-30 19:20:51,bug,CVE-2021-31876 child transactions do not inherit rbf signaling,feature,False,bug,True
+bitcoin/bitcoin,2022-05-27 13:02:42,bug,nlocktime bug,bug,True,bug,True
+bitcoin/bitcoin,2022-05-20 14:48:19,bug,"""Estimated fee out of range"" intermittent failure in feature_fee_estimation.py",bug,True,bug,True
+bitcoin/bitcoin,2022-05-13 14:54:25,bug,subtractfeefromamount=true fails with insufficient funds,bug,True,bug,True
+bitcoin/bitcoin,2022-05-10 20:15:19,bug,TapLeaf hash is calculated differently from BIP340 reference implementation,question,False,bug,True
+bitcoin/bitcoin,2022-05-06 14:25:41,bug,Fix chain tip data race and corrupt rest response,bug,True,bug,True
+bitcoin/bitcoin,2022-05-03 23:15:14,bug,CI failure in feature_fee_estimation.py,bug,True,bug,True
+bitcoin/bitcoin,2022-05-01 13:30:27,bug,"Node won't serve blocks when connect=0, listen=1 set due to IBD logic",question,False,question,False
+bitcoin/bitcoin,2022-04-29 15:30:33,bug,Intermittent win64 CI failure in feature_index_prune.py,bug,True,bug,True
+bitcoin/bitcoin,2022-04-27 15:36:53,bug,wallet_createwallet.py --legacy-wallet fails on a system with only bdb installed,bug,True,bug,True
+bitcoin/bitcoin,2022-04-25 18:47:54,bug,"`-torcontrol` asks tor to connect to port 0, and tor refuses",bug,True,bug,True
+bitcoin/bitcoin,2022-04-22 19:07:10,bug,Permissions corrupted in gen-sdk macosx headers,bug,True,bug,True
+bitcoin/bitcoin,2022-04-11 18:59:21,bug,Intermittent failure in feature_fee_estimation.py,bug,True,bug,True
+bitcoin/bitcoin,2022-04-08 18:34:41,bug,Crash when creating wallet via bitcoin-cli,bug,True,bug,True
+bitcoin/bitcoin,2022-04-03 02:08:25,bug,Build breaks with ./configure --enable-debug on macosx (apple M1) with clang 13,question,False,question,False
+bitcoin/bitcoin,2022-03-31 18:18:33,bug,Cross-compiled `bitcoind -signet` silently fails on Windows,bug,True,bug,True
+bitcoin/bitcoin,2022-03-23 06:49:45,bug,Build fails on Ubuntu 22.04 with GCC 8.5,bug,True,bug,True
+bitcoin/bitcoin,2022-03-18 22:24:42,bug,ci: failure wallet_send.py --legacy-wallet  ,bug,True,bug,True
+bitcoin/bitcoin,2022-03-16 18:44:23,bug,qa: Intermittent failure in feature_segwit.py --descriptors,bug,True,bug,True
+bitcoin/bitcoin,2022-03-11 16:49:15,bug,Syscall Sandbox Termination,question,False,question,False
+bitcoin/bitcoin,2022-03-06 19:53:52,bug,Automatic wallet rescan skipped after abort,bug,True,bug,True
+bitcoin/bitcoin,2022-03-02 04:42:57,bug,Application Aborted,question,False,bug,True
+bitcoin/bitcoin,2022-02-19 12:46:26,bug,clang-14 ubsan,bug,True,bug,True
+bitcoin/bitcoin,2022-02-19 10:26:21,bug,build: Fail to build `libmultiprocess` for the `x86_64-w64-mingw32` target,bug,True,bug,True
+bitcoin/bitcoin,2022-02-19 09:36:58,bug,build: Fail to build `libmultiprocess` for the `arm-linux-gnueabihf` target,bug,True,bug,True
+bitcoin/bitcoin,2022-02-17 13:49:19,bug,Syscall sandbox fails on Ubuntu 22.04,bug,True,bug,True
+bitcoin/bitcoin,2022-02-14 23:18:12,bug,"Add descriptor_tests covering tr(), and fix minor bugs",feature,False,feature,False
+bitcoin/bitcoin,2022-02-13 05:51:29,bug,"Release process: ""does not appear to be a git repository""",bug,True,bug,True
+bitcoin/bitcoin,2022-02-10 20:45:29,bug,Bionic with system libs doesn't link,bug,True,bug,True
+bitcoin/bitcoin,2022-02-04 13:56:29,bug,Cirrus CI / Win64 doesn't print assert errors from test_bitcoin.exe,feature,False,bug,True
+bitcoin/bitcoin,2022-02-03 21:17:25,bug,`getblocktemplate` returns a standard P2PKH with 0 sigops (testnet),question,False,question,False
+bitcoin/bitcoin,2022-02-02 00:29:37,bug,Invalid SHA256SUMS.asc,bug,True,bug,True
+opencv/opencv,2023-09-28 07:19:24,bug,ci: tests on Ubuntu2004-x64 are automatically cancelled for some reasons after the Ubuntu2004-x64-OpenVINO is added,bug,True,bug,True
+opencv/opencv,2023-09-24 11:13:24,bug,DNN: OpenCL FP16 tests are failed with Einsum layer (2023-09-22),bug,True,bug,True
+opencv/opencv,2023-09-20 03:58:09,bug,dnn onnx: invalid shape dimension and wrong results in test case Test_ONNX_layers.OpenAI_CLIP_head,bug,True,bug,True
+opencv/opencv,2023-09-14 07:04:32,bug,FindOpenBLAS doesn't find OpenBLAS due to incorrect filename,question,False,question,False
+opencv/opencv,2023-09-11 19:02:36,bug,DNN: OpenCL FP16 test is broken (Test_Caffe_nets.FasterRCNN_vgg16) (2023-09-05),bug,True,bug,True
+opencv/opencv,2023-09-09 14:33:44,bug,error C2819: type 'ov::Output<ov::Node>' does not have an overloaded member 'operator ->',bug,True,bug,True
+opencv/opencv,2023-09-08 09:37:51,bug,Check that cv::merge input matrices are not empty,feature,False,feature,False
+opencv/opencv,2023-09-05 22:17:59,bug,fix extendDictionary,feature,False,feature,False
+opencv/opencv,2023-09-05 10:57:18,bug,Incorrect dictionary size returned from cv::aruco::extendDictionary,bug,True,bug,True
+opencv/opencv,2023-09-01 12:46:25,bug,distanceTransform for inputs with large step and height,feature,False,feature,False
+opencv/opencv,2023-08-31 19:00:06,bug,"Fix ""use after free"" issue in `essential_solver.cpp`",bug,True,question,False
+opencv/opencv,2023-08-30 07:35:15,bug,cv::max function in-place operation gets wrong result,bug,True,bug,True
+opencv/opencv,2023-08-28 03:22:52,bug,Fix compilation on arm64 with FP16 when disabled,feature,False,feature,False
+opencv/opencv,2023-08-24 13:54:05,bug,Fix compilation when forcing later C++.,feature,False,feature,False
+opencv/opencv,2023-08-19 11:12:13,bug,Fixed the channels when capturing yuv422 with v4l2 backend,question,False,question,False
+opencv/opencv,2023-08-17 08:40:22,bug,cv::VideoWriter with CAP_OPENCV_MJPEG api creates broken (or just unfinished) video file.,bug,True,bug,True
+opencv/opencv,2023-08-16 19:48:37,bug,add missing include,feature,False,feature,False
+opencv/opencv,2023-08-12 20:31:30,bug,Error in python but not in C++,bug,True,bug,True
+opencv/opencv,2023-08-12 10:03:04,bug,how to use ipp_minMaxIdx?,bug,True,bug,True
+opencv/opencv,2023-08-11 14:02:38,bug,Fixed buffer overrun; removed the last two uses of sprintf,bug,True,question,False
+opencv/opencv,2023-08-11 08:14:32,bug,PYTHON3_PACKAGES_PATH converted to absolute path on first CMake run,bug,True,bug,True
+opencv/opencv,2023-08-10 08:44:03,bug,videoio: fix camera opening with GStreamer plugin,bug,True,question,False
+opencv/opencv,2023-08-08 12:18:35,bug,Fix bug at blobFromImagesWithParams,feature,False,feature,False
+opencv/opencv,2023-08-08 11:20:13,bug,fix charuco checkBoard,feature,False,feature,False
+opencv/opencv,2023-08-07 20:09:16,bug,OCL_FP16 MatMul with large batch,feature,False,feature,False
+opencv/opencv,2023-08-05 09:35:10,bug,DNN: OpenCL FP16 tests are broken (Test_ONNX_layers.MatMul_init_bcast) (2023-08-03),bug,True,bug,True
+opencv/opencv,2023-08-03 15:28:54,bug,Add a test for backends on retrieving intermediate blobs in any order,bug,True,bug,True
+opencv/opencv,2023-08-02 14:31:48,bug,macOS Fullscreen broken,question,False,question,False
+opencv/opencv,2023-08-01 08:35:39,bug,DNN module does not use OpenVINO backend by default,bug,True,question,False
+opencv/opencv,2023-07-29 19:36:04,bug,Inconsistency when using OpenCL,bug,True,bug,True
+opencv/opencv,2023-07-26 22:41:07,bug,Python typing refinement for dnn_registerLayer/dnn_unregisterLayer functions,feature,False,feature,False
+opencv/opencv,2023-07-26 13:52:03,bug,feat: add typing stub for redirectError,feature,False,feature,False
+opencv/opencv,2023-07-25 08:43:12,bug,[Build] popcnt is not supported on windows ARM,bug,True,bug,True
+opencv/opencv,2023-07-21 13:14:22,bug,inference with onnx and opencv gives different results,bug,True,bug,True
+opencv/opencv,2023-07-21 12:08:52,bug,Open CV will not infere more than 2 models when cv::utils::logging::setLogLevel(cv::utils::logging::LOG_LEVEL_VERBOSE); is set,bug,True,bug,True
+opencv/opencv,2023-07-20 22:13:56,bug,Programs that link OpenCV wont start,bug,True,bug,True
+opencv/opencv,2023-07-20 10:00:54,bug,Inconsistent shape for ConcatLayer in function 'cv::dnn::ConcatLayerImpl::getMemoryShapes',bug,True,bug,True
+opencv/opencv,2023-07-19 16:48:38,bug,Fix FLANN python bindings,feature,False,feature,False
+opencv/opencv,2023-07-19 13:43:39,bug,Python typing magic constants,feature,False,feature,False
+opencv/opencv,2023-07-19 08:40:33,bug,Test_Caffe_nets.FasterRCNN_zf fails with ENABLE_FAST_MATH option,bug,True,bug,True
+opencv/opencv,2023-07-19 07:10:24,bug,"Pods/OpenCV2_iOS/opencv2.framework/opencv2(opencl_kernels_calib3d.o), building for iOS Simulator, but linking in object file built for iOS",bug,True,bug,True
+opencv/opencv,2023-07-17 15:11:01,bug,`SkipTestException` is not handled in CUDA tests,bug,True,bug,True
+opencv/opencv,2023-07-14 12:07:43,bug,Issue loading TFLite net,question,False,question,False
+opencv/opencv,2023-07-12 13:54:52,bug,C++ version of OpenCV 4.8 won't load caffe model,bug,True,bug,True
+opencv/opencv,2023-07-11 19:14:09,bug,RISC-V: fix unaligned loads and stores,bug,True,question,False
+opencv/opencv,2023-07-10 11:43:12,bug,fix: recursively re-export nested submodules in typing stubs,bug,True,bug,True
+opencv/opencv,2023-07-08 19:41:31,bug,Python type stubs: `__all__` and `__version__` dunders are missing,bug,True,bug,True
+opencv/opencv,2023-07-07 16:17:23,bug,Python type stubs generator fails on contrib/cudaoptflow module,bug,True,bug,True
+opencv/opencv,2023-07-07 13:44:03,bug,Fix checkSignature not thread safe for AVIF.,feature,False,feature,False
+opencv/opencv,2023-07-06 18:09:49,bug,videoio: fix CAP_IMAGES with non-numbered file,bug,True,question,False
+opencv/opencv,2023-07-05 14:27:00,bug,videoio_dynamic.basic_write sporadically fails on CI,bug,True,bug,True
+opencv/opencv,2023-07-05 11:10:18,bug,Fixed possible out-of-bound access in circles drawing,feature,False,feature,False
+opencv/opencv,2023-07-03 09:46:59,bug,Python typing stub missing matrix type constants like CV_32F,bug,True,bug,True
+opencv/opencv,2023-07-01 14:46:26,bug,Problem of install openCV to openVINO,question,False,question,False
+opencv/opencv,2023-06-28 13:57:29,bug,Possible memory leak in cv::resize in multithread environment,bug,True,question,False
+opencv/opencv,2023-06-28 09:31:58,bug,G-API: Fix async inference for OpenVINO backend,feature,False,feature,False
+opencv/opencv,2023-06-23 13:24:38,bug,dnn: fix overflow in sigmoid layer for 3.4,feature,False,feature,False
+opencv/opencv,2023-06-22 18:54:50,bug,"Float overflow and NaNs in SigmoidLayer (YOLOv5n detection, CPU)",question,False,question,False
+opencv/opencv,2023-06-22 12:17:42,bug,Fix detect diamonds api,feature,False,feature,False
+opencv/opencv,2023-06-21 14:20:23,bug,G-API: fix static build with OpenVINO,bug,True,question,False
+opencv/opencv,2023-06-16 20:41:19,bug,Linux docker SIMD build fails,bug,True,bug,True
+opencv/opencv,2023-06-16 18:52:02,bug,Force mat_wrapper import to satisfy dependencies for MatLike alias,feature,False,feature,False
+opencv/opencv,2023-06-15 17:28:09,bug,fix: typing module enums references,bug,True,bug,True
+opencv/opencv,2023-06-13 07:46:04,bug,Change Scalar assignment in Python from single value,feature,False,feature,False
+opencv/opencv,2023-06-10 20:16:56,bug,Type stubs: Missing the `cv2.error` class,bug,True,bug,True
+opencv/opencv,2023-06-10 19:27:06,bug,Type stubs: `Optional` parameters incorrectly marked as not-None in `cv2.calcHist` and `cv2.resize`,bug,True,bug,True
+opencv/opencv,2023-06-10 18:37:50,bug,Type stubs: cv2.Error is missing ALL_CAPS constants,bug,True,bug,True
+opencv/opencv,2023-06-09 09:49:16,bug,build(ios): disable workaround for CMake 3.25.1+,bug,True,question,False
+opencv/opencv,2023-06-08 00:35:35,bug,DNN: fix bug for X86 winograd,feature,False,feature,False
+opencv/opencv,2023-06-07 12:39:02,bug,Winograd convolution fails with assertion on CPU without AVX,bug,True,bug,True
+opencv/opencv,2023-06-06 07:33:20,bug,Please do not hard-code CMAKE_CXX_STANDARD,feature,False,feature,False
+opencv/opencv,2023-06-05 12:47:03,bug,TopK layer not implemented,bug,True,bug,True
+opencv/opencv,2023-06-04 11:02:26,bug,Unable to compile OpenCV 4.7.0 on Ubuntu 22.04,question,False,question,False
+opencv/opencv,2023-06-02 13:48:02,bug,Fix missuse of try_gpu in stitching/FeatherBlender,feature,False,feature,False
+opencv/opencv,2023-06-02 12:06:13,bug,Torch interpolate's onnx graph fails while parsing,bug,True,bug,True
+opencv/opencv,2023-05-30 17:14:33,bug,Build regression after OpenJPEG upgrade,bug,True,feature,False
+opencv/opencv,2023-05-27 09:24:11,bug,Update setup.py,bug,True,bug,True
+opencv/opencv,2023-05-25 19:33:02,bug,Image must be cloned in text spotting,bug,True,bug,True
+opencv/opencv,2023-05-24 13:18:06,bug,Fixed FPS computation on some videos for FFmpeg backend,feature,False,feature,False
+opencv/opencv,2023-05-22 12:30:43,bug,Added check that YUYV input of cvtColor has even width.,feature,False,feature,False
+opencv/opencv,2023-05-20 20:31:40,bug,Update matchTemplate with mask docstring,feature,False,feature,False
+opencv/opencv,2023-05-18 22:43:07,bug,add charuco board check,feature,False,feature,False
+opencv/opencv,2023-05-17 21:20:31,bug,Proposed solution for issue #23633,feature,False,feature,False
+opencv/opencv,2023-05-17 08:10:21,bug,opencv-python Memory leak caused by failed cvtColor() calls,question,False,question,False
+opencv/opencv,2023-05-15 17:02:38,bug,iOS 4.7.0 release zip file layout changed without version bump,bug,True,bug,True
+opencv/opencv,2023-05-15 15:52:43,bug,remove unused var,feature,False,feature,False
+opencv/opencv,2023-05-14 20:21:53,bug,QRCodeDetector: don't floodFill with outside-of-image seedPoint,feature,False,feature,False
+opencv/opencv,2023-05-10 22:33:42,bug,LSTM layer with `batch_firs=True` fails,bug,True,bug,True
+opencv/opencv,2023-05-08 16:58:42,bug,Crash in net.forward(),bug,True,bug,True
+opencv/opencv,2023-05-01 22:31:37,bug,Reformulated some pointer arithmetic to avoid (unsigned) overflow,feature,False,question,False
+opencv/opencv,2023-04-28 09:35:07,bug,DNN/CUDA: Solve the bug of same shape broadcast with CUDA,bug,True,bug,True
+opencv/opencv,2023-04-28 06:22:31,bug,fix nary elementwise bug in cpu,bug,True,bug,True
+opencv/opencv,2023-04-28 00:34:05,bug,don't ignore documentation for cv::format in doxygen,feature,False,feature,False
+opencv/opencv,2023-04-25 05:27:28,bug,`VideoCapture`: fix opencv/contrib/#3474,feature,False,feature,False
+opencv/opencv,2023-04-20 02:58:57,bug,Can't infer a dim denoted by -1 in function 'cv::dnn::computeShapeByReshapeMask',bug,True,bug,True
+opencv/opencv,2023-04-19 16:01:17,bug,CharucoDetector::detectBoard returns garbadge in case of board parameters mismatch,bug,True,bug,True
+opencv/opencv,2023-04-19 12:04:18,bug,DNN: try to fix the sporadic crashes in perf_dnn,feature,False,feature,False
+opencv/opencv,2023-04-17 18:56:11,bug,more sprintf removals,feature,False,feature,False
+opencv/opencv,2023-04-14 12:52:32,bug,cv2.aruco.calibrateCameraCharuco does not exist,bug,True,bug,True
+opencv/opencv,2023-04-09 12:35:59,bug,Fix ONNX parser for single-layer LSTM hidden and cell states,feature,False,feature,False
+opencv/opencv,2023-09-23 14:01:14,question,Allow find_package(OpenCV) in CMake to return paths without versions on Linux,feature,False,question,True
+opencv/opencv,2023-09-19 02:03:14,question,Installing opencv by conda makes pytorch CUDA not available,question,True,question,True
+opencv/opencv,2023-09-18 09:55:52,question,"bug, the video is being displayed accelerated",bug,False,bug,False
+opencv/opencv,2023-09-11 09:50:20,question,resize() function interface ,bug,False,bug,False
+opencv/opencv,2023-09-06 06:59:31,question,About installing Mediapipe,question,True,question,True
+opencv/opencv,2023-08-27 21:14:53,question,"Undefined symbols for architecture arm64:   ""cv::DISOpticalFlow::create(int)"", referenced from: ...",question,True,question,True
+opencv/opencv,2023-07-19 07:58:04,question,"Pods/OpenCV2_iOS/opencv2.framework/opencv2(opencl_kernels_calib3d.o), building for iOS Simulator, but linking in object file built for iOS",question,True,question,True
+opencv/opencv,2023-07-11 01:20:51,question,Segmentation fault in cv::imwrite,bug,False,bug,False
+opencv/opencv,2023-07-04 20:12:34,question,"Unknown CMake command ""ocv_add_application""",question,True,question,True
+opencv/opencv,2023-06-24 14:58:36,question,"How to feed mat of 6*224*224,CV_32FC(6) into cvdnn?",question,True,question,True
+opencv/opencv,2023-06-22 11:09:28,question,CV2 videowriter generated video fail to display in html code and broswer,question,True,question,True
+opencv/opencv,2023-06-09 15:11:17,question,RotatedRect.GetVertices() sometimes gives wrong vertices,bug,False,bug,False
+opencv/opencv,2023-05-31 08:45:54,question,"Rebuild the library with Windows, GTK+ 2.x or Cocoa support",question,True,question,True
+opencv/opencv,2023-05-23 10:03:44,question,stitching images ,feature,False,feature,False
+opencv/opencv,2023-05-21 19:39:31,question,Mat pointsMat = Mat(points).reshape(1);And pointsMat.u == nullptr,question,True,question,True
+opencv/opencv,2023-05-18 09:45:53,question,ANN_MLP - large dataset results in stack overflow and other errors,bug,False,bug,False
+opencv/opencv,2023-05-05 08:20:58,question,Error LNK2001 unresolved external symbol ,question,True,bug,False
+opencv/opencv,2023-04-20 08:15:20,question,undefined reference to `pow@GLIBC_2.29' at arm64,question,True,question,True
+opencv/opencv,2023-04-05 08:34:59,question,OpenCV build - cmake don't recognize GTK2 or GTK3,question,True,question,True
+opencv/opencv,2023-03-17 17:40:15,question,Can't import cv2 : DLL is missing and so on,question,True,question,True
+opencv/opencv,2023-03-08 13:50:04,question,Need help to find the correct parameters for AMD Optimizing CPU Libraries,question,True,question,True
+opencv/opencv,2023-03-02 06:15:04,question,How to cross compile the harmonyos opencv？,question,True,question,True
+opencv/opencv,2023-02-11 10:09:14,question,error: ‘phase_unwrapping’ in namespace ‘cv’ does not name a type,question,True,question,True
+opencv/opencv,2023-02-04 18:20:42,question,OpenCV 4.7 cuda 12.0 VS 22 lnk2019 error,bug,False,bug,False
+opencv/opencv,2023-01-31 14:38:46,question,cv2 returns black image,bug,False,bug,False
+opencv/opencv,2023-01-26 19:19:37,question,OpenCv erosion-function affecting not only edges,question,True,question,True
+opencv/opencv,2023-01-20 07:46:58,question,Frequent use of cmake_install_prefix and cmake_binary_dir will cause very serious errors ,bug,False,bug,False
+opencv/opencv,2023-01-06 08:09:40,question,error: ‘GaussianBlur’ is not a member of ‘cv::cuda’,bug,False,bug,False
+opencv/opencv,2023-01-03 14:31:21,question,YoloV7 produces different results for opencv-python==4.6.0 and onnxruntime-gpu==1.10.0,question,True,question,True
+opencv/opencv,2022-12-30 10:01:21,question,Open the camera always hangs up,bug,False,bug,False
+opencv/opencv,2022-12-28 09:41:30,question,How to print login statment ,question,True,question,True
+opencv/opencv,2022-12-25 03:05:43,question,I build static opencv still get undefined errors,question,True,question,True
+opencv/opencv,2022-12-22 10:24:20,question,"Can not save video format as "".mp4"".",question,True,question,True
+opencv/opencv,2022-12-21 02:37:23,question,Null pointer (NULL window: 'Tracker') in cvGetModeWindow_W32？,bug,False,bug,False
+opencv/opencv,2022-12-17 06:56:16,question,cv2 does not detect and decode QR-code,question,True,question,True
+opencv/opencv,2022-12-05 06:49:46,question,OpenCV C++ Sample Error,question,True,question,True
+opencv/opencv,2022-11-25 05:05:22,question,OpenCV 3.4.8 cannot build,bug,False,bug,False
+opencv/opencv,2022-11-16 09:17:30,question,/opencv/modules/dnn/src/dnn.cpp (1447) : setUpNet DNN module was not built with CUDA backend; switching to CPU,question,True,question,True
+opencv/opencv,2022-11-12 10:20:51,question,Cannot open BigTiff file,question,True,question,True
+opencv/opencv,2022-11-09 02:52:26,question,resize source code,question,True,question,True
+opencv/opencv,2022-11-03 16:02:27,question,videowriter libraryLoad load opencv_videoio_ffmpeg460_64d.dll,question,True,question,True
+opencv/opencv,2022-10-27 09:35:09,question,about like opencv_videoio_ffmpeg450_64.dll for ubuntu,feature,False,question,True
+opencv/opencv,2022-10-21 05:57:16,question,opencv DNN build error,bug,False,bug,False
+opencv/opencv,2022-10-19 18:09:04,question,Import module error !!!,bug,False,question,True
+opencv/opencv,2022-10-16 18:17:38,question,Linking issues with cv::,bug,False,bug,False
+opencv/opencv,2022-10-06 07:50:43,question,cv2.error: OpenCV(4.6.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:816: error: (-215:Assertion failed) !buf.empty() in function 'imdecode_',bug,False,bug,False
+opencv/opencv,2022-09-23 07:55:32,question,"face example error  error: undefined reference to `cv::FaceDetectorYN::create(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, ",question,True,question,True
+opencv/opencv,2022-09-21 02:07:13,question,What are the requirements for the VideoCapture URL?,feature,False,question,True
+opencv/opencv,2022-09-11 18:00:43,question,mAP score,question,True,question,True
+opencv/opencv,2022-09-08 19:37:59,question,Unable to build iOS framework for OpenCV 3.4.5,question,True,question,True
+opencv/opencv,2022-08-31 03:57:30,question,Problem with OpenCV and Jupyterhub,question,True,question,True
+opencv/opencv,2022-08-27 05:43:31,question,Why the method be finished?,question,True,question,True
+opencv/opencv,2022-08-23 07:25:00,question,Error: Assertion failed (elemSize() == sizeof(_Tp)) in cv::Mat::at ,question,True,question,True
+opencv/opencv,2022-08-16 19:31:10,question,Choosing `patternSize` parameter in `findChessboardCorners`,question,True,question,True
+opencv/opencv,2022-08-15 07:58:47,question,Is opencv.js supports dft and dct  now?,bug,False,bug,False
+opencv/opencv,2022-08-06 06:03:44,question,Input size not specified in function 'processFrame',question,True,question,True
+opencv/opencv,2022-07-29 03:07:27,question,How to understand the function FastX::calcFeatureMap in chessboard.cpp,question,True,question,True
+opencv/opencv,2022-07-25 08:19:17,question,"Parse error.  Expected a command name, got unquoted argument with text   ""|"".",question,True,question,True
+opencv/opencv,2022-07-18 22:07:10,question,Error: Null pointer (NULL window: 'Test Program') in cvGetPropWindowAutoSize_W32,question,True,question,True
+opencv/opencv,2022-07-10 01:27:37,question,Why don't rectangle box in opencv4.6?,question,True,question,True
+opencv/opencv,2022-06-28 05:34:32,question,<class 'cv2.VideoCapture'> returned a result with an error set and my camera and videos can not be read,question,True,question,True
+opencv/opencv,2022-06-24 11:38:57,question,Where are the build instructions for opencv 4.6,question,True,question,True
+opencv/opencv,2022-06-21 15:02:34,question,"cv::norm(...,...,cv::NORM_L2SQR) is 10x slower than calling cv::normL2Sqr(...)",question,True,question,True
+opencv/opencv,2022-06-14 11:13:13,question,!(roi & image_roi).empty() in function error ,bug,False,question,True
+opencv/opencv,2022-06-09 12:51:55,question,No codec available in Video I/O.,question,True,question,True
+opencv/opencv,2022-06-07 12:07:59,question,Cannot choose which qt to use,question,True,question,True
+opencv/opencv,2022-06-02 06:11:03,question,how can i put opencv-tracker in yolov5?,question,True,question,True
+opencv/opencv,2022-05-19 01:45:50,question,TypeError: imwrite() takes 2 positional arguments but 3 were given,question,True,question,True
+opencv/opencv,2022-05-17 02:53:44,question,"when i use libopencv_java3.so in android projetc,and run Android 7.0 phone，Phone crashes automatically after 25 seconds",question,True,question,True
+opencv/opencv,2022-05-14 16:12:17,question,"USB设备：不能打开设备，请检查设备是否安装。x:0,y:0",question,True,question,True
+opencv/opencv,2022-05-08 16:13:10,question,opencv,question,True,question,True
+opencv/opencv,2022-05-07 05:36:32,question,how to convert a cv::Mat to ffmpeg AVFrame?,question,True,question,True
+opencv/opencv,2022-05-03 14:10:45,question,How to remove distortion in opencv.js,question,True,question,True
+opencv/opencv,2022-04-23 15:20:08,question,Multiple values appear when binary images are imwrite as JPG,bug,False,bug,False
+opencv/opencv,2022-04-20 12:11:28,question,[ 14%] Built target opencv_cudaarithm make: *** [Makefile:166: all] Error 2  in ubantu20.4  cuda 11.2 cudnn 8.2.1,question,True,question,True
+opencv/opencv,2022-04-14 09:12:11,question,"What is the difference between ""import cv2"" and ""import cv2.cv2""",question,True,question,True
+opencv/opencv,2022-04-13 20:00:00,question,Python Warped prespective ,question,True,question,True
+opencv/opencv,2022-04-11 02:55:58,question,libopencv_core.a(matrix.cpp.o) is referenced by DSO?,question,True,question,True
+opencv/opencv,2022-04-04 10:34:20,question,How to contriube opencv if the algorithm needs gram-shmidt process?,question,True,question,True
+opencv/opencv,2022-04-01 23:52:25,question,videocapture hardware acceleration seem not working,question,True,question,True
+opencv/opencv,2022-03-31 02:27:06,question, error: cannot declare variable ‘dflow’ to be of abstract type ‘cv::cuda::FarnebackOpticalFlow’      cv::cuda::FarnebackOpticalFlow dflow;,bug,False,question,True
+opencv/opencv,2022-03-24 18:29:40,question,Building opencv.js,bug,False,question,True
+opencv/opencv,2022-03-17 18:11:44,question,cv::dnn::DNN_BACKEND_CUDA is not supporting error.,question,True,question,True
+opencv/opencv,2022-03-17 06:55:53,question,build opencv for ios in mac,question,True,question,True
+opencv/opencv,2022-03-15 14:12:12,question,setMouseCallback gives Null Pointer error in opencv 4.5.3 and later versions,question,True,question,True
+opencv/opencv,2022-03-12 13:14:20,question,"Building OpenCV on Windows with VS, OpenGL, GStreamer: Missing libraries in project files",question,True,question,True
+opencv/opencv,2022-03-07 09:59:40,question,CAP_PROP_POS_MSEC to frame_number,question,True,question,True
+opencv/opencv,2022-03-03 21:24:54,question,OpenCV 4.5.5 not building with OpenVINO-Toolkit 2021.4.2,question,True,question,True
+opencv/opencv,2022-03-02 14:11:27,question,cv::VideoCapture  set cv::CAP_PROP_FPS is not working,question,True,question,True
+opencv/opencv,2022-02-22 07:03:40,question,Does support torch.matmul?,question,True,question,True
+opencv/opencv,2022-02-15 15:39:00,question,Issue using functions from opencv shared libraries cross compiled for android,question,True,question,True
+opencv/opencv,2022-02-09 04:54:27,question,Issue linking OpenCV's Shared library with Android.mk,question,True,question,True
+opencv/opencv,2022-02-01 20:08:21,question,OpenCV CUDA gives low FPS,question,True,question,True
+opencv/opencv,2022-01-26 03:41:00,question,cv2.error: OpenCV(4.5.4-pre) /home/pi/opencv/modules/core/src/persistence.cpp:682: error: (-5:Bad argument) Input file is invalid in function 'open',question,True,question,True
+opencv/opencv,2022-01-24 03:26:21,question,include gapi always equires openvino dll?,question,True,question,True
+opencv/opencv,2022-01-14 10:08:24,question,Videoio Capgstreamer introducing 0.5-1.0 s latecy,question,True,question,True
+opencv/opencv,2022-01-14 02:35:01,question,Please ask how to solve this problem,question,True,question,True
+opencv/opencv,2022-01-13 02:00:48,question,Status -66: CL_INVALID_COMPILER_OPTIONS -cl-no-subgroup-ifp -D AMD_DEVICE,question,True,question,True
+opencv/opencv,2022-01-06 18:03:39,question,CMake configuration fails for building OpenCV 4.5.5 with ONNX,question,True,question,True
+opencv/opencv,2022-01-05 09:19:59,question,"bug compiling opencv-4.5.5 on raspios_bullseye64 with ""/usr/ include/c++/10/complex""",question,True,question,True
+opencv/opencv,2023-09-09 03:35:34,feature,JavaScript: include LUT support,question,False,question,False
+opencv/opencv,2023-08-15 09:17:43,feature,Get Mat in a blob,feature,True,feature,True
+opencv/opencv,2023-07-26 11:52:21,feature,G-API: Support CUDA & TensoRT Execution Providers for ONNXRT Backend,feature,True,feature,True
+opencv/opencv,2023-07-19 14:22:37,feature,G-API: Support OpenVINO Execution Provider for ONNXRT Backend,feature,True,feature,True
+opencv/opencv,2023-07-11 07:51:43,feature,core: add broadcast,feature,True,feature,True
+opencv/opencv,2023-07-01 17:18:55,feature,License for CNN models of wechat_qrcode ? ,feature,True,feature,True
+opencv/opencv,2023-06-20 10:23:15,feature,How to use opencv to erase text from images and restore the background,question,False,question,False
+opencv/opencv,2023-06-14 11:25:35,feature,Consider half pixel mode in ONNX resize,bug,False,bug,False
+opencv/opencv,2023-06-10 19:07:48,feature,Type stubs: Make `cv2.typing` type aliases comments actual docstrings,feature,True,feature,True
+opencv/opencv,2023-06-07 11:46:46,feature,Check type in blobFromImages and blobFromImagesWithParams,feature,True,feature,True
+opencv/opencv,2023-06-05 00:55:17,feature,"Do you have any plans to add a generic pre-trained model to OpenCV, just like using a DNN pre-trained model?",feature,True,feature,True
+opencv/opencv,2023-05-26 10:41:43,feature,Import and export np.float16 in Python,feature,True,feature,True
+opencv/opencv,2023-05-17 14:24:16,feature,SoftmaxInt8 is implemented but ONNX importer does not parse QLinearSoftmax,feature,True,feature,True
+opencv/opencv,2023-05-15 11:19:53,feature,LSTM ONNX Layout Attribute Support ,feature,True,feature,True
+opencv/opencv,2023-05-11 07:28:52,feature,Build DNN without Protobuf,feature,True,feature,True
+opencv/opencv,2023-05-09 12:52:44,feature,[G-API] Implement OpenVINO 2.0 backend,feature,True,feature,True
+opencv/opencv,2023-04-19 14:51:39,feature,OpenCV DNN poor performance on Web,question,False,question,False
+opencv/opencv,2023-04-10 09:56:28,feature,[G-API] Handle meta from multiple inputs in IE backend,feature,True,feature,True
+opencv/opencv,2023-04-06 06:14:53,feature,Cannot load yolov8n-pose ONNX model,feature,True,feature,True
+opencv/opencv,2023-03-29 13:16:37,feature,imgcodecs: tiff: Support to encode for CV_32S with compression params,feature,True,feature,True
+opencv/opencv,2023-03-24 10:48:01,feature,dnn: Support more operators in CANN backend,feature,True,feature,True
+opencv/opencv,2023-03-20 15:13:31,feature,Load Image in tutorials,feature,True,feature,True
+opencv/opencv,2023-02-24 14:51:05,feature,Support VideoCapture CAP_PROP_AUTO_WB and CV_CAP_PROP_WHITE_BALANCE_BLUE_U for DShow,feature,True,feature,True
+opencv/opencv,2023-02-18 22:23:53,feature,"Added QR_Code data flip support, flip and retry after first ECC failure",feature,True,feature,True
+opencv/opencv,2023-02-17 01:31:03,feature,Add detect qr with aruco,feature,True,feature,True
+opencv/opencv,2023-02-10 09:51:43,feature,Proposal: Delay load option for OpenCV modules?,feature,True,feature,True
+opencv/opencv,2023-02-04 16:15:04,feature,Add GELU layer for vision transformers,feature,True,feature,True
+opencv/opencv,2023-01-30 13:26:05,feature,added argument to print notice in `roiSelector.cpp`,feature,True,feature,True
+opencv/opencv,2023-01-23 13:44:39,feature,Adding HEVC/H265 FourCC support to MSMF video writer,feature,True,feature,True
+opencv/opencv,2023-01-19 11:28:30,feature,ChArUco pre460 pattern support,feature,True,feature,True
+opencv/opencv,2023-01-16 02:02:24,feature,Draw Multiple Boxes in one shot,feature,True,feature,True
+opencv/opencv,2023-01-07 14:39:37,feature,"Python bindings: Overload resolution failed, ""data type = 17"", should be called out as numpy array of `dtype=object`",feature,True,feature,True
+opencv/opencv,2023-01-02 17:21:31,feature,Update USAC,feature,True,feature,True
+opencv/opencv,2022-12-28 05:52:48,feature,dnn: add layer normalization for vision transformers,feature,True,feature,True
+opencv/opencv,2022-12-14 08:24:53,feature,Switch to new OpenVINO API after 2022.1 release,feature,True,feature,True
+opencv/opencv,2022-12-12 10:38:30,feature,added cv::hasNonZero(),feature,True,feature,True
+opencv/opencv,2022-12-07 13:41:02,feature,Support one-time audio video reading,feature,True,question,False
+opencv/opencv,2022-12-05 09:14:35,feature,Timeouts support for GStreamer backend,feature,True,feature,True
+opencv/opencv,2022-11-30 22:58:03,feature,videoio/FFmpeg: added CV_16UC1 read/write support,feature,True,feature,True
+opencv/opencv,2022-11-27 09:37:48,feature,DNN: let MatMul can work when both two inputs are const,feature,True,feature,True
+opencv/opencv,2022-11-27 00:37:10,feature,Support ffmpeg command line syntax with FFMPEG backend,feature,True,feature,True
+opencv/opencv,2022-11-24 02:23:02,feature,dnn: add batched nms,feature,True,feature,True
+opencv/opencv,2022-11-22 23:06:28,feature,Feature request within USAC framework: allow setting PolishingMethod to NonePolisher,feature,True,feature,True
+opencv/opencv,2022-11-18 03:47:37,feature,"can opencv support to push video streams to video server, like rtsp/rtmp... ?",feature,True,feature,True
+opencv/opencv,2022-11-17 01:45:00,feature,Is it possible to pass in multiple conf_thres in cv::dnn::NMSBoxes？,feature,True,feature,True
+opencv/opencv,2022-11-15 06:34:12,feature,dnn: support ONNX Tile,feature,True,feature,True
+opencv/opencv,2022-11-11 12:23:42,feature,OpenCV cannot import ONNX model: step >= 1 in function 'cv::dnn::SliceLayerImpl::SliceLayerImpl',bug,False,bug,False
+opencv/opencv,2022-11-10 14:03:56,feature,OpenEXR encoder: add capability to set the DWA compression level,feature,True,feature,True
+opencv/opencv,2022-11-10 10:57:12,feature,opencv dnn net = cv2.dnn.readNetFromONNX(w),bug,False,bug,False
+opencv/opencv,2022-11-07 08:11:17,feature,NPnP solver,feature,True,feature,True
+opencv/opencv,2022-11-04 02:56:26,feature,DNN: Add New API blobFromImageParam,feature,True,feature,True
+opencv/opencv,2022-11-01 07:55:16,feature,G-API Expose all imgproc operations to python,feature,True,feature,True
+opencv/opencv,2022-10-27 00:41:29,feature,Introduce libavdevice to make v4l2 available to the ffmpeg backend,feature,True,feature,True
+opencv/opencv,2022-10-26 21:57:42,feature,log a debug message if a capture backend is generally available but isn't capabable of either capture by index or capture by filename,feature,True,feature,True
+opencv/opencv,2022-10-13 09:36:02,feature,dnn: add the CANN backend,feature,True,feature,True
+opencv/opencv,2022-10-08 06:47:08,feature,DNN: need support of the GreaterOrEqual operator from ONNX,feature,True,feature,True
+opencv/opencv,2022-09-27 04:29:37,feature,DNN: add enableWinograd API for Net,feature,True,feature,True
+opencv/opencv,2022-09-23 13:23:08,feature,Enable issue template chooser,feature,True,feature,True
+opencv/opencv,2022-09-15 11:44:17,feature,Stereo Calibration: Return rotation and transformation vectors for each calibration object,feature,True,feature,True
+opencv/opencv,2022-09-12 14:19:38,feature,Extracted matches_confindece_thresh as stitching matcher parameter.,feature,True,feature,True
+opencv/opencv,2022-09-11 21:44:24,feature,ffmpeg/4.x: update FFmpeg wrapper 2022.09,feature,True,feature,True
+opencv/opencv,2022-09-09 14:40:17,feature,Android Video Writter support for H264 / H265,question,False,question,False
+opencv/opencv,2022-08-30 20:57:27,feature,G-API: Introduce abstract base classes for GExecutor and GStreamingExecutor,feature,True,feature,True
+opencv/opencv,2022-08-26 08:09:17,feature,tiff support 4-bit palette,feature,True,feature,True
+opencv/opencv,2022-08-21 19:20:57,feature,darknet_io.cpp:250: error: (-212:Parsing error) Unsupported activation: silu in function 'setActivation',question,False,bug,False
+opencv/opencv,2022-08-10 11:58:44,feature,Remove asymmetric padding in Conv layer since it is supported in CPU backend,feature,True,feature,True
+opencv/opencv,2022-08-06 07:01:47,feature,Changes separated from Mat 1D support in core #18594,feature,True,feature,True
+opencv/opencv,2022-07-20 02:26:59,feature,DNN: FP16 support on Convolution 2D,bug,False,question,False
+opencv/opencv,2022-07-14 10:13:52,feature,Unable to load model ONNX 4.5.5 or 4.6.0,question,False,bug,False
+opencv/opencv,2022-07-10 21:12:30,feature,[GSoC 2022] spng encoder/decoder added as optional png codec,feature,True,feature,True
+opencv/opencv,2022-07-06 06:28:06,feature,Yolov4-csp inference on opencv 4.6.0 provides different results to native darknet inference.,question,False,question,False
+opencv/opencv,2022-07-01 01:05:25,feature,[GSoC] New universal intrinsic backend for RVV,feature,True,feature,True
+opencv/opencv,2022-06-27 07:58:24,feature,V4l2 multi planar,feature,True,feature,True
+opencv/opencv,2022-06-22 12:10:01,feature,Add symmetric circles board support to interactive calibration app,feature,True,feature,True
+opencv/opencv,2022-06-20 13:43:00,feature,Add option to force reopen camera in interactive calibration tool,feature,True,feature,True
+opencv/opencv,2022-06-14 15:34:25,feature,"Fix issue 22015, let Clip layer support 1-3 inputs",feature,True,feature,True
+opencv/opencv,2022-06-03 18:02:11,feature,apps/opencv_visualisation: configurable video codec,feature,True,feature,True
+opencv/opencv,2022-05-29 22:14:37,feature,[request] New parameter to imwrite JPEG to disable chroma subsampling,question,False,question,False
+opencv/opencv,2022-05-20 12:25:09,feature,Add python bindings for G-API onnx,feature,True,feature,True
+opencv/opencv,2022-05-16 11:02:29,feature,Support asymmetric paddings for QConv in ONNX,feature,True,feature,True
+opencv/opencv,2022-05-08 21:07:01,feature,imgproc: optimise local cost computation in IntelligentScissorsMB::buildMap,feature,True,feature,True
+opencv/opencv,2022-04-29 17:41:41,feature,Add undistortImagePoints function,feature,True,feature,True
+opencv/opencv,2022-04-12 23:36:02,feature,"to extract frame type (I, P, B) info for better post-process without ffmpeg/ffprobe",question,False,question,False
+opencv/opencv,2022-04-05 17:42:17,feature,Python bindings for VideoCapture::waitAny,feature,True,feature,True
+opencv/opencv,2022-03-29 08:56:24,feature, G-API: VPL Source turn on Linux CPU version,feature,True,feature,True
+opencv/opencv,2022-03-18 07:04:06,feature,dnn: add plugin support for OpenVINO,feature,True,feature,True
+opencv/opencv,2022-03-17 07:40:25,feature,Android: don't require deprecated tools,feature,True,feature,True
+opencv/opencv,2022-03-08 15:59:34,feature,Add 10-12-14bit (integer) TIFF decoding support,feature,True,feature,True
+opencv/opencv,2022-03-06 03:40:12,feature,add apply softmax option to ClassificationModel,feature,True,feature,True
+opencv/opencv,2022-03-05 07:58:42,feature,G-API: Add VPP preproc CPU/GPU dispatcher,feature,True,feature,True
+opencv/opencv,2022-02-28 15:20:45,feature,Error while loading yolor_p6.onnx: expand op doesn't support multiple axes for constant input,question,False,question,False
+opencv/opencv,2022-02-14 09:12:14,feature,DNN: add depth2space and space2depth layer for onnx importer,feature,True,feature,True
+opencv/opencv,2022-01-29 13:47:06,feature,Fallback to vaCreateImage + vaPutImage when vaDeriveImage fails,feature,True,feature,True
+opencv/opencv,2022-01-28 08:42:28,feature,Support downloading 3rdparty resources from Gitcode & Gitlab-style mirrors,feature,True,feature,True
+opencv/opencv,2022-01-26 09:00:19,feature,Add resize layer compatible with ONNX opset13 version,feature,True,feature,True
+opencv/opencv,2022-01-22 11:52:21,feature,Task: GCC 12 support,bug,False,question,False
+opencv/opencv,2022-01-16 19:27:55,feature,AudioIO: add dnn speech recognition sample on C++,feature,True,feature,True
+opencv/opencv,2022-01-14 22:05:58,feature,Use modern OpenVINO package interface,feature,True,feature,True
+opencv/opencv,2022-01-12 09:14:41,feature,TiffEncoder write support more depth type,feature,True,feature,True
+opencv/opencv,2022-01-06 11:01:32,feature,"tiff need check TIFFTAG_SAMPLEFORMAT, should not always use unsigned.",feature,True,feature,True
